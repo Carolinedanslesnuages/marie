@@ -1,0 +1,8 @@
+[
+  { "id": "decouverte", "label": "Découverte" },
+  { "id": "invention", "label": "Invention" },
+  { "id": "publication", "label": "Publication" },
+  { "id": "enseignement", "label": "Enseignement" },
+  { "id": "reconnaissance", "label": "Reconnaissance" },
+  { "id": "obstacle", "label": "Obstacle" }
+]

@@ -1,0 +1,48 @@
+{
+  "name": "Katalin Karikó",
+  "birth": "1955",
+  "death": "",
+  "country": "Hongrie et États-Unis",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-01-01",
+  "summary": "Elle a trouvé comment modifier l'ARN messager pour en faire des vaccins.",
+  "notes": [
+    "Katalin Karikó naît en 1955 à Szolnok, en Hongrie. En 1989, elle devient professeure assistante à l'Université de Pennsylvanie, aux États-Unis. Elle y reste jusqu'en 2013, puis rejoint l'entreprise BioNTech.",
+    "Elle travaille sur l'ARN messager, ou ARNm. C'est une copie de travail d'un gène : un mode d'emploi que la cellule lit pour fabriquer une protéine. L'idée est tentante : injecter un ARNm pour que nos cellules fabriquent elles-mêmes une protéine utile. Problème : le corps prend cet ARNm pour un intrus et déclenche une inflammation.",
+    "En 2005, avec Drew Weissman, elle montre dans la revue Immunity qu'en modifiant une seule « lettre » de l'ARNm, on évite cette réaction. En 2008 et 2010, ils montrent que ces modifications font aussi produire beaucoup plus de protéine.",
+    "En 2023, elle reçoit le prix Nobel. Entre-temps, les vaccins à ARNm contre la Covid-19 ont été autorisés, en décembre 2020. Ils offraient environ 95 % de protection."
+  ],
+  "actions": [
+    {
+      "date": "1989",
+      "theme": "enseignement",
+      "text": "Professeure assistante à l'Université de Pennsylvanie, où elle reste jusqu'en 2013."
+    },
+    {
+      "date": "2005",
+      "theme": "publication",
+      "text": "Avec Drew Weissman, elle montre dans Immunity qu'en modifiant une « lettre » de l'ARNm on évite la réaction inflammatoire."
+    },
+    {
+      "date": "2008",
+      "theme": "decouverte",
+      "text": "Avec Weissman, elle montre que ces modifications augmentent fortement la production de protéines (résultats de 2008 et 2010)."
+    },
+    {
+      "date": "2023",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physiologie ou médecine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Communiqué de presse, prix Nobel de physiologie ou médecine 2023 (Prix Nobel)",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/press-release/"
+    },
+    {
+      "title": "Katalin Karikó, faits (Prix Nobel)",
+      "url": "https://www.nobelprize.org/prizes/medicine/2023/kariko/facts/"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  { "id": "mathematiques", "label": "Mathématiques" },
+  { "id": "informatique", "label": "Informatique" },
+  { "id": "physique", "label": "Physique" },
+  { "id": "astronomie", "label": "Astronomie" },
+  { "id": "chimie", "label": "Chimie" },
+  { "id": "terre-climat", "label": "Terre, océans, climat" },
+  { "id": "medecine", "label": "Médecine" },
+  { "id": "biologie", "label": "Biologie" },
+  { "id": "ingenierie", "label": "Ingénierie, inventions" }
+]
