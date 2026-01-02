@@ -1,0 +1,47 @@
+{
+  "name": "Grace Murray Hopper",
+  "birth": "1906",
+  "death": "1992",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "informatique",
+  "published": "2026-01-02",
+  "summary": "Elle a voulu que l'on programme les ordinateurs avec des mots proches de l'anglais, ce qui a mené au langage COBOL.",
+  "notes": [
+    "Grace Murray Hopper veut rendre les ordinateurs plus faciles à programmer. À son époque, il faut leur parler dans leur propre langage, une suite de codes que peu de gens maîtrisent.",
+    "En 1952, son équipe termine l'A-0. On le présente souvent comme le premier compilateur, c'est-à-dire un programme qui traduit des instructions écrites par un humain en code pour la machine. Le titre est discuté : certains historiens y voient plutôt un outil qui assemble des morceaux de programme, et réservent le mot « compilateur » à des outils plus tardifs.",
+    "Elle va plus loin avec FLOW-MATIC, puis COBOL, à la fin des années 1950. Ces langages ressemblent à de l'anglais, pour que les entreprises puissent écrire leurs propres programmes.",
+    "Elle mène aussi une longue carrière dans la Marine américaine, de 1943 à 1986. La Marine la rappelle en service actif pour standardiser COBOL. De 1967 à 1977, elle dirige son groupe chargé des langages de programmation. Elle la quitte avec le grade de contre-amirale."
+  ],
+  "actions": [
+    {
+      "date": "1952",
+      "theme": "invention",
+      "text": "Son équipe termine l'A-0, souvent présenté comme le premier compilateur (titre discuté par les historiens)."
+    },
+    {
+      "date": "1967",
+      "theme": "enseignement",
+      "text": "Elle prend la tête du Navy Programming Languages Group, qu'elle dirige jusqu'en 1977."
+    },
+    {
+      "date": "1986",
+      "theme": "reconnaissance",
+      "text": "Elle quitte la Marine avec le grade de contre-amirale, après une carrière commencée en 1943."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Grace Murray Hopper (1906-1992) : un héritage d'innovation et de service (Yale News)",
+      "url": "https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service"
+    },
+    {
+      "title": "Biographie de Grace Murray Hopper (Présidence de l'université Yale)",
+      "url": "https://president.yale.edu/biography-grace-murray-hopper"
+    },
+    {
+      "title": "Grace Hopper (Lemelson-MIT)",
+      "url": "https://lemelson.mit.edu/resources/grace-hopper"
+    }
+  ]
+}
