@@ -1,0 +1,58 @@
+{
+  "name": "Rose Dieng-Kuntz",
+  "birth": "1956",
+  "death": "2008",
+  "country": "Sénégal et France",
+  "region": "afrique",
+  "field": "informatique",
+  "published": "2026-01-04",
+  "summary": "Première Africaine admise à l'École polytechnique, elle a dirigé à l'Inria des recherches pionnières en intelligence artificielle, en gestion des connaissances et sur le web sémantique.",
+  "notes": [
+    "Rose Dieng naît en 1956 à Dakar, au Sénégal, dans une famille de sept enfants. Au lycée Van Vollenhoven, elle remporte tous les premiers prix. Elle rêve d'être écrivaine, mais son professeur de physique la convainc de choisir les sciences.",
+    "Après deux ans de classes préparatoires au lycée Fénelon, à Paris, elle entre en 1976 à l'École polytechnique : c'est la première Africaine admise dans cette école. Elle sort ensuite diplômée de Télécom Paris en 1980, puis prépare une thèse en informatique sur la spécification du parallélisme, c'est-à-dire la façon de décrire des calculs qui se déroulent en même temps.",
+    "Après un passage chez Digital Equipment, elle entre en 1985 à l'Inria de Sophia Antipolis pour travailler sur l'intelligence artificielle. En 1992, elle prend la tête d'une équipe de recherche : elle n'est que la deuxième femme à diriger une équipe à l'Inria.",
+    "Son grand sujet : la gestion des connaissances et le web sémantique. L'idée est de décrire le sens des informations pour que les ordinateurs puissent les relier et les retrouver, pas seulement les stocker. À ses équipes, elle répète : « Si vous ne sauvegardez pas l'information, vous la perdez. » En 2005, elle reçoit le prix Irène Joliot-Curie, puis la Légion d'honneur en 2006.",
+    "Elle meurt en 2008, à 52 ans, des suites d'une maladie. Elle n'avait jamais renoncé à sa nationalité sénégalaise ; au Sénégal, un ministre salue « une fierté nationale ». Télécom Paris a donné son nom à un amphithéâtre."
+  ],
+  "actions": [
+    {
+      "date": "1976",
+      "theme": "enseignement",
+      "text": "Elle entre à l'École polytechnique, première Africaine admise."
+    },
+    {
+      "date": "1985",
+      "theme": "decouverte",
+      "text": "Elle entre à l'Inria de Sophia Antipolis pour travailler sur l'intelligence artificielle."
+    },
+    {
+      "date": "1992",
+      "theme": "reconnaissance",
+      "text": "Elle devient la deuxième femme à diriger une équipe de recherche à l'Inria."
+    },
+    {
+      "date": "2005",
+      "theme": "reconnaissance",
+      "text": "Elle reçoit le prix Irène Joliot-Curie."
+    },
+    {
+      "date": "2006",
+      "theme": "reconnaissance",
+      "text": "Elle est nommée chevalier de la Légion d'honneur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rose Dieng (1976) (La Jaune et la Rouge, revue des polytechniciens)",
+      "url": "https://www.lajauneetlarouge.com/rose-dieng-1976/"
+    },
+    {
+      "title": "Rose Dieng-Kuntz, éminente chercheuse de l'Inria, s'est éteinte (Le Monde Informatique)",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-rose-dieng-kuntz-eminente-chercheuse-de-l-inria-s-est-eteinte-26499.html"
+    },
+    {
+      "title": "Rose Dieng-Kuntz, pionnière et télécommienne emblématique (Télécom Paris)",
+      "url": "https://www.telecom-paris.fr/rose-dieng-kuntz-pionniere-telecommienne-emblematique"
+    }
+  ]
+}
