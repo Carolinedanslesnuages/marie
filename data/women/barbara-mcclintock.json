@@ -1,0 +1,38 @@
+{
+  "name": "Barbara McClintock",
+  "birth": "1902",
+  "death": "1992",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "biologie",
+  "published": "2026-01-05",
+  "summary": "Elle a découvert sur le maïs les « gènes sauteurs », des éléments qui changent de place sur les chromosomes.",
+  "notes": [
+    "Née le 16 juin 1902 à Hartford, aux États-Unis. Son terrain d'étude : le maïs. Ses grains de couleurs variées sont une fenêtre sur l'hérédité.",
+    "Années 1940 et 1950 : elle remarque que certains éléments génétiques ne restent pas en place. Ils se déplacent sur le chromosome. En bougeant, ils allument ou éteignent les gènes voisins. Le premier qu'elle décrit s'appelle « Ds », pour dissociation : il cassait le chromosome 9. On les appelle aujourd'hui « gènes sauteurs », ou transposons.",
+    "Pourquoi ça compte : au milieu des années 1960, on trouve des éléments mobiles chez les bactéries. Ils aident à transmettre la résistance aux antibiotiques. La découverte faite sur le maïs vaut donc bien au-delà du maïs.",
+    "1983 : prix Nobel de physiologie ou médecine, seule, « pour sa découverte des éléments génétiques mobiles ». Elle meurt le 2 septembre 1992 à Huntington, dans l'État de New York."
+  ],
+  "actions": [
+    {
+      "date": "1940",
+      "theme": "decouverte",
+      "text": "Années 1940–1950 : sur le maïs, montre que des éléments génétiques changent de place et allument ou éteignent les gènes voisins."
+    },
+    {
+      "date": "1983",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physiologie ou médecine, seule, pour la découverte des éléments génétiques mobiles."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Barbara McClintock, facts (nobelprize.org)",
+      "url": "https://nobelprize.org/prizes/medicine/1983/mcclintock/facts/"
+    },
+    {
+      "title": "Prix Nobel de physiologie ou médecine 1983, communiqué (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/medicine/1983/press-release/"
+    }
+  ]
+}
