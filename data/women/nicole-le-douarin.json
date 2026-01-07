@@ -1,0 +1,58 @@
+{
+  "name": "Nicole Le Douarin",
+  "birth": "1930-08-20",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-01-07",
+  "summary": "Embryologiste, elle a inventé les chimères caille-poulet, une façon de suivre les cellules de l'embryon, et révélé tout ce que fabrique la crête neurale.",
+  "notes": [
+    "Nicole Le Douarin naît le 20 août 1930 à Lorient, dans le Morbihan. Agrégée de sciences naturelles en 1954, elle enseigne dans un lycée pendant huit ans. En parallèle, elle se forme à la recherche auprès de l'embryologiste Étienne Wolff, à Nogent-sur-Marne. Sa thèse, commencée alors qu'elle est encore enseignante, porte sur la formation du foie chez l'embryon de poulet. Elle obtient son doctorat d'État en 1964.",
+    "En 1969, dans son premier laboratoire, à la faculté des sciences de Nantes, elle associe en culture des tissus d'embryon de caille et de poulet. Au microscope, elle remarque que le noyau des cellules de caille est différent : il contient une grosse masse d'ADN très compacte, bien visible. Chez le poulet, cette masse est éparpillée en petits points. Elle a alors une idée : ce détail peut servir d'étiquette naturelle.",
+    "C'est la méthode des chimères caille-poulet. On greffe un morceau d'embryon de caille dans un embryon de poulet, et l'on peut ensuite reconnaître chaque cellule de caille, où qu'elle aille et quoi qu'elle devienne. Les deux oiseaux sont proches, alors l'embryon se développe presque normalement. De nombreux laboratoires dans le monde adoptent la méthode.",
+    "Elle s'en sert pour suivre la crête neurale, une bande de cellules de l'embryon qui ne dure qu'un temps et dont les cellules voyagent dans tout le corps. Elle montre que ces cellules fabriquent une grande partie du squelette du visage et du crâne, et aussi certaines cellules de la thyroïde. En greffant le cerveau moyen d'une caille à un poulet, son équipe obtient même un poulet qui chante comme une caille.",
+    "Professeure à Nantes, puis directrice de l'Institut d'embryologie du CNRS et du Collège de France de 1975 à 2000, elle reçoit la médaille d'or du CNRS en 1986. Elle entre au Collège de France en 1988, puis devient secrétaire perpétuelle de l'Académie des sciences de 2001 à 2006."
+  ],
+  "actions": [
+    {
+      "date": "1954",
+      "theme": "enseignement",
+      "text": "Agrégée de sciences naturelles, elle devient professeure dans un lycée, tout en préparant sa thèse."
+    },
+    {
+      "date": "1969",
+      "theme": "decouverte",
+      "text": "À Nantes, elle remarque le noyau particulier des cellules de caille et en fait un marqueur : les chimères caille-poulet."
+    },
+    {
+      "date": "1982",
+      "theme": "publication",
+      "text": "Elle publie « The Neural Crest » et est élue membre de l'Académie des sciences."
+    },
+    {
+      "date": "1986",
+      "theme": "reconnaissance",
+      "text": "Médaille d'or du CNRS et prix Kyoto."
+    },
+    {
+      "date": "1988",
+      "theme": "enseignement",
+      "text": "Elle devient professeure au Collège de France, chaire d'embryologie cellulaire et moléculaire."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Notice biographique de Nicole Le Douarin (Académie des sciences)",
+      "url": "https://www.academie-sciences.fr/pdf/membre/LeDouarinN_bio261109.pdf"
+    },
+    {
+      "title": "Résumé des principaux travaux de Nicole Le Douarin (Académie des sciences)",
+      "url": "https://www.academie-sciences.fr/pdf/membre/LeDouarin_notice_2009.pdf"
+    },
+    {
+      "title": "Nicole Le Douarin, biographie (Collège de France)",
+      "url": "https://www.college-de-france.fr/fr/chaire/nicole-le-douarin-embryologie-cellulaire-et-moleculaire-chaire-statutaire/biography"
+    }
+  ]
+}
