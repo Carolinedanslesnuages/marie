@@ -1,0 +1,54 @@
+{
+  "name": "Claudie Haigneré",
+  "birth": "1957-05-13",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-01-08",
+  "summary": "Médecin rhumatologue et chercheuse en neurosciences, elle est en 1996 la première Française à aller dans l'espace, pour y mener des expériences de biologie et de physique.",
+  "notes": [
+    "Claudie André-Deshays naît le 13 mai 1957 au Creusot. Elle étudie la médecine à Paris et se spécialise en rhumatologie, la médecine des os, des articulations et des muscles. Elle ajoute des certificats de médecine du sport, puis de médecine aéronautique et spatiale. En 1986, elle obtient un diplôme en biomécanique et physiologie du mouvement : comment le corps bouge et tient debout.",
+    "En 1985, le CNES, l'agence spatiale française, la sélectionne comme candidate astronaute. Elle est la première médecin parmi les astronautes du CNES. En attendant de voler, elle travaille sur l'adaptation du corps humain en apesanteur : comment les muscles, l'équilibre et la pensée réagissent quand on flotte. Elle coordonne les expériences de sciences de la vie d'autres missions et suit depuis le sol les expériences médicales de la mission Altaïr. En 1992, elle soutient un doctorat en neurosciences.",
+    "Le 17 août 1996, elle décolle pour la station russe Mir avec la mission franco-russe Cassiopée. Pendant 16 jours, elle mène des expériences de physiologie (le fonctionnement du corps), de biologie du développement, de physique des fluides et de technologie. Elle est la première Française dans l'espace.",
+    "En juillet 1999, elle devient la première femme qualifiée pour commander le retour d'un vaisseau Soyouz. En octobre 2001, avec la mission Andromède, elle passe huit jours à bord de la Station spatiale internationale comme ingénieure de bord, et y mène des recherches pour le CNES. Elle est la première astronaute européenne à faire ce type de vol vers l'ISS.",
+    "Elle quitte ensuite les vols pour d'autres responsabilités : ministre de la Recherche et des Nouvelles Technologies de 2002 à 2004, puis ministre des Affaires européennes, présidente d'Universcience (Cité des sciences et Palais de la découverte) de 2009 à 2015, puis conseillère du directeur général de l'Agence spatiale européenne."
+  ],
+  "actions": [
+    {
+      "date": "1985",
+      "theme": "reconnaissance",
+      "text": "Le CNES la sélectionne comme candidate astronaute."
+    },
+    {
+      "date": "1992",
+      "theme": "enseignement",
+      "text": "Elle obtient un doctorat en neurosciences."
+    },
+    {
+      "date": "1996-08-17",
+      "theme": "decouverte",
+      "text": "Elle part pour la station Mir : 16 jours d'expériences de biologie et de physique."
+    },
+    {
+      "date": "1999-07",
+      "theme": "reconnaissance",
+      "text": "Première femme qualifiée pour commander le retour d'un vaisseau Soyouz."
+    },
+    {
+      "date": "2001-10",
+      "theme": "decouverte",
+      "text": "Mission Andromède : huit jours de recherche à bord de la Station spatiale internationale."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Claudie Haigneré, formerly Claudie André-Deshays (ESA)",
+      "url": "https://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Claudie_Haignere_formerly_Claudie_Andre-Deshays"
+    },
+    {
+      "title": "Les astronautes français (CNES)",
+      "url": "https://cnes.fr/node/532"
+    }
+  ]
+}
