@@ -1,0 +1,55 @@
+{
+  "name": "Jeanne Villepreux-Power",
+  "birth": "1794",
+  "death": "1871",
+  "country": "France",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-01-13",
+  "summary": "Naturaliste autodidacte installée en Sicile, elle a conçu des aquariums pour observer l'argonaute vivant et montré qu'il fabrique lui-même sa coquille.",
+  "notes": [
+    "Jeanne Villepreux naît en 1794 à Juillac, dans le Limousin. Son père est le cordonnier du village. Le récit familial raconte qu'à 18 ans, elle part à pied pour Paris chercher du travail, et qu'elle s'y fait un nom dans la couture en brodant la robe de mariage d'une princesse, Marie-Caroline, duchesse de Berry. Cette belle histoire repose surtout sur les souvenirs transmis : même son âge au départ varie selon les sources, 17 ou 18 ans.",
+    "Elle épouse James Power, un riche marchand établi à Messine, en Sicile. Le couple y vit de 1818 à 1843. Sans formation scientifique, elle apprend seule l'histoire naturelle. Elle parcourt l'île, achète des spécimens aux pêcheurs et écrit deux guides de la Sicile. Elle observe aussi une pieuvre qui coince une pierre pour ouvrir un grand coquillage.",
+    "À partir de 1832, elle étudie l'argonaute, un petit cousin de la pieuvre dont la femelle porte une fine coquille. Depuis Aristote, on se demande s'il la fabrique ou s'il la vole à un autre animal. Pour le savoir, il faut l'observer vivant. Elle conçoit donc trois sortes d'aquariums : un en verre pour son bureau, et des cages qu'on descend dans la mer. Elle montre que l'argonaute fabrique et répare lui-même sa coquille.",
+    "Des sociétés savantes critiquent ses résultats. Mais le naturaliste britannique Richard Owen les défend et les présente à la Société zoologique de Londres. Il la surnomme « mère des aquariums ». En 1843, en quittant la Sicile, le couple envoie ses affaires par bateau : le navire coule au large des côtes françaises, avec la plupart de ses notes, de ses dessins et de ses collections.",
+    "Elle vit ensuite entre Londres et Paris, puis fuit le siège de Paris en 1871 pour rentrer à Juillac, où elle meurt peu après. Oubliée pendant plus d'un siècle, elle donne son nom en 1997 à un grand cratère de la planète Vénus."
+  ],
+  "actions": [
+    {
+      "date": "1832",
+      "theme": "invention",
+      "text": "Elle commence à étudier l'argonaute et conçoit des aquariums pour l'observer vivant."
+    },
+    {
+      "date": "1843",
+      "theme": "obstacle",
+      "text": "Un naufrage au large des côtes françaises emporte la plupart de ses notes, dessins et collections."
+    },
+    {
+      "date": "1858",
+      "theme": "reconnaissance",
+      "text": "Richard Owen la reconnaît comme l'inventrice de l'aquarium."
+    },
+    {
+      "date": "1997",
+      "theme": "reconnaissance",
+      "text": "Un grand cratère de Vénus reçoit son nom."
+    }
+  ],
+  "sources": [
+    {
+      "author": "Sarah Zielinski",
+      "title": "Wealth of cephalopod research lost in a 19th century shipwreck (Science News)",
+      "url": "https://www.sciencenews.org/?p=39163"
+    },
+    {
+      "title": "Jeannette Villepreux-Power (Oxford University Museum of Natural History)",
+      "url": "https://oumnh.ox.ac.uk/node/572111"
+    },
+    {
+      "author": "Claude Arnal",
+      "title": "Jeanne Villepreux-Power (Malacological Society of London, Bulletin)",
+      "url": "https://malacsoc.org.uk/malacological_bulletin/BULL34/JEANNE.htm"
+    }
+  ]
+}
