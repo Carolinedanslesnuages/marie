@@ -1,0 +1,53 @@
+{
+  "name": "Marie Curie",
+  "birth": "1867",
+  "death": "1934",
+  "country": "Pologne et France",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-01-14",
+  "summary": "Elle a découvert le polonium et le radium, et reste la seule personne primée par un Nobel dans deux sciences différentes.",
+  "notes": [
+    "Maria Skłodowska naît à Varsovie en 1867, dans une famille d'enseignants. Elle part étudier à Paris. Elle y rencontre Pierre Curie, qui devient son mari et son collègue de laboratoire.",
+    "Avec Pierre, elle traque la radioactivité : un rayonnement invisible que certaines matières émettent d'elles-mêmes. Le 18 juillet 1898, le couple annonce à l'Académie des sciences un nouvel élément, plus radioactif que l'uranium. Ils l'appellent « polonium », en hommage à la Pologne, le pays de Marie. C'est le premier élément découvert grâce à sa radioactivité. En décembre 1898 vient le radium, trouvé avec Gustave Bémont.",
+    "Des collègues restent sceptiques : ces éléments existent-ils vraiment ? Pour le prouver, il faut les isoler, c'est-à-dire les obtenir purs. Marie Curie y met plus de trois ans. Au bout du compte : un dixième de gramme de chlorure de radium pur.",
+    "En 1903, elle reçoit le prix Nobel de physique pour ses recherches sur les « phénomènes de rayonnement ». C'est la première femme récompensée par un Nobel. En 1911, elle reçoit le Nobel de chimie pour ses travaux sur le radium. Elle reste la seule personne primée dans deux sciences différentes.",
+    "Pendant la Première Guerre mondiale, elle organise des équipes mobiles de radiographie. Elle meurt en 1934 en Savoie, d'une anémie aplasique : une maladie du sang souvent liée à une forte exposition aux radiations. Sa fille Irène reçoit à son tour le Nobel de chimie en 1935, avec Frédéric Joliot."
+  ],
+  "actions": [
+    {
+      "date": "1898-07-18",
+      "theme": "decouverte",
+      "text": "Avec Pierre Curie, elle annonce à l'Académie des sciences un nouvel élément, le polonium, nommé en hommage à la Pologne."
+    },
+    {
+      "date": "1898-12",
+      "theme": "decouverte",
+      "text": "Découverte du radium, avec Pierre Curie et Gustave Bémont."
+    },
+    {
+      "date": "1903",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physique : elle est la première femme lauréate d'un Nobel."
+    },
+    {
+      "date": "1911",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de chimie pour ses travaux sur le radium. Personne d'autre n'a été primé dans deux sciences différentes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marie Curie, prix Nobel de physique 1903 : fiche (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts"
+    },
+    {
+      "title": "Marie Curie, prix Nobel de chimie 1911 : fiche (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/facts"
+    },
+    {
+      "title": "La découverte du polonium et du radium, par Jean-Pierre Adloff (IUPAC, Chemistry International)",
+      "url": "https://old.iupac.org/publications/ci/2011/3301/5_adloff.html"
+    }
+  ]
+}
