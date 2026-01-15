@@ -1,0 +1,54 @@
+{
+  "name": "Irène Joliot-Curie",
+  "birth": "1897",
+  "death": "1956",
+  "country": "France",
+  "region": "europe",
+  "field": "chimie",
+  "published": "2026-01-15",
+  "summary": "Avec Frédéric Joliot, elle a découvert la radioactivité artificielle.",
+  "notes": [
+    "Née à Paris en 1897. Docteure ès sciences en 1925, avec une thèse sur les rayons alpha du polonium. Les rayons alpha sont de minuscules particules lancées par certains atomes instables.",
+    "1934 : avec Frédéric Joliot, elle bombarde une fine feuille d'aluminium avec ces particules alpha. On retire la source… et la feuille continue d'émettre des rayons. L'aluminium s'est changé en phosphore radioactif. Pour la première fois, on fabrique de la radioactivité au lieu de seulement l'observer : c'est la radioactivité artificielle.",
+    "1935 : prix Nobel de chimie, partagé avec Frédéric Joliot, « pour leur synthèse de nouveaux éléments radioactifs ».",
+    "Ensuite, elle étudie l'action des neutrons sur les éléments lourds, un travail qui ouvre la voie à la découverte de la fission de l'uranium en 1938. En 1936, elle est sous-secrétaire d'État à la Recherche scientifique. Professeure à la Faculté des sciences de Paris en 1937, directrice de l'Institut du Radium en 1946. Commissaire à l'Énergie atomique, elle participe à la première pile atomique française en 1948.",
+    "Elle meurt à Paris le 17 mars 1956 d'une leucémie aiguë, liée à son exposition au polonium et aux rayons X."
+  ],
+  "actions": [
+    {
+      "date": "1925",
+      "theme": "publication",
+      "text": "Docteure ès sciences avec une thèse sur les rayons alpha du polonium."
+    },
+    {
+      "date": "1934",
+      "theme": "decouverte",
+      "text": "Avec Frédéric Joliot, elle change de l'aluminium en phosphore radioactif : c'est la radioactivité artificielle."
+    },
+    {
+      "date": "1935",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de chimie, partagé avec Frédéric Joliot, « pour leur synthèse de nouveaux éléments radioactifs »."
+    },
+    {
+      "date": "1937",
+      "theme": "enseignement",
+      "text": "Professeure à la Faculté des sciences de Paris."
+    },
+    {
+      "date": "1946",
+      "theme": "reconnaissance",
+      "text": "Directrice de l'Institut du Radium."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Irène Joliot-Curie, biographie (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/biographical/?print=1"
+    },
+    {
+      "title": "Prix Nobel de chimie 1935 : Irène Joliot-Curie (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/"
+    }
+  ]
+}
