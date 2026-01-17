@@ -1,0 +1,42 @@
+{
+  "name": "Jeanne Baret",
+  "birth": "1740",
+  "death": "1807",
+  "country": "France",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-01-17",
+  "summary": "Botaniste, elle a récolté des milliers de plantes autour du monde et serait la première femme à en avoir fait le tour.",
+  "notes": [
+    "Jeanne Baret est l'assistante botanique de Philibert Commerson. Son travail : chercher des plantes, les cueillir, les sécher, les classer. Pour partir avec lui en expédition, elle embarque déguisée en homme, sous le nom de « Jean ». Son sexe est découvert à Tahiti.",
+    "Le voyage fait d'elle, selon les musées qui la présentent, la première femme à avoir fait le tour du monde. Avec Commerson, elle récolte plus de 6 000 spécimens. Ils sont aujourd'hui dans l'Herbier national du Muséum national d'Histoire naturelle, à Paris.",
+    "Obstacle : son nom n'est pas sur les étiquettes. Elles ne créditent que Commerson, alors que c'est souvent elle qui a cueilli la plante. Le genre de plantes que Commerson lui avait dédié a vite été abandonné. Il faut attendre 2012 pour qu'une nouvelle espèce, Solanum baretiae, soit nommée en son honneur.",
+    "Après la mort de Commerson, en 1773, elle épouse le soldat Antoine Barnier et touche la rente prévue par le testament de Commerson. Sa vie reste mal connue : son lieu de naissance est discuté (Poil, dans la Nièvre, ou Autun selon les sources), et toutes les sources ne donnent pas 1807 pour sa mort."
+  ],
+  "actions": [
+    {
+      "date": "1773",
+      "theme": "obstacle",
+      "text": "Mort de Commerson. Les plus de 6 000 spécimens récoltés à deux ne portent que son nom à lui."
+    },
+    {
+      "date": "2012",
+      "theme": "reconnaissance",
+      "text": "Une nouvelle espèce de plante, Solanum baretiae, est nommée en son honneur."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The extraordinary circumnavigation of Jeanne Baret (Australian National Maritime Museum)",
+      "url": "https://sea.museum/2020/07/27/the-extraordinary-circumnavigation-of-jeanne-baret"
+    },
+    {
+      "title": "The amazing feat of Jeanne Baret (New York Botanical Garden)",
+      "url": "https://www.nybg.org/blogs/science-talk/2014/03/the-amazing-feat-of-jeanne-baret"
+    },
+    {
+      "title": "Une nouvelle espèce nommée en l'honneur de Jeanne Baret (ScienceDaily)",
+      "url": "https://www.sciencedaily.com/releases/2012/01/120103135133.htm"
+    }
+  ]
+}
