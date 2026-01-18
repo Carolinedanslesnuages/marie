@@ -1,0 +1,57 @@
+{
+  "name": "Tu Youyou",
+  "birth": "1930",
+  "death": "",
+  "country": "Chine",
+  "region": "asie",
+  "field": "medecine",
+  "published": "2026-01-18",
+  "summary": "Elle a découvert l'artémisinine, un médicament contre le paludisme tiré d'une plante.",
+  "notes": [
+    "Tu Youyou naît le 30 décembre 1930 à Ningbo, en Chine. En 1969, elle prend la tête d'un groupe du « Projet 523 ». C'est un programme militaire secret, lancé le 23 mai 1967, pour trouver un remède au paludisme, une maladie transmise par les moustiques.",
+    "Son équipe cherche dans les plantes de la médecine traditionnelle. En 1971, elle a déjà testé 380 extraits tirés de 200 plantes. Mais les premiers résultats ne se répètent pas d'un essai à l'autre.",
+    "L'idée clé vient d'un vieux texte. Ge Hong, en 340 de notre ère, conseille de faire tremper l'armoise annuelle, le qinghao, dans de l'eau froide. Tu Youyou en déduit que la chaleur détruit le principe actif. Elle change de méthode et extrait la plante à basse température, avec de l'éther. En mars 1972, l'extrait n° 191 élimine le parasite chez la souris et le singe. Le 8 novembre 1972, l'équipe obtient la substance pure : le qinghaosu, aujourd'hui appelé artémisinine.",
+    "La même année, l'extrait est essayé sur 21 malades à Hainan. En 1973, elle crée la dihydroartémisinine, environ dix fois plus active. Le secret du projet a longtemps empêché toute publication. En 2015, elle reçoit le prix Nobel de physiologie ou médecine."
+  ],
+  "actions": [
+    {
+      "date": "1969",
+      "theme": "decouverte",
+      "text": "Elle prend la tête d'un groupe du Projet 523, programme militaire secret contre le paludisme."
+    },
+    {
+      "date": "1972-03",
+      "theme": "decouverte",
+      "text": "Extrait à basse température, l'extrait n° 191 d'armoise annuelle élimine le parasite chez la souris et le singe."
+    },
+    {
+      "date": "1972-11-08",
+      "theme": "decouverte",
+      "text": "L'équipe obtient la substance pure, le qinghaosu, aujourd'hui appelé artémisinine."
+    },
+    {
+      "date": "1973",
+      "theme": "invention",
+      "text": "Elle crée la dihydroartémisinine, environ dix fois plus active."
+    },
+    {
+      "date": "2015",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physiologie ou médecine."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Artemisinin therapy for malaria (Lasker Foundation)",
+      "url": "https://laskerfoundation.org/winners/artemisinin-therapy-for-malaria/"
+    },
+    {
+      "title": "Tu Youyou, faits (Prix Nobel)",
+      "url": "https://nobelprize.org/prizes/medicine/2015/tu/facts/"
+    },
+    {
+      "title": "Chinese woman wins Nobel Prize for discovering artemisinin (China Daily)",
+      "url": "https://govt.chinadaily.com.cn/s/201911/07/WS5dc3c8bd498ebcb19057ab29/chinese-woman-wins-nobel-prize-for-discovering-artemisinin.html"
+    }
+  ]
+}
