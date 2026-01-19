@@ -1,0 +1,57 @@
+{
+  "name": "Lise Meitner",
+  "birth": "1878",
+  "death": "1968",
+  "country": "Autriche et Suède",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-01-19",
+  "summary": "Avec Otto Frisch, elle a expliqué la fission nucléaire : un noyau d'uranium qui se coupe en deux.",
+  "notes": [
+    "Lise Meitner veut faire de la physique à une époque où les universités publiques allemandes n'admettent pas les femmes. Elle étudie donc en privé. En 1905, elle obtient son doctorat à Vienne : elle est la deuxième femme docteure de cette université.",
+    "En 1912, elle suit Otto Hahn à l'Institut Kaiser-Wilhelm, sans salaire. Elle n'obtient son propre laboratoire de physique qu'en 1917. En 1938, parce qu'elle est juive, elle doit fuir l'Allemagne, avec l'aide de physiciens néerlandais. Elle part avec dix marks et une bague en diamant donnée par Hahn.",
+    "Pendant l'hiver 1938-1939, avec son neveu Otto Frisch, elle explique les résultats chimiques de Hahn. Ils voient le noyau d'uranium comme une goutte de liquide qui se coupe en deux. Leur article paraît le 11 février 1939, et Frisch baptise le phénomène « fission ». C'est la base de l'énergie nucléaire.",
+    "Le mérite lui échappe. En janvier 1939, Hahn publie ses résultats dans la revue Nature sans la citer comme coautrice. En 1944, il reçoit seul le Nobel de chimie. Elle a été proposée au moins trois fois pour le Nobel, sans jamais le recevoir. L'élément 109 porte aujourd'hui son nom : le meitnerium."
+  ],
+  "actions": [
+    {
+      "date": "1905",
+      "theme": "reconnaissance",
+      "text": "Doctorat à Vienne : elle est la deuxième femme docteure de cette université."
+    },
+    {
+      "date": "1912",
+      "theme": "obstacle",
+      "text": "Elle suit Otto Hahn à l'Institut Kaiser-Wilhelm, sans salaire."
+    },
+    {
+      "date": "1938",
+      "theme": "obstacle",
+      "text": "Juive, elle fuit l'Allemagne avec l'aide de physiciens néerlandais."
+    },
+    {
+      "date": "1939-02-11",
+      "theme": "publication",
+      "text": "Avec Otto Frisch, elle publie l'explication de la fission nucléaire."
+    },
+    {
+      "date": "1944",
+      "theme": "obstacle",
+      "text": "Otto Hahn reçoit seul le prix Nobel de chimie."
+    }
+  ],
+  "sources": [
+    {
+      "title": "1939: Lise Meitner and Otto Frisch Explain Nuclear Fission (APS News, février 2015)",
+      "url": "https://www.aps.org/apsnews/2015/02/1939-meitner-frisch-nuclear-fission"
+    },
+    {
+      "title": "December 1938: Discovery of Nuclear Fission (APS News, décembre 2007)",
+      "url": "https://www.aps.org/apsnews/2007/12/december-1938-discovery-nuclear-fission"
+    },
+    {
+      "title": "Lise Meitner, the forgotten woman of nuclear physics who deserved a Nobel Prize (The Conversation)",
+      "url": "https://theconversation.com/lise-meitner-the-forgotten-woman-of-nuclear-physics-who-deserved-a-nobel-prize-106220"
+    }
+  ]
+}
