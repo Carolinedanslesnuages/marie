@@ -1,0 +1,54 @@
+{
+  "name": "Catherine Cesarsky",
+  "birth": "1943",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-01-20",
+  "summary": "Spécialiste des rayons cosmiques, elle a dirigé la caméra infrarouge spatiale ISOCAM, puis l'Observatoire européen austral (ESO) de 1999 à 2007.",
+  "notes": [
+    "Catherine Cesarsky naît en France en 1943 et grandit en Argentine. Adolescente, elle veut entrer à l'école d'ingénieurs de Buenos Aires. On lui demande si elle est bien sûre : il n'y a pas de femmes ici. Elle choisit alors la physique, à l'université de Buenos Aires, puis part à Harvard, aux États-Unis, où elle obtient son doctorat d'astronomie en 1971.",
+    "Après un poste de chercheuse au Caltech, en Californie, elle s'installe en France en 1974 et entre au Service d'astrophysique du CEA, à Saclay. Jeune chercheuse, elle est l'une des deux seules femmes postdoctorantes de son campus ; enceinte, elle raconte avoir eu du mal à être traitée normalement, entre gentillesse excessive et remarques désagréables.",
+    "Son premier sujet : les rayons cosmiques, des particules très rapides qui voyagent dans la galaxie. Elle étudie comment elles se déplacent en rebondissant sur des ondes magnétiques de l'espace entre les étoiles. Son modèle de diffusion, c'est-à-dire de la façon dont ces particules s'éparpillent, sert de base à de nombreuses études. Elle s'intéresse aussi à leur accélération par les ondes de choc des supernovas, ces étoiles qui explosent.",
+    "Cheffe du Service d'astrophysique du CEA de 1985 à 1993, elle dirige la construction d'ISOCAM, première caméra infrarouge envoyée dans l'espace, à bord du satellite européen ISO. L'infrarouge permet de voir la chaleur des poussières et du gaz. Ses relevés révèlent une population de galaxies lointaines très lumineuses en infrarouge, qui ont beaucoup changé au cours du temps.",
+    "De 1999 à 2007, elle dirige l'ESO, l'organisation européenne qui gère de grands télescopes au Chili. Elle y lance l'exploitation du VLT, la première partie de la construction du réseau d'antennes ALMA et la préparation d'un télescope géant de 39 mètres. De 2006 à 2009, elle préside l'Union astronomique internationale. Elle est élue à l'Académie des sciences le 11 décembre 2007."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "enseignement",
+      "text": "Elle obtient son doctorat d'astronomie à l'université Harvard."
+    },
+    {
+      "date": "1974",
+      "theme": "decouverte",
+      "text": "Elle entre au Service d'astrophysique du CEA à Saclay et y étudie les rayons cosmiques."
+    },
+    {
+      "date": "1996",
+      "theme": "invention",
+      "text": "Elle publie les premiers résultats de la caméra ISOCAM, qu'elle a dirigée, en vol à bord du satellite ISO."
+    },
+    {
+      "date": "1999",
+      "theme": "reconnaissance",
+      "text": "Elle devient directrice générale de l'ESO, poste qu'elle occupe jusqu'en 2007."
+    },
+    {
+      "date": "2007-12-11",
+      "theme": "reconnaissance",
+      "text": "Elle est élue à l'Académie des sciences, section Sciences de l'univers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Notice biographique de Catherine Cesarsky (Académie des sciences)",
+      "url": "https://www.academie-sciences.fr/pdf/membre/CesarskyC_bio0210.pdf"
+    },
+    {
+      "title": "In conversation with Catherine Cesarsky (ESO)",
+      "url": "https://eso.org/public/blog/in-conversation-with-catherine-cesarsky/"
+    }
+  ]
+}
