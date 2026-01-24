@@ -1,0 +1,52 @@
+{
+  "name": "Sophie Germain",
+  "birth": "1776",
+  "death": "1831",
+  "country": "France",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-01-24",
+  "summary": "Elle a posé les bases mathématiques de l'élasticité et fait avancer le dernier théorème de Fermat.",
+  "notes": [
+    "Sophie Germain apprend les mathématiques contre l'avis de ses parents. Pour l'en empêcher, ils lui retirent la nuit ses vêtements, le chauffage et la lumière. L'École polytechnique est fermée aux femmes. Elle envoie donc un travail à Lagrange sous un nom d'homme, « M. LeBlanc ». Impressionné, Lagrange veut rencontrer l'auteur et devient son mentor.",
+    "En 1804, toujours sous le nom de LeBlanc, elle écrit au mathématicien Gauss. Il ne découvre qu'en 1807 qu'elle est une femme. Elle travaille sur le dernier théorème de Fermat, une énigme sur les nombres entiers. Elle montre que si x⁵ + y⁵ = z⁵ avec des entiers, l'un d'eux est forcément divisible par 5. C'est une étape importante vers la preuve du cas n = 5.",
+    "Elle s'attaque ensuite à une question de l'Académie des sciences : expliquer les « figures de Chladni », les formes que dessine du sable sur une plaque qui vibre. En 1811, son mémoire anonyme est le seul envoyé, mais il n'est pas primé. En 1813, elle obtient une mention honorable. En 1816, elle gagne enfin. Son travail est la base de la théorie mathématique de l'élasticité, qui sert aujourd'hui à calculer ponts et bâtiments.",
+    "Elle est la première femme primée par l'Académie des sciences de Paris. Pourtant, elle ne peut pas assister à la remise de son propre prix : l'Académie n'admet aux séances que les épouses de ses membres. Selon Live Science, ses billets se sont aussi « perdus » dans le courrier. Plus tard, Gauss obtient pour elle un diplôme honoraire de l'université de Göttingen, mais elle meurt avant de le recevoir."
+  ],
+  "actions": [
+    {
+      "date": "1804",
+      "theme": "obstacle",
+      "text": "Elle commence à écrire à Gauss sous le pseudonyme masculin de LeBlanc ; il découvre en 1807 qu'elle est une femme."
+    },
+    {
+      "date": "1811",
+      "theme": "obstacle",
+      "text": "Seule candidate au prix de l'Académie sur les plaques élastiques, avec un mémoire anonyme, elle n'est pas primée."
+    },
+    {
+      "date": "1813",
+      "theme": "reconnaissance",
+      "text": "Mention honorable de l'Académie des sciences pour son nouveau mémoire."
+    },
+    {
+      "date": "1816-01",
+      "theme": "reconnaissance",
+      "text": "Elle remporte le prix de l'Académie des sciences de Paris avec son mémoire sur les vibrations des plaques élastiques (le 8 ou le 9 janvier selon les sources)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sophie Germain (Agnes Scott College)",
+      "url": "https://mathwomen.agnesscott.org/women/germain.htm"
+    },
+    {
+      "title": "Scientist of the Day : Sophie Germain (Linda Hall Library)",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/sophie-germain/"
+    },
+    {
+      "title": "Sophie Germain, première femme lauréate du grand prix de mathématiques (Live Science)",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/science-history-sophie-germain-first-woman-to-win-frances-prestigious-grand-mathematics-prize-is-snubbed-when-tickets-to-award-ceremony-are-lost-in-the-mail-jan-9-1816"
+    }
+  ]
+}
