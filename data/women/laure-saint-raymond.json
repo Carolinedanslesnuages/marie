@@ -1,0 +1,59 @@
+{
+  "name": "Laure Saint-Raymond",
+  "birth": "1975",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-01-25",
+  "summary": "Mathématicienne des gaz et des fluides, elle a fait avancer le sixième problème de Hilbert et a été élue à l'Académie des sciences à 38 ans.",
+  "notes": [
+    "Laure Saint-Raymond naît en 1975. Ses parents sont professeurs de mathématiques. Enfant, elle joue du violoncelle ; au lycée, elle choisit les maths. En 1994, elle entre à l'École normale supérieure. Elle passe l'agrégation de mathématiques et deux diplômes de recherche, l'un en analyse numérique, l'autre en physique des plasmas.",
+    "Sa thèse, soutenue en 2000 avec François Golse, porte sur la théorie cinétique des gaz. Dans un gaz très peu dense, comme la haute atmosphère, on suit chaque atome : sa position, sa vitesse. Dans un gaz dense, on regarde plutôt un tout continu, comme de l'eau qui coule. Sa question : comment passe-t-on d'une description à l'autre ? C'est une partie du sixième problème posé par David Hilbert en 1900, qui demande de bâtir la mécanique sur des bases mathématiques solides. Il n'est toujours pas complètement résolu.",
+    "Ses travaux montrent un lien continu entre ces deux façons de voir. Ils aident à mieux comprendre l'air qui s'écoule autour d'un avion ou les tourbillons de l'océan. Elle étudie aussi les courants marins, et la façon dont la rotation de la Terre change le trajet des vagues.",
+    "Recrutée au CNRS en 2000, elle devient professeure à l'université Paris-VI en 2002, puis dirige l'équipe d'analyse de l'ENS à partir de 2007. En décembre 2013, elle est élue à l'Académie des sciences : à 38 ans, elle en est la benjamine. Elle a alors six enfants. Interrogée en 2014, elle dit n'avoir jamais ressenti son statut de femme comme un obstacle, mais rappelle qu'en recherche, il faut souvent attendre 35 ans pour un poste stable.",
+    "Elle passe ensuite par l'ENS de Lyon en 2016, puis l'IHES de 2021 à 2026. Le 25 juin 2026, elle est nommée professeure au Collège de France, sur la chaire « Mathématiques pour la modélisation des fluides »."
+  ],
+  "actions": [
+    {
+      "date": "2000",
+      "theme": "publication",
+      "text": "Elle soutient sa thèse sur la théorie cinétique des gaz et entre au CNRS."
+    },
+    {
+      "date": "2011",
+      "theme": "reconnaissance",
+      "text": "Elle reçoit le prix Irène Joliot-Curie de la jeune femme scientifique."
+    },
+    {
+      "date": "2013-12",
+      "theme": "reconnaissance",
+      "text": "Elle est élue à l'Académie des sciences, dont elle devient la benjamine."
+    },
+    {
+      "date": "2020",
+      "theme": "reconnaissance",
+      "text": "Elle reçoit le prix Bôcher de la Société américaine de mathématiques."
+    },
+    {
+      "date": "2026-06-25",
+      "theme": "enseignement",
+      "text": "Elle est nommée professeure au Collège de France."
+    }
+  ],
+  "sources": [
+    {
+      "author": "Louise Mussat",
+      "title": "Laure Saint-Raymond, la boss des maths (CNRS Le Journal)",
+      "url": "https://lejournal.cnrs.fr/print/377"
+    },
+    {
+      "title": "Laure Saint-Raymond, Permanent Professor since 2021 (IHES)",
+      "url": "https://www.ihes.fr/?p=25129"
+    },
+    {
+      "title": "Laure Saint-Raymond nommée professeure titulaire du Collège de France (ENS de Lyon)",
+      "url": "https://www.ens-lyon.fr/actualite/recherche/laure-saint-raymond-nommee-professeure-titulaire-du-college-de-france"
+    }
+  ]
+}
