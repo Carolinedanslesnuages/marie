@@ -1,0 +1,52 @@
+{
+  "name": "Maryam Mirzakhani",
+  "birth": "1977",
+  "death": "2017",
+  "country": "Iran",
+  "region": "moyen-orient",
+  "field": "mathematiques",
+  "published": "2026-01-26",
+  "summary": "Elle a étudié la géométrie des surfaces courbes et a été la première femme à recevoir la médaille Fields.",
+  "notes": [
+    "Maryam Mirzakhani est née le 12 mai 1977 à Téhéran, en Iran. Adolescente, elle gagne deux médailles d'or aux Olympiades internationales de mathématiques, en 1994 et en 1995. La deuxième fois, elle obtient un score parfait.",
+    "Elle part ensuite aux États-Unis. En 2004, elle soutient son doctorat à Harvard. Elle y étudie des surfaces en forme de selle percées de plusieurs trous. Sur ces surfaces, elle compte combien il existe de « chemins les plus courts » qui ne se recoupent pas.",
+    "Ses recherches portent sur la géométrie et la « dynamique » (l'étude des transformations) des surfaces de Riemann, une famille de surfaces très étudiée par les mathématiciens. Elle s'intéresse aussi à l'ensemble de toutes les formes possibles de ces surfaces, appelé « espace des modules ».",
+    "Le 13 août 2014, au Congrès international de Séoul, elle reçoit la médaille Fields, l'une des plus hautes récompenses en mathématiques. Elle est la première femme et la première personne iranienne à la recevoir. Elle meurt en juillet 2017, le 14 ou le 15 selon les sources."
+  ],
+  "actions": [
+    {
+      "date": "1994",
+      "theme": "reconnaissance",
+      "text": "Médaille d'or aux Olympiades internationales de mathématiques."
+    },
+    {
+      "date": "1995",
+      "theme": "reconnaissance",
+      "text": "Deuxième médaille d'or aux Olympiades internationales, avec un score parfait."
+    },
+    {
+      "date": "2004",
+      "theme": "decouverte",
+      "text": "Doctorat à Harvard sur les géodésiques simples des surfaces hyperboliques et le volume de l'espace des modules."
+    },
+    {
+      "date": "2014-08-13",
+      "theme": "reconnaissance",
+      "text": "Médaille Fields à Séoul : première femme et première personne iranienne à la recevoir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Maryam Mirzakhani (Agnes Scott College)",
+      "url": "https://mathwomen.agnesscott.org/women/mirzakhani.htm"
+    },
+    {
+      "title": "Médaillés Fields 2014 : citations (Union mathématique internationale)",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medal-2014/fields-medallists-2014-awardees-brief-citations"
+    },
+    {
+      "title": "Maryam Mirzakhani, de Stanford, reçoit la médaille Fields (Stanford News)",
+      "url": "https://news.stanford.edu/2014/08/12/stanfords-maryam-mirzakhani-wins-fields-medal/"
+    }
+  ]
+}
