@@ -1,0 +1,59 @@
+{
+  "name": "Audrey Dussutour",
+  "birth": "date non publiée",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-01-27",
+  "summary": "Éthologue au CNRS à Toulouse, elle a montré que le « blob », une seule cellule sans cerveau, peut apprendre et transmettre ce qu'il a appris.",
+  "notes": [
+    "Audrey Dussutour est éthologue : elle étudie le comportement des animaux. Directrice de recherche au CNRS, elle travaille au Centre de recherches sur la cognition animale de Toulouse (CNRS et université Toulouse III - Paul Sabatier). Ses sujets : les fourmis et les êtres faits d'une seule cellule, qui résolvent des problèmes sans chef ni centre de commande.",
+    "Son organisme vedette s'appelle Physarum polycephalum, le « blob ». Ce n'est ni un animal, ni une plante, ni un champignon. C'est une seule cellule géante, avec des milliers de noyaux, qui rampe dans la litière des forêts et peut couvrir un mètre carré. Il n'a pas de cerveau. Pendant un post-doctorat en Australie, elle en a d'ailleurs rapporté une souche.",
+    "En 2016, avec David Vogel, elle apprend au blob à traverser des substances qu'il n'aime pas mais qui ne lui font pas de mal, comme le sel, pour atteindre sa nourriture. C'est l'habituation, une forme simple d'apprentissage. La même année, l'équipe fait fusionner des blobs « habitués » au sel avec des blobs « naïfs » : après trois heures de fusion, les naïfs ignorent eux aussi le sel. Au microscope, une veine se forme au point de contact, sans doute le canal par lequel passe l'information.",
+    "Elle fait aussi sortir le blob des laboratoires. En 2021, avec le CNES et le CNRS, l'opération « Élève ton blob » réunit plus de 5 000 établissements scolaires et 350 000 élèves, pendant que l'astronaute Thomas Pesquet mène les mêmes essais à bord de la Station spatiale internationale. Puis « Derrière le blob, la recherche » mobilise 15 000 volontaires pour étudier l'effet du réchauffement climatique sur le blob.",
+    "Ce travail de partage lui vaut en 2021 la toute première médaille de la médiation scientifique du CNRS. En 2023, elle est élue membre associée de l'Académie royale des sciences de Belgique."
+  ],
+  "actions": [
+    {
+      "date": "2016-04",
+      "theme": "decouverte",
+      "text": "Avec David Vogel, elle montre qu'un être sans neurones, le blob, peut s'habituer au sel : il apprend."
+    },
+    {
+      "date": "2016-12-21",
+      "theme": "publication",
+      "text": "Article montrant qu'un blob transmet ce qu'il a appris à un autre en fusionnant avec lui."
+    },
+    {
+      "date": "2017",
+      "theme": "publication",
+      "text": "Elle publie « Tout ce que vous avez toujours voulu savoir sur le Blob… »."
+    },
+    {
+      "date": "2021",
+      "theme": "reconnaissance",
+      "text": "Première médaille de la médiation scientifique du CNRS, année de l'opération « Élève ton blob »."
+    },
+    {
+      "date": "2023",
+      "theme": "reconnaissance",
+      "text": "Elle est élue membre associée de l'Académie royale des sciences de Belgique."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Le blob apprend et transmet ce qu'il a appris (CNRS)",
+      "url": "https://www.cnrs.fr/en/press/blob-can-learn-and-teach"
+    },
+    {
+      "author": "Laure Cailloce",
+      "title": "Le blob s'invite chez les Français (CNRS News)",
+      "url": "https://news.cnrs.fr/articles/the-blob-creeps-into-the-homes-of-the-french"
+    },
+    {
+      "title": "Audrey Dussutour, fiche de membre (Centre de biologie intégrative de Toulouse, CNRS et université de Toulouse)",
+      "url": "https://cbi-toulouse.fr/membre/dussutour-audrey/"
+    }
+  ]
+}
