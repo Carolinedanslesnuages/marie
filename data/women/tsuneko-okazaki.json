@@ -1,0 +1,57 @@
+{
+  "name": "Tsuneko Okazaki",
+  "birth": "1933",
+  "death": "2026",
+  "country": "Japon",
+  "region": "asie",
+  "field": "biologie",
+  "published": "2026-02-01",
+  "summary": "Avec son mari, elle a montré qu'un des deux brins d'ADN est copié en petits morceaux : les fragments d'Okazaki.",
+  "notes": [
+    "Née Tsuneko Hara en 1933 à Nagoya, au Japon. Licence, maîtrise puis doctorat (1963) à l'Université de Nagoya. Entre-temps, boursière Fulbright aux États-Unis : à Washington University, puis à Stanford chez Arthur Kornberg.",
+    "Question : comment une cellule copie-t-elle son ADN ? L'ADN a deux brins. En février 1968, dans la revue PNAS, Tsuneko et son mari Reiji Okazaki montrent que l'un des deux brins est copié par petits morceaux, raccordés ensuite. Ce sont les « fragments d'Okazaki ».",
+    "1er août 1975 : Reiji meurt d'une leucémie à 44 ans, liée à son exposition à la bombe d'Hiroshima. Tsuneko continue seule. De 1975 à 1985, elle montre que chaque fragment démarre sur une petite amorce d'ARN, un court morceau qui sert de point de départ.",
+    "Obstacles : elle élève deux enfants avec une aide privée et milite pour plus de crèches. Elle disait qu'au début de sa carrière, il était « dur d'être une femme ». Veuve avec de jeunes enfants, elle devient en 1983 la première femme professeure titulaire de l'Université de Nagoya. Sa mort, le 22 septembre 2026 à 93 ans, n'est rapportée pour l'instant que par une seule dépêche de presse : à confirmer."
+  ],
+  "actions": [
+    {
+      "date": "1968-02",
+      "theme": "publication",
+      "text": "Article dans PNAS avec Reiji Okazaki : un brin d'ADN est copié en petits morceaux, les fragments d'Okazaki."
+    },
+    {
+      "date": "1975-08-01",
+      "theme": "obstacle",
+      "text": "Mort de son mari Reiji ; elle poursuit seule les recherches et élève ses enfants."
+    },
+    {
+      "date": "1983",
+      "theme": "enseignement",
+      "text": "Première femme professeure titulaire de l'Université de Nagoya."
+    },
+    {
+      "date": "2000",
+      "theme": "reconnaissance",
+      "text": "Prix L'Oréal-UNESCO pour les femmes et la science."
+    },
+    {
+      "date": "2015",
+      "theme": "reconnaissance",
+      "text": "Nommée Personne de mérite culturel au Japon."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tsuneko Okazaki, biographie (Fujita Medical Journal, 2024)",
+      "url": "https://www.jstage.jst.go.jp/article/fmj/10/1/10_2023-014/_html/-char/en"
+    },
+    {
+      "title": "Tsuneko Okazaki, article de revue (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/38332776"
+    },
+    {
+      "title": "Dépêche Kyodo sur la mort de Tsuneko Okazaki (Kumamoto Nichinichi Shimbun)",
+      "url": "https://kumanichi.com/articles/2044890"
+    }
+  ]
+}
