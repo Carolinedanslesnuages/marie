@@ -1,0 +1,54 @@
+{
+  "name": "Marion Créhange",
+  "birth": "1937",
+  "death": "2022",
+  "country": "France",
+  "region": "europe",
+  "field": "informatique",
+  "published": "2026-02-08",
+  "summary": "En 1961, à Nancy, elle soutient ce qui est considéré comme la première thèse en informatique en France, puis met l'ordinateur au service de l'archéologie, de l'histoire et des images.",
+  "notes": [
+    "Marion Créhange naît le 14 novembre 1937. Étudiante à Nancy, en dernière année de licence en 1956-1957, elle découvre la calculatrice IBM 604 avec le mathématicien Jean Legras. À la rentrée 1958, Nancy ouvre une formation « Analyse et Calcul Numérique » : la première promotion compte quatre étudiants, dont elle. En février 1959, elle est nommée assistante à l'université.",
+    "En mars 1961, elle soutient sa thèse. Elle y invente le CDP, le « code de programmation » : une façon d'écrire des instructions pour l'ordinateur plus courte et plus lisible que le langage machine, cette suite de codes que la machine comprend directement. Interstices la présente comme la première personne à avoir fait une thèse en informatique en France.",
+    "En 1965, elle rejoint l'équipe de Claude Pair, qui écrit un compilateur pour le langage ALGOL 60 (un compilateur traduit un programme lisible par un humain en instructions pour la machine). Dès les années 1960, elle travaille aussi avec des archéologues et avec l'historienne Lucie Fossier sur des actes médiévaux : l'informatique aide alors à classer et retrouver des informations.",
+    "En 1975, elle soutient une thèse d'État sur PIVOINES, un système pour décrire et interroger des informations complexes. Elle le dit elle-même : il « n'a jamais réellement tourné ». En 1983, elle fonde l'équipe EXPRIM, consacrée à la recherche d'images, qu'elle dirige jusqu'à sa retraite en 1997. En 1995, elle enseigne comme professeure invitée à l'université Laval, au Québec.",
+    "Elle se décrivait comme « une enseignante-chercheuse heureuse », attachée au mélange entre informatique et sciences humaines. Professeure émérite de l'université de Lorraine, elle meurt le 28 mars 2022."
+  ],
+  "actions": [
+    {
+      "date": "1959-02",
+      "theme": "enseignement",
+      "text": "Elle est nommée assistante à l'université de Nancy."
+    },
+    {
+      "date": "1961-03",
+      "theme": "publication",
+      "text": "Elle soutient sa thèse sur le code de programmation CDP, considérée comme la première thèse en informatique en France."
+    },
+    {
+      "date": "1975",
+      "theme": "publication",
+      "text": "Elle soutient sa thèse d'État sur le système PIVOINES."
+    },
+    {
+      "date": "1983",
+      "theme": "decouverte",
+      "text": "Elle fonde l'équipe EXPRIM, consacrée à la recherche d'images."
+    },
+    {
+      "date": "1995",
+      "theme": "enseignement",
+      "text": "Elle est professeure invitée à l'université Laval, au Québec."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ma randonnée informatique, par Marion Créhange (Interstices)",
+      "url": "https://interstices.info/la-randonnee-informatique-de-marion-crehange/"
+    },
+    {
+      "title": "Créhange, Marion (1937-2022), notice d'autorité (IdRef, Abes)",
+      "url": "https://www.idref.fr/092225160"
+    }
+  ]
+}
