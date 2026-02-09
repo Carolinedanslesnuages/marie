@@ -1,0 +1,47 @@
+{
+  "name": "Henrietta Swan Leavitt",
+  "birth": "1868",
+  "death": "1921",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "astronomie",
+  "published": "2026-02-09",
+  "summary": "Elle a trouvé une règle qui permet de mesurer la distance d'étoiles très lointaines.",
+  "notes": [
+    "Henrietta Swan Leavitt entre à l'observatoire de Harvard en 1895 comme bénévole : elle n'est pas payée. Elle devient salariée en 1902 et y reste toute sa vie.",
+    "Elle étudie des céphéides, des étoiles dont l'éclat augmente et diminue en rythme, comme si elles battaient. Elle les observe dans le Petit Nuage de Magellan. L'astuce : toutes ces étoiles sont à peu près à la même distance de nous. Si l'une paraît plus brillante qu'une autre, c'est donc qu'elle l'est vraiment.",
+    "En 1912, elle publie sa découverte dans la Circular 173 de l'observatoire de Harvard : plus une céphéide pulse lentement, plus elle est lumineuse. Les sources ne s'accordent pas sur le nombre d'étoiles étudiées : 25 pour la plupart, 17 pour une autre.",
+    "Pourquoi c'est important : en mesurant le rythme d'une céphéide, on connaît son éclat réel. En le comparant à l'éclat qu'on voit, on en déduit sa distance. C'est une « chandelle standard », un étalon qui mesure des distances bien plus grandes qu'avec la parallaxe, la méthode d'avant. Hubble s'en sert ensuite pour montrer que certaines nébuleuses sont d'autres galaxies, hors de la Voie lactée."
+  ],
+  "actions": [
+    {
+      "date": "1895",
+      "theme": "obstacle",
+      "text": "Elle commence à l'observatoire de Harvard comme bénévole, sans salaire."
+    },
+    {
+      "date": "1902",
+      "theme": "reconnaissance",
+      "text": "Elle devient salariée de l'observatoire."
+    },
+    {
+      "date": "1912",
+      "theme": "decouverte",
+      "text": "Elle publie la relation entre la période et la luminosité des céphéides : plus l'étoile pulse lentement, plus elle est lumineuse."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Leavitt Discovers How to Measure Galactic Distances (EBSCO Research Starters)",
+      "url": "https://www.ebsco.com/research-starters/history/leavitt-discovers-how-measure-galactic-distances"
+    },
+    {
+      "title": "Henrietta Leavitt, A Science Odyssey (PBS)",
+      "url": "https://www.pbs.org/wgbh/aso/databank/entries/dp12le.html"
+    },
+    {
+      "title": "Henrietta Swan Leavitt (Encyclopædia Britannica)",
+      "url": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt"
+    }
+  ]
+}
