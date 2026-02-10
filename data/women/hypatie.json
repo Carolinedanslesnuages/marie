@@ -1,0 +1,43 @@
+{
+  "name": "Hypatie",
+  "birth": "vers 355 ou 370",
+  "death": "415",
+  "country": "Égypte romaine (Alexandrie)",
+  "region": "afrique",
+  "field": "mathematiques",
+  "published": "2026-02-10",
+  "summary": "Mathématicienne et astronome d'Alexandrie, elle a enseigné les grands textes grecs de mathématiques.",
+  "notes": [
+    "Hypatie vit à Alexandrie, en Égypte romaine. Sa date de naissance est incertaine : vers 355 selon Britannica, 370 selon d'autres sources. Elle est la fille de Théon, mathématicien et astronome. C'est la plus ancienne mathématicienne dont on connaisse la vie et l'œuvre avec un peu de détail.",
+    "À la fin du IVe siècle, son père commente l'Almageste de Ptolémée, un grand traité d'astronomie. Il écrit que l'édition du livre III a été « relue par la philosophe Hypatie, ma fille ». Les spécialistes retiennent le sens le plus prudent : elle a vérifié la version finale.",
+    "Elle enseigne et fait connaître l'Arithmétique de Diophante et les Coniques d'Apollonius. De ses propres écrits, il ne reste que des fragments et une liste de titres. Son élève Synésios dit qu'elle connaît très bien l'astrolabe et l'« hydroscope », sans doute un aréomètre, qui mesure la densité des liquides.",
+    "Ce qui est documenté : elle savait utiliser, et peut-être fabriquer, ces instruments. Ce qui est légende : dire qu'elle a « inventé l'astrolabe ». Cette idée est aujourd'hui largement rejetée.",
+    "En mars 415, elle est assassinée par une foule de fanatiques chrétiens, après l'arrivée de l'évêque Cyrille. La part de responsabilité de Cyrille reste débattue."
+  ],
+  "actions": [
+    {
+      "date": "0400",
+      "theme": "publication",
+      "text": "À la fin du IVe siècle (année exacte inconnue), elle relit l'édition du livre III de l'Almageste commentée par son père Théon."
+    },
+    {
+      "date": "0415-03",
+      "theme": "obstacle",
+      "text": "Elle est assassinée à Alexandrie par une foule de fanatiques chrétiens."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hypatia (MacTutor, Université de St Andrews, Dictionary of Scientific Biography)",
+      "url": "https://mathshistory.st-andrews.ac.uk/DSB/Hypatia.pdf"
+    },
+    {
+      "title": "Hypatia (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hypatia"
+    },
+    {
+      "title": "Hypatia (Encyclopædia Britannica)",
+      "url": "https://www.britannica.com/facts/Hypatia"
+    }
+  ]
+}
