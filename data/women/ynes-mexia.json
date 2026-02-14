@@ -1,0 +1,42 @@
+{
+  "name": "Ynés Mexía",
+  "birth": "1870",
+  "death": "1938",
+  "country": "Mexique, États-Unis",
+  "region": "ameriques",
+  "field": "biologie",
+  "published": "2026-02-14",
+  "summary": "Collectrice de plantes, elle a rapporté environ 500 espèces nouvelles pour la science.",
+  "notes": [
+    "Née à Washington, fille d'un diplomate mexicain. Sa carrière de botaniste commence tard, après la cinquantaine, et après des troubles de santé mentale. Les sources ne s'accordent pas sur l'année : 1922 selon JSTOR Daily, 1925 selon le jardin botanique de New York.",
+    "Son métier : collectrice. Elle part sur le terrain, cueille des plantes, les sèche et les envoie aux spécialistes. Première expédition : le Sinaloa, au Mexique, avec la botaniste de Stanford Roxana Ferris.",
+    "Bilan : environ 145 000 à plus de 150 000 spécimens. Environ 500 espèces étaient nouvelles pour la science, et une cinquantaine portent son nom. Son expédition la plus célèbre dure deux ans et demi : 3 000 milles en remontant l'Amazone, en bateau à vapeur et en pirogue. En 1932 paraît « Brazilian Ferns Collected by Ynés Mexía », avec E. B. Copeland.",
+    "Elle meurt en 1938 à Berkeley, d'un cancer."
+  ],
+  "actions": [
+    {
+      "date": "1922",
+      "theme": "decouverte",
+      "text": "Début de sa vocation de botaniste, à 52 ans selon JSTOR Daily (1925 selon d'autres sources)."
+    },
+    {
+      "date": "1932",
+      "theme": "publication",
+      "text": "Parution de « Brazilian Ferns Collected by Ynés Mexía », avec E. B. Copeland."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Late bloomer : the short, prolific career of Ynés Mexía (New York Botanical Garden)",
+      "url": "https://www.nybg.org/planttalk/late-bloomer-the-short-prolific-career-of-ynes-mexia"
+    },
+    {
+      "title": "Ynés Mexía, botanical trailblazer (JSTOR Daily)",
+      "url": "https://daily.jstor.org/ynes-mexia-botanical-trailblazer"
+    },
+    {
+      "title": "Ynés Mexía, accomplished Latina botanist (PBS American Masters)",
+      "url": "https://www.pbs.org/wnet/americanmasters/ynes-mexia-accomplished-latina-botanist-k6bggm/13948"
+    }
+  ]
+}
