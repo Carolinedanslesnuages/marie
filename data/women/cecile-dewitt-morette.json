@@ -1,0 +1,51 @@
+{
+  "name": "Cécile DeWitt-Morette",
+  "birth": "1922",
+  "death": "2017",
+  "country": "France",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-02-16",
+  "summary": "Physicienne, elle a fondé en 1951 l'école de physique des Houches, où des générations de jeunes chercheurs ont appris la physique de leur temps.",
+  "notes": [
+    "Cécile Morette naît le 21 décembre 1922 à Paris et grandit à Caen. Elle y fait ses premières études de sciences, puis poursuit en physique à Paris. Le 6 juin 1944, jour du Débarquement, elle passe un examen à Paris. Ce jour-là, les bombardements alliés détruisent sa maison de Caen et tuent sa mère, sa sœur et sa grand-mère.",
+    "Elle trouve un poste au CNRS et obtient son doctorat vers 1947, sur la production des mésons, des particules plus légères que le proton qu'on découvre alors dans les rayons cosmiques. Elle part travailler en Irlande, au Danemark, puis aux États-Unis. Robert Oppenheimer l'invite à l'Institut d'études avancées de Princeton. Elle y rencontre le physicien Bryce DeWitt, qu'elle épouse en 1951 ; ils auront quatre filles.",
+    "Après la guerre, la physique française a pris du retard. Aux États-Unis, elle découvre une école d'été à Ann Arbor et se dit : pourquoi pas en France ? En 1951, elle lance une école d'été aux Houches, au pied du mont Blanc, sur un terrain prêté par une famille. Pendant deux mois, des étudiants vivent et travaillent avec de grands noms, comme Wolfgang Pauli. Elle la dirige vingt-deux ans. Pierre-Gilles de Gennes et Claude Cohen-Tannoudji, futurs prix Nobel, y passent.",
+    "Mariée à un Américain, elle sait qu'elle vivra hors de France ; elle s'impose de continuer à servir la physique française. Elle joue aussi un rôle dans la création de l'IHES, l'Institut des hautes études scientifiques, à Bures-sur-Yvette.",
+    "Ses propres travaux portent sur les intégrales de chemin. L'idée : pour savoir où va une particule, on additionne tous les trajets qu'elle pourrait prendre, pas seulement le plus direct. Elle enseigne en Caroline du Nord, puis à l'université du Texas à Austin. Elle meurt à Austin le 8 mai 2017, à 94 ans."
+  ],
+  "actions": [
+    {
+      "date": "1944-06-06",
+      "theme": "obstacle",
+      "text": "Les bombardements de Caen tuent sa mère, sa sœur et sa grand-mère pendant qu'elle passe un examen à Paris."
+    },
+    {
+      "date": "1947",
+      "theme": "publication",
+      "text": "Elle obtient son doctorat sur la production des mésons."
+    },
+    {
+      "date": "1951",
+      "theme": "enseignement",
+      "text": "Elle fonde l'école d'été de physique des Houches, qu'elle dirigera vingt-deux ans."
+    },
+    {
+      "date": "2011",
+      "theme": "reconnaissance",
+      "text": "Elle est faite officier de la Légion d'honneur, à l'IHES."
+    }
+  ],
+  "sources": [
+    {
+      "author": "Roger Balian",
+      "title": "Cécile DeWitt-Morette, nécrologie (Physics Today)",
+      "url": "https://physicstoday.aip.org/obituaries/cecile-dewitt-morette"
+    },
+    {
+      "author": "André Martin",
+      "title": "Invigorating French particle physics: Cécile DeWitt-Morette 1922–2017 (CERN Courier)",
+      "url": "https://cerncourier.com/a/invigorating-french-particle-physics-cecile-dewitt-morette-1922-2017/"
+    }
+  ]
+}
