@@ -1,0 +1,47 @@
+{
+  "name": "Asima Chatterjee",
+  "birth": "1917",
+  "death": "2006",
+  "country": "Inde",
+  "region": "asie",
+  "field": "chimie",
+  "published": "2026-02-20",
+  "summary": "Elle a cherché dans les plantes médicinales des molécules contre l'épilepsie et le cancer.",
+  "notes": [
+    "Née le 23 septembre 1917. En 1944, elle obtient un doctorat ès sciences (D.Sc.) de l'Université de Calcutta : première femme à recevoir ce grade d'une université indienne.",
+    "Son terrain : la chimie des plantes médicinales. Elle étudie les alcaloïdes, des molécules fabriquées par les plantes, souvent très actives sur le corps. Elle travaille notamment sur ceux de la pervenche (Vinca), une famille de molécules utilisée contre le cancer. Les sources ne séparent pas clairement sa part de celle de chercheurs venus après elle.",
+    "Elle met au point l'Ayush-56, un médicament contre l'épilepsie tiré de deux plantes, Marsilea minuta et Nardostachys jatamansi. Les sources émettent des réserves sur son efficacité face aux traitements actuels.",
+    "1975 : première femme présidente générale de l'Indian Science Congress, et Padma Bhushan, une haute distinction indienne. De 1982 à 1990, elle siège à la Rajya Sabha, la chambre haute du Parlement, comme membre nommée. Elle meurt en novembre 2006 : le 22 ou le 24 selon les sources (le mémoire de l'INSA donne le 24)."
+  ],
+  "actions": [
+    {
+      "date": "1944",
+      "theme": "reconnaissance",
+      "text": "Doctorat ès sciences de l'Université de Calcutta : première femme à recevoir ce grade d'une université indienne."
+    },
+    {
+      "date": "1975",
+      "theme": "reconnaissance",
+      "text": "Première femme présidente générale de l'Indian Science Congress ; elle reçoit aussi le Padma Bhushan."
+    },
+    {
+      "date": "1982",
+      "theme": "reconnaissance",
+      "text": "Membre nommée de la Rajya Sabha, jusqu'en 1990."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Asima Chatterjee, mémoire biographique (Indian National Science Academy)",
+      "url": "https://insaindia.res.in/hindi/BM/BM32_0709.pdf"
+    },
+    {
+      "title": "Asima Chatterjee (ChemistryViews)",
+      "url": "https://chemistryviews.org/?p=55277"
+    },
+    {
+      "title": "Asima Chatterjee (Google Arts & Culture, Indian Academy of Sciences)",
+      "url": "https://artsandculture.google.com/story/qgWhCdKgS8UJIw"
+    }
+  ]
+}
