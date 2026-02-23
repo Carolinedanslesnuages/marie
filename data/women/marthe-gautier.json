@@ -1,0 +1,52 @@
+{
+  "name": "Marthe Gautier",
+  "birth": "1925",
+  "death": "2022",
+  "country": "France",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-02-23",
+  "summary": "Elle a mis en évidence le chromosome 21 en trop chez les enfants atteints de trisomie 21.",
+  "notes": [
+    "Marthe Gautier est pédiatre. À Harvard, elle a appris la culture cellulaire : faire vivre et se multiplier des cellules hors du corps, dans un récipient. En 1958, dans l'équipe de Raymond Turpin à Paris, elle est la seule à savoir le faire. Selon le témoignage du médecin Jean Aicardi, c'est donc elle qui peut mener les premières expériences de comptage des chromosomes.",
+    "Les chromosomes sont les petits bâtonnets qui portent nos gènes, rangés par paires dans chaque cellule. En les comptant chez des enfants atteints du syndrome de Down, elle voit un chromosome 21 en trop. On parle depuis de trisomie 21 : trois exemplaires au lieu de deux.",
+    "Mais le crédit lui échappe. Jérôme Lejeune emporte ses lames de microscope pour les photographier et ne les lui rend pas. En 1959, la note paraît sous les noms de Lejeune, Gautier et Turpin, dans cet ordre, et son nom y est écorché. En 1962, recevant le prix Kennedy, Lejeune ne la cite pas. Elle s'est dite « flouée ». À l'époque, une jeune femme qui contestait un patron pouvait être mise à l'écart. À l'Inserm, elle postule 17 ans de suite au grade de directrice de recherche, sans succès.",
+    "En 2009, elle publie son propre récit, « Cinquantenaire de la trisomie 21 : retour sur une découverte ». En 2014, le comité d'éthique de l'Inserm conclut que la découverte aurait été impossible sans Turpin et sans elle. Cette année-là, à Bordeaux, des huissiers envoyés par la Fondation Lejeune viennent enregistrer son discours : la conférence est annulée et la médaille lui est remise en privé. Elle meurt en 2022, à 96 ans."
+  ],
+  "actions": [
+    {
+      "date": "1958",
+      "theme": "decouverte",
+      "text": "Grâce à la culture cellulaire, seule dans l'équipe de Raymond Turpin à savoir compter les chromosomes, elle met en évidence un chromosome 21 en trop chez des enfants atteints du syndrome de Down."
+    },
+    {
+      "date": "1959",
+      "theme": "obstacle",
+      "text": "La note paraît sous les noms de Lejeune, Gautier et Turpin, dans cet ordre : Lejeune signe en premier et écorche son nom."
+    },
+    {
+      "date": "2009",
+      "theme": "publication",
+      "text": "Elle publie son propre récit, « Cinquantenaire de la trisomie 21 : retour sur une découverte », dans Médecine/Sciences."
+    },
+    {
+      "date": "2014",
+      "theme": "reconnaissance",
+      "text": "Le comité d'éthique de l'Inserm conclut que la découverte aurait été impossible sans Turpin et Gautier."
+    }
+  ],
+  "sources": [
+    {
+      "title": "This Researcher Discovered the Cause of Down Syndrome but for 50 Years Got No Credit (Scientific American)",
+      "url": "https://www.scientificamerican.com/article/this-researcher-discovered-the-cause-of-down-syndrome-but-for-50-years-got/"
+    },
+    {
+      "title": "Cinquantenaire de la trisomie 21 : retour sur une découverte (iPubli Inserm)",
+      "url": "https://www.ipubli.inserm.fr/handle/10608/6610"
+    },
+    {
+      "title": "Marthe Gautier (Association for Women in Science)",
+      "url": "https://awis.org/historical-women/marthe-gautier/"
+    }
+  ]
+}
