@@ -1,0 +1,54 @@
+{
+  "name": "Claire Voisin",
+  "birth": "1962",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-02-28",
+  "summary": "Spécialiste de géométrie algébrique, elle a reçu la médaille d'or du CNRS en 2016 et est la première mathématicienne admise au Collège de France.",
+  "notes": [
+    "Claire Voisin naît le 4 mars 1962 à Saint-Leu-la-Forêt, dans le Val-d'Oise. En 1981, elle entre à l'École normale supérieure de Sèvres, côté sciences. Elle passe l'agrégation de mathématiques en 1983, puis prépare une thèse à l'université Paris-Sud avec Arnaud Beauville. Elle la soutient en 1986 et entre aussitôt au CNRS, où elle travaille une trentaine d'années, à Orsay puis à l'Institut de mathématiques de Jussieu.",
+    "Son domaine, c'est la géométrie algébrique. L'idée : une équation peut dessiner une forme. Une courbe, une surface, ou des objets bien plus étranges, avec plus de dimensions que nous ne pouvons en voir. Claire Voisin étudie ces formes en les reliant à la topologie, la science des formes qu'on peut déformer sans les déchirer, et à la géométrie complexe.",
+    "Elle travaille beaucoup autour de la conjecture de Hodge. Une conjecture, c'est une affirmation que l'on croit vraie sans avoir réussi à la démontrer. Celle-ci fait partie des sept « problèmes du millénaire », chacun doté d'un million de dollars. En 2002, elle montre qu'une version plus large de cette conjecture est fausse, en construisant des contre-exemples : des cas précis où l'affirmation ne tient pas. En 2005, elle montre aussi qu'un résultat connu pour les surfaces, le théorème de Kodaira, ne s'étend pas à toutes les dimensions.",
+    "Les prix s'enchaînent : médaille de bronze du CNRS en 1988, médaille d'argent en 2006, prix Sophie Germain de l'Académie des sciences en 2003, prix Satter de la Société américaine de mathématiques en 2007. En 2010, elle entre à l'Académie des sciences et donne une conférence plénière au Congrès international des mathématiciens, à Hyderabad.",
+    "En 2016, elle devient la première mathématicienne admise au Collège de France, sur la chaire de géométrie algébrique. La même année, le CNRS lui remet sa médaille d'or, la plus haute distinction scientifique française, le 14 décembre à Paris. Le CNRS la décrit comme une « véritable ambassadrice » des mathématiques françaises."
+  ],
+  "actions": [
+    {
+      "date": "1986",
+      "theme": "publication",
+      "text": "Elle soutient sa thèse à l'université Paris-Sud et entre au CNRS."
+    },
+    {
+      "date": "2002",
+      "theme": "decouverte",
+      "text": "Elle construit des contre-exemples à une version élargie de la conjecture de Hodge."
+    },
+    {
+      "date": "2010",
+      "theme": "reconnaissance",
+      "text": "Elle est élue à l'Académie des sciences."
+    },
+    {
+      "date": "2016",
+      "theme": "enseignement",
+      "text": "Elle devient la première mathématicienne admise au Collège de France."
+    },
+    {
+      "date": "2016-12-14",
+      "theme": "reconnaissance",
+      "text": "Le CNRS lui remet sa médaille d'or."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mathematician Claire Voisin awarded the CNRS 2016 gold medal (CNRS)",
+      "url": "https://www.cnrs.fr/en/mathematician-claire-voisin-awarded-cnrs-2016-gold-medal"
+    },
+    {
+      "title": "Claire Voisin, biographie et publications (Collège de France)",
+      "url": "https://www.college-de-france.fr/fr/chaire/claire-voisin-geometrie-algebrique-chaire-statutaire/biography"
+    }
+  ]
+}
