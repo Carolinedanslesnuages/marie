@@ -1,0 +1,47 @@
+{
+  "name": "Emmanuelle Charpentier",
+  "birth": "1968",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-03-06",
+  "summary": "Elle a transformé CRISPR-Cas9, une défense des bactéries, en « ciseaux génétiques » qui coupent l'ADN à un endroit choisi.",
+  "notes": [
+    "Née en 1968 à Juvisy-sur-Orge. Doctorat à l'Institut Pasteur, sur la résistance des bactéries aux antibiotiques, puis postdoctorat à Pasteur. Sa carrière la mène ensuite en Autriche, en Suède et en Allemagne.",
+    "Point de départ : les bactéries ont un système immunitaire. Il s'appelle CRISPR-Cas9. Il repère l'ADN d'un virus et le coupe. Emmanuelle Charpentier décrypte ce mécanisme.",
+    "Puis elle en fait un outil d'édition du génome : des « ciseaux génétiques » qui coupent l'ADN à l'endroit qu'on choisit. On peut ainsi modifier un gène précis. En 2013, elle cofonde CRISPR Therapeutics. Elle dirige ensuite l'unité Max Planck pour la science des pathogènes, à Berlin.",
+    "2020 : prix Nobel de chimie avec Jennifer Doudna, « pour le développement d'une méthode d'édition du génome ». C'est le premier Nobel scientifique remporté uniquement par deux femmes."
+  ],
+  "actions": [
+    {
+      "date": "1995",
+      "theme": "enseignement",
+      "text": "Termine son doctorat à l'Institut Pasteur, sur la résistance des bactéries aux antibiotiques."
+    },
+    {
+      "date": "2013",
+      "theme": "invention",
+      "text": "Cofonde CRISPR Therapeutics."
+    },
+    {
+      "date": "2020",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de chimie avec Jennifer Doudna, premier Nobel scientifique remporté uniquement par deux femmes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emmanuelle Charpentier, facts (nobelprize.org)",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2020/charpentier/facts/"
+    },
+    {
+      "title": "Emmanuelle Charpentier, prix Nobel de chimie 2020 (Max Planck Gesellschaft)",
+      "url": "https://www.mpg.de/15502390/emmanuelle-charpentier-2020-nobel-prize-in-chemistry"
+    },
+    {
+      "title": "Emmanuelle Charpentier, biographie (Futura Sciences)",
+      "url": "https://www.futura-sciences.com/sante/personnalites/biologie-emmanuelle-charpentier-1859/"
+    }
+  ]
+}
