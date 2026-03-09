@@ -1,0 +1,58 @@
+{
+  "name": "Françoise Combes",
+  "birth": "1952-08-12",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-03-09",
+  "summary": "Astrophysicienne des galaxies et de la matière noire, elle a reçu la médaille d'or du CNRS en 2020 et tenu la chaire Galaxies et cosmologie du Collège de France.",
+  "notes": [
+    "Françoise Combes naît le 12 août 1952 à Montpellier. Elle étudie à l'École normale supérieure, passe l'agrégation de sciences physiques, puis soutient en 1980 un doctorat d'État en astrophysique. Elle enseigne à l'ENS et devient directrice adjointe de son laboratoire de physique, avant de rejoindre l'Observatoire de Paris en 1989.",
+    "Sa question de départ : comment les galaxies naissent, grandissent et se transforment ? Pour y répondre, elle combine des observations au télescope et des simulations numériques, c'est-à-dire des galaxies recréées dans un ordinateur. Elle montre ainsi comment une « barre » d'étoiles, au centre de certaines galaxies spirales, peut faire gonfler leur cœur et former un bulbe. Elle relie la forme d'une galaxie à son histoire.",
+    "Autre piste : les quasars, des sources de lumière très lointaines et très brillantes. Quand leur lumière traverse un nuage de gaz, certaines couleurs sont absorbées, comme une signature. Françoise Combes est pionnière de cette méthode pour repérer des molécules dans l'Univers lointain. Ces mesures aident à connaître la température du rayonnement fossile du Big Bang et à vérifier si les lois de la physique ont changé avec le temps.",
+    "Elle travaille aussi sur la matière noire, cette matière invisible qu'on devine par son attraction. Son équipe réalise les premières simulations de barres et de collisions de galaxies avec une gravité modifiée, une autre façon d'expliquer ce qu'on attribue à la matière noire. Elle propose aussi qu'une partie de la matière cachée soit du gaz moléculaire très froid.",
+    "Membre de l'Académie des sciences depuis 2004, elle entre au Collège de France en 2014, sur la chaire Galaxies et cosmologie qu'elle tient jusqu'en 2025. En 2020, le CNRS lui remet sa médaille d'or, l'une des plus hautes distinctions scientifiques françaises. Elle écrit aussi des livres pour le grand public, sur le Big Bang, les trous noirs ou la matière noire."
+  ],
+  "actions": [
+    {
+      "date": "1980",
+      "theme": "enseignement",
+      "text": "Elle soutient son doctorat d'État en astrophysique, après l'ENS et l'agrégation."
+    },
+    {
+      "date": "1989",
+      "theme": "decouverte",
+      "text": "Elle rejoint l'Observatoire de Paris pour étudier la formation et l'évolution des galaxies."
+    },
+    {
+      "date": "2004",
+      "theme": "reconnaissance",
+      "text": "Elle est élue à l'Académie des sciences."
+    },
+    {
+      "date": "2014",
+      "theme": "enseignement",
+      "text": "Elle devient professeure au Collège de France, chaire Galaxies et cosmologie."
+    },
+    {
+      "date": "2020-09-10",
+      "theme": "reconnaissance",
+      "text": "Le CNRS lui attribue sa médaille d'or 2020."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Françoise Combes, biographie (Collège de France)",
+      "url": "https://www.college-de-france.fr/fr/chaire/francoise-combes-galaxies-et-cosmologie-chaire-statutaire/biography"
+    },
+    {
+      "title": "L'astrophysicienne Françoise Combes reçoit la médaille d'or 2020 du CNRS (Observatoire de Paris - PSL)",
+      "url": "https://observatoiredeparis.psl.eu/l-astrophysicienne-francoise.html"
+    },
+    {
+      "title": "Françoise Combes (CNRS)",
+      "url": "https://www.cnrs.fr/en/person/francoise-combes"
+    }
+  ]
+}
