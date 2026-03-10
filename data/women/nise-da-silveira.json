@@ -1,0 +1,47 @@
+{
+  "name": "Nise da Silveira",
+  "birth": "1905",
+  "death": "1999",
+  "country": "Brésil",
+  "region": "ameriques",
+  "field": "medecine",
+  "published": "2026-03-10",
+  "summary": "Psychiatre, elle a remplacé les électrochocs par des ateliers d'art pour soigner des patients schizophrènes.",
+  "notes": [
+    "Nise da Silveira naît à Maceió, dans l'État d'Alagoas, au Brésil. À la faculté de médecine de Bahia, elle est la seule femme de sa promotion. Elle devient psychiatre.",
+    "Après un emprisonnement, elle est amnistiée et reprend en 1944 son poste au Centro Psiquiátrico Nacional de Rio. Elle refuse alors les traitements de l'époque : les électrochocs et la lobotomie, une opération qui coupe une partie du cerveau.",
+    "Elle cherche une autre voie. En 1946, elle crée une section de thérapie occupationnelle, c'est-à-dire un soin par l'activité. Les patients schizophrènes y peignent et y modèlent.",
+    "Le 20 mai 1952, elle inaugure le Musée des images de l'inconscient, à Engenho de Dentro, à Rio."
+  ],
+  "actions": [
+    {
+      "date": "1944",
+      "theme": "obstacle",
+      "text": "Amnistiée après un emprisonnement, elle reprend son poste au Centro Psiquiátrico Nacional de Rio et refuse électrochocs et lobotomie."
+    },
+    {
+      "date": "1946",
+      "theme": "invention",
+      "text": "Elle crée une section de thérapie occupationnelle, avec ateliers de peinture et de modelage, pour les patients schizophrènes."
+    },
+    {
+      "date": "1952-05-20",
+      "theme": "invention",
+      "text": "Elle inaugure le Musée des images de l'inconscient, à Engenho de Dentro (Rio)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nise da Silveira (Museu de Imagens do Inconsciente)",
+      "url": "https://www.museuimagensdoinconsciente.org.br/en/nise-da-silveira"
+    },
+    {
+      "title": "Nise da Silveira and the Museum of Images of the Unconscious (Université de Copenhague, CultMind)",
+      "url": "https://cultmind.ku.dk/research/decolonising-madness/blog/nise-da-silveira-and-the-museum-of-images-of-the-unconscious"
+    },
+    {
+      "title": "Nise da Silveira (American Journal of Psychiatry)",
+      "url": "https://ajp.psychiatryonline.org/doi/10.1176/ajp.2006.163.8.1348"
+    }
+  ]
+}
