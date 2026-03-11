@@ -1,0 +1,47 @@
+{
+  "name": "Émilie du Châtelet",
+  "birth": "1706",
+  "death": "1749",
+  "country": "France",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-03-11",
+  "summary": "Elle a traduit en français les Principia de Newton, en y ajoutant ses propres calculs.",
+  "notes": [
+    "Gabrielle-Émilie Le Tonnelier de Breteuil, marquise du Châtelet, travaille la physique et les mathématiques au siècle des Lumières.",
+    "Son grand chantier : les « Principia » d'Isaac Newton, le livre où il expose sa physique et la gravitation. Le texte est en latin. À partir de 1745, et jusqu'à sa mort, elle le traduit en français et l'accompagne d'un commentaire.",
+    "Elle ne se contente pas de traduire. Elle réécrit les démonstrations de Newton en algèbre, sous forme d'équations. Elle ajoute aussi ses propres solutions, obtenues par le calcul différentiel, l'outil mathématique qui sert à étudier ce qui change.",
+    "Elle ne verra pas le livre paraître. Une partie est publiée en 1756, avec une préface de Voltaire et sous la direction du mathématicien Clairaut. L'œuvre complète paraît en 1759. Pendant longtemps, ce sera la seule traduction française des « Principia », et elle reste la traduction de référence."
+  ],
+  "actions": [
+    {
+      "date": "1745",
+      "theme": "publication",
+      "text": "Elle commence la traduction des « Principia » de Newton, du latin vers le français, avec un commentaire. Elle y travaille jusqu'à sa mort."
+    },
+    {
+      "date": "1756",
+      "theme": "publication",
+      "text": "Après sa mort, une partie de la traduction paraît, avec une préface de Voltaire, sous la direction de Clairaut."
+    },
+    {
+      "date": "1759",
+      "theme": "publication",
+      "text": "Parution de la traduction complète."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gabrielle-Émilie Le Tonnelier de Breteuil, marquise du Châtelet (Encyclopædia Britannica)",
+      "url": "https://www.britannica.com/biography/Gabrielle-Emilie-Le-Tonnelier-de-Breteuil-Marquise-du-Chatelet"
+    },
+    {
+      "title": "Gabrielle-Émilie, marquise du Châtelet (EBSCO Research Starters)",
+      "url": "https://www.ebsco.com/research-starters/history/gabrielle-emilie-marquise-du-chatelet"
+    },
+    {
+      "title": "Émilie du Châtelet, the genius without a beard (Physics World)",
+      "url": "https://physicsworld.com/a/emilie-du-chtelet-the-genius-without-a-beard/"
+    }
+  ]
+}
