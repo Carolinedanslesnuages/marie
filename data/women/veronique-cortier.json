@@ -1,0 +1,57 @@
+{
+  "name": "Véronique Cortier",
+  "birth": "date non publiée",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "informatique",
+  "published": "2026-03-12",
+  "summary": "Chercheuse du CNRS à Nancy, elle vérifie par la logique que les protocoles de communication et de vote électronique tiennent leurs promesses de sécurité.",
+  "notes": [
+    "Pour Véronique Cortier, faire confiance à nos ordinateurs est une mauvaise idée. Elle travaille sur les protocoles cryptographiques : les règles d'échange, avec des messages chiffrés, qui protègent nos communications sur Internet. Son outil, c'est la logique : au lieu de tester un protocole au hasard, elle cherche à prouver qu'aucune attaque ne peut le casser.",
+    "Elle obtient son doctorat en informatique en 2003 à l'École normale supérieure de Cachan (aujourd'hui ENS Paris-Saclay). La même année, elle entre au CNRS comme chargée de recherche au Loria, le Laboratoire lorrain de recherche en informatique et ses applications, près de Nancy. En 2009, à 32 ans, elle devient directrice de recherche dans l'équipe Pesto.",
+    "Avec un financement européen, l'ERC Starting Grant ProSecure obtenu en 2010, elle se penche sur le vote électronique. Le défi : garder chaque vote secret tout en permettant de vérifier que le résultat est juste. Son équipe développe Belenios, un système de vote en ligne. En 2022, il avait déjà servi à plus de 120 000 électeurs, dans plus de 3 500 élections.",
+    "Ses travaux ont permis de définir les propriétés de sécurité essentielles d'un protocole de vote, et de construire des méthodes formelles, c'est-à-dire mathématiques, pour les vérifier. Le CNRS lui remet pour cela sa médaille d'argent en 2022. En 2025, elle fait partie des lauréats d'un ERC Synergy Grant pour mieux protéger les protocoles cryptographiques."
+  ],
+  "actions": [
+    {
+      "date": "2003",
+      "theme": "enseignement",
+      "text": "Elle obtient son doctorat en informatique à l'ENS de Cachan et entre au CNRS, au Loria."
+    },
+    {
+      "date": "2010",
+      "theme": "reconnaissance",
+      "text": "Elle obtient l'ERC Starting Grant ProSecure, qui la mène vers le vote électronique."
+    },
+    {
+      "date": "2015",
+      "theme": "reconnaissance",
+      "text": "Prix Inria - Académie des sciences du jeune chercheur, pour ses travaux sur les protocoles cryptographiques."
+    },
+    {
+      "date": "2022",
+      "theme": "reconnaissance",
+      "text": "Médaille d'argent du CNRS, pour son impact sur la sécurité du vote électronique."
+    },
+    {
+      "date": "2025",
+      "theme": "reconnaissance",
+      "text": "Elle est lauréate d'un ERC Synergy Grant pour mieux protéger les protocoles cryptographiques."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Talents 2022, délégation Centre-Est (CNRS)",
+      "url": "https://www.centre-est.cnrs.fr/sites/delegation_dr6/files/news/2022-12/Book-Talents_2022_DR6_v2.pdf"
+    },
+    {
+      "title": "Médaille d'argent du CNRS : Véronique Cortier renforce la sécurité du vote électronique (PEPR Cybersécurité, CNRS)",
+      "url": "https://pepr-cyber-svp.cnrs.fr/2023/01/16/medaille-dargent-du-cnrs-veronique-cortier/"
+    },
+    {
+      "title": "Véronique Cortier, prix Inria - Académie des sciences du jeune chercheur (CNRS Sciences informatiques)",
+      "url": "https://www.ins2i.cnrs.fr/en/cnrsinfo/veronique-cortier-inria-french-academie-des-sciences-young-researcher-award"
+    }
+  ]
+}
