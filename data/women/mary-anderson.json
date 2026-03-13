@@ -1,0 +1,52 @@
+{
+  "name": "Mary Anderson",
+  "birth": "1866",
+  "death": "1953",
+  "country": "États-Unis (Alabama)",
+  "region": "ameriques",
+  "field": "ingenierie",
+  "published": "2026-03-13",
+  "summary": "Inventrice de l'essuie-glace, une raclette actionnée de l'intérieur par un levier.",
+  "notes": [
+    "Mary Anderson vient de l'Alabama. Elle naît le 19 février 1866.",
+    "En 1902, elle prend le tramway à New York. Il neige. Le conducteur peine à dégager son pare-brise. Elle dessine alors une raclette que l'on actionne de l'intérieur avec un levier.",
+    "Elle dépose sa demande le 18 juin 1903. Le 10 novembre 1903, elle obtient le brevet américain n° 743 801, « Window-Cleaning Device », un appareil pour nettoyer les vitres.",
+    "En 1920, son brevet expire sans que l'appareil ait été fabriqué en série. D'autres profiteront plus tard de son idée. Elle meurt le 27 juin 1953. En 2011, elle entre au National Inventors Hall of Fame, à titre posthume."
+  ],
+  "actions": [
+    {
+      "date": "1902",
+      "theme": "invention",
+      "text": "Dans un tramway à New York, elle imagine une raclette pour pare-brise actionnée de l'intérieur par un levier."
+    },
+    {
+      "date": "1903-11-10",
+      "theme": "invention",
+      "text": "Elle obtient le brevet américain n° 743 801, « Window-Cleaning Device »."
+    },
+    {
+      "date": "1920",
+      "theme": "obstacle",
+      "text": "Son brevet expire sans avoir été produit en série. D'autres profiteront plus tard de son idée."
+    },
+    {
+      "date": "2011",
+      "theme": "reconnaissance",
+      "text": "Elle entre à titre posthume au National Inventors Hall of Fame."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mary Anderson (National Inventors Hall of Fame)",
+      "url": "https://invent.org/inductees/mary-anderson"
+    },
+    {
+      "title": "Mary Anderson (Encyclopedia of Alabama)",
+      "url": "https://encyclopediaofalabama.org/article/mary-anderson/"
+    },
+    {
+      "title": "Alabama Woman Stuck In NYC Traffic In 1902 Invented The Windshield Wiper (NPR)",
+      "url": "https://www.npr.org/2017/07/25/536835744/alabama-woman-stuck-in-nyc-traffic-in-1902-invented-the-windshield-wiper"
+    }
+  ]
+}
