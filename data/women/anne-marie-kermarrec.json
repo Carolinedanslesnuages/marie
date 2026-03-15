@@ -1,0 +1,58 @@
+{
+  "name": "Anne-Marie Kermarrec",
+  "birth": "1970",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "informatique",
+  "published": "2026-03-15",
+  "summary": "Spécialiste des grands systèmes répartis et des algorithmes « épidémiques », elle a été élue à l'Académie des sciences et défend la place des femmes dans le numérique.",
+  "notes": [
+    "Anne-Marie Kermarrec soutient sa thèse en informatique à Rennes en 1996. Elle part ensuite à la Vrije Universiteit d'Amsterdam, revient à l'université de Rennes 1 comme maîtresse de conférences en 1998, puis rejoint Microsoft Research à Cambridge, en Angleterre, de 2000 à 2004.",
+    "En 2004, elle devient directrice de recherche à l'Inria. Elle étudie les systèmes répartis à grande échelle : des milliers d'ordinateurs qui coopèrent sans chef central. Les algorithmes « épidémiques » font circuler une information de proche en proche, comme une rumeur ou un virus. Les réseaux pair-à-pair, eux, relient des ordinateurs d'égal à égal.",
+    "Ses travaux lui valent une bourse du Conseil européen de la recherche (ERC) en 2008, puis le prix Michel Monpetit de l'Académie des sciences en 2011. En avril 2015, elle quitte l'Inria pour fonder Mediego, une jeune entreprise qui personnalise les contenus proposés aux lecteurs de sites d'information.",
+    "En 2017, l'Académie des sciences lui remet son prix de l'innovation. En janvier 2020, elle devient professeure à l'EPFL, l'École polytechnique fédérale de Lausanne, où elle dirige un laboratoire de systèmes informatiques à grande échelle et travaille aussi sur les systèmes qui font tourner l'apprentissage automatique.",
+    "En 2021, elle publie « Numérique, compter avec les femmes », un livre sur la place des femmes en informatique, nourri de son expérience de chercheuse et d'entrepreneuse ; elle y aborde aussi les biais de l'intelligence artificielle. Fin 2024, elle est élue à l'Académie des sciences."
+  ],
+  "actions": [
+    {
+      "date": "1996",
+      "theme": "publication",
+      "text": "Elle soutient sa thèse en informatique à Rennes."
+    },
+    {
+      "date": "2011",
+      "theme": "reconnaissance",
+      "text": "Elle reçoit le prix Michel Monpetit de l'Académie des sciences."
+    },
+    {
+      "date": "2015-04",
+      "theme": "invention",
+      "text": "Elle fonde Mediego, jeune entreprise de personnalisation de contenus."
+    },
+    {
+      "date": "2021",
+      "theme": "publication",
+      "text": "Elle publie « Numérique, compter avec les femmes »."
+    },
+    {
+      "date": "2024",
+      "theme": "reconnaissance",
+      "text": "Elle est élue à l'Académie des sciences."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Anne-Marie Kermarrec, profil (EPFL)",
+      "url": "https://people.epfl.ch/184811?lang=en"
+    },
+    {
+      "title": "IC Professor appointed to the French Academy of Sciences (EPFL)",
+      "url": "https://actu.epfl.ch/news/ic-professor-appointed-to-the-french-academy-of-sc"
+    },
+    {
+      "title": "Anne-Marie Kermarrec, membre (Academia Europaea)",
+      "url": "https://www.ae-info.org/ae/User/Kermarrec_Anne-Marie"
+    }
+  ]
+}
