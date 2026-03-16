@@ -1,0 +1,52 @@
+{
+  "name": "Maria Sibylla Merian",
+  "birth": "1647",
+  "death": "1717",
+  "country": "Allemagne, Pays-Bas",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-03-16",
+  "summary": "Elle a observé et dessiné de près la métamorphose des insectes, en reliant chacun à la plante dont il vit.",
+  "notes": [
+    "Née le 2 avril 1647 à Francfort. Question de départ : d'où viennent les insectes ? À son époque, on croit qu'ils naissent tout seuls de la boue et des déchets. C'est la « génération spontanée ». Merian, elle, regarde. Elle élève des chenilles et note chaque étape.",
+    "1679 : son premier « livre des chenilles » montre les papillons d'Europe et leur métamorphose, de l'œuf au papillon. Elle est l'une des premières à observer et consigner ce passage de si près. Elle relie chaque insecte à la plante dont il se nourrit. C'est une forme précoce de pensée écologique : on étudie l'animal avec son milieu. Linné ne popularise cette approche que plus d'un demi-siècle plus tard.",
+    "1699 : à 52 ans, elle part pour le Suriname, en Amérique du Sud, avec sa fille Dorothea. Elle paie elle-même le voyage. Elle revient en Europe en 1701. Les sources ne s'accordent pas sur la durée du séjour : de 1699 à 1701 pour le British Museum, 21 mois seulement, écourtés par une grave maladie, pour la Maria Sibylla Merian Society. En 1705 paraît à Amsterdam la « Metamorphosis Insectorum Surinamensium » : un volume de plus d'un demi-mètre, 60 gravures coloriées à la main. Elle y décrit aussi des mouches ou des guêpes qui sortent de chrysalides. C'est peut-être la première trace écrite du parasitisme chez les insectes.",
+    "Obstacles : la peinture de fleurs et la broderie font partie des rares arts permis aux femmes. Elle en fait un outil de science. Des naturalistes jugent ses observations trop « fantaisistes » ; elles sont pourtant, pour la plupart, exactes. Elle quitte un mariage malheureux, et le divorce est prononcé en 1692. Elle meurt en 1717 à Amsterdam, dans la pauvreté, à 69 ans."
+  ],
+  "actions": [
+    {
+      "date": "1679",
+      "theme": "publication",
+      "text": "Premier « livre des chenilles », sur les papillons européens et leur métamorphose."
+    },
+    {
+      "date": "1692",
+      "theme": "obstacle",
+      "text": "Divorce prononcé, après un mariage malheureux qu'elle a quitté."
+    },
+    {
+      "date": "1699-06",
+      "theme": "decouverte",
+      "text": "Part pour le Suriname avec sa fille Dorothea, à 52 ans, un voyage qu'elle finance elle-même."
+    },
+    {
+      "date": "1705",
+      "theme": "publication",
+      "text": "Publie à Amsterdam la « Metamorphosis Insectorum Surinamensium », avec 60 gravures coloriées à la main."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Maria Sibylla Merian : metamorphosis, art and science (Natural History Museum)",
+      "url": "https://nhm.ac.uk/discover/maria-sibylla-merian-metamorphosis-art-and-science.html"
+    },
+    {
+      "title": "Maria Sibylla Merian (Science History Institute)",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/maria-sibylla-merian/"
+    },
+    {
+      "title": "10 things about Maria Sibylla Merian (Rijksmuseum)",
+      "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/maria-sibylla-merian-en"
+    }
+  ]
+}
