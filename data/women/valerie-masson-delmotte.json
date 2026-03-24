@@ -1,0 +1,58 @@
+{
+  "name": "Valérie Masson-Delmotte",
+  "birth": "1971",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "terre-climat",
+  "published": "2026-03-24",
+  "summary": "Paléoclimatologue au LSCE, elle lit les climats du passé dans les glaces et a coprésidé le groupe I du GIEC de 2015 à 2023.",
+  "notes": [
+    "Valérie Masson-Delmotte naît en 1971. Enfant, elle rêve en regardant les nuages et apprend surtout en lisant. Après une classe préparatoire, elle entre à l'École centrale de Paris. Son stage de fin d'études la mène vers les sciences du climat.",
+    "Sa thèse, soutenue en 1996, porte sur la modélisation des climats passés, notamment le « Sahara vert » : une époque où le grand désert était couvert de végétation. Modéliser, c'est reproduire le climat dans un ordinateur pour comprendre ce qui le fait changer. Juste après sa soutenance, Jean Jouzel l'embauche au LSCE, le Laboratoire des sciences du climat et de l'environnement, à Saclay.",
+    "Elle devient paléoclimatologue, une chercheuse des climats anciens. Ses archives naturelles : les carottes de glace, de longs cylindres de glace forés dans les calottes polaires, et les cernes des arbres. Elle suit aussi les isotopes de l'eau, des variantes légèrement plus lourdes ou plus légères des molécules d'eau, qui gardent la trace des températures, surtout dans les régions polaires.",
+    "De 2015 à 2023, elle copréside avec Panmao Zhai le groupe I du GIEC, celui qui fait le point sur les bases physiques du changement climatique. En octobre 2018 paraît le rapport spécial sur un réchauffement de 1,5 °C. La même année, la revue Nature la compte parmi les dix scientifiques qui ont marqué 2018.",
+    "Elle parle aussi des freins que rencontrent les femmes en science : l'autocensure, la difficulté de concilier travail et famille, le petit nombre de femmes aux postes de responsabilité. Aux lycéennes, elle dit qu'un esprit rigoureux et l'envie de raisonner suffisent pour faire de la science, et invite les jeunes à « oser pousser la porte des labos »."
+  ],
+  "actions": [
+    {
+      "date": "1996",
+      "theme": "enseignement",
+      "text": "Elle soutient sa thèse sur les climats passés et entre au LSCE."
+    },
+    {
+      "date": "2015",
+      "theme": "reconnaissance",
+      "text": "Elle devient coprésidente du groupe I du GIEC, jusqu'en 2023."
+    },
+    {
+      "date": "2018-10",
+      "theme": "publication",
+      "text": "Parution du rapport spécial du GIEC sur un réchauffement de 1,5 °C."
+    },
+    {
+      "date": "2019-03-25",
+      "theme": "reconnaissance",
+      "text": "Le CNRS lui décerne sa médaille d'argent."
+    },
+    {
+      "date": "2025",
+      "theme": "reconnaissance",
+      "text": "Elle est reçue à l'Académie des sciences."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Valérie Masson-Delmotte : s'acclimater à la science citoyenne (Université Paris-Saclay)",
+      "url": "https://www.universite-paris-saclay.fr/actualites/valerie-masson-delmotte-sacclimater-la-science-citoyenne"
+    },
+    {
+      "title": "Reception of Valérie Masson-Delmotte at the Académie des Sciences (LSCE)",
+      "url": "https://www.lsce.ipsl.fr/en/reception-of-valerie-masson-delmotte-at-the-academie-des-sciences/"
+    },
+    {
+      "title": "Valérie Masson-Delmotte médaillée d'argent 2019 du CNRS (UVSQ)",
+      "url": "https://www.uvsq.fr/valerie-masson-delmotte-medaillee-dargent-2019-du-cnrs"
+    }
+  ]
+}
