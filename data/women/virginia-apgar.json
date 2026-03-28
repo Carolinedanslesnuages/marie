@@ -1,0 +1,53 @@
+{
+  "name": "Virginia Apgar",
+  "birth": "1909",
+  "death": "1974",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "medecine",
+  "published": "2026-03-28",
+  "summary": "Elle a inventé le score d'Apgar, qui évalue l'état d'un bébé dès sa naissance.",
+  "notes": [
+    "En 1933, Virginia Apgar sort quatrième de sa promotion de médecine à Columbia. Elle veut être chirurgienne. Le chef de chirurgie l'en détourne : selon lui, la chirurgie n'a pas d'avenir pour une femme. Elle se tourne vers l'anesthésie.",
+    "En 1949, elle devient la première femme professeure titulaire au College of Physicians and Surgeons de Columbia.",
+    "En 1952, elle présente une méthode simple pour savoir, dès la naissance, si un bébé va bien. Elle regarde cinq signes : le cœur, la respiration, le tonus des muscles, les réflexes et la couleur de la peau. Chacun reçoit une note de 0 à 2. C'est le score d'Apgar, publié en 1953.",
+    "En 1959, elle obtient un master de santé publique à Johns Hopkins. Elle dirige ensuite la division des malformations congénitales de la March of Dimes."
+  ],
+  "actions": [
+    {
+      "date": "1933",
+      "theme": "obstacle",
+      "text": "Quatrième de sa promotion à Columbia, elle est détournée de la chirurgie, jugée sans avenir pour une femme."
+    },
+    {
+      "date": "1949",
+      "theme": "enseignement",
+      "text": "Première femme professeure titulaire au College of Physicians and Surgeons de Columbia."
+    },
+    {
+      "date": "1952",
+      "theme": "invention",
+      "text": "Elle présente le score d'Apgar : cinq signes notés de 0 à 2 à la naissance."
+    },
+    {
+      "date": "1953",
+      "theme": "publication",
+      "text": "Le score paraît dans Current Researches in Anesthesia and Analgesia."
+    },
+    {
+      "date": "1959",
+      "theme": "enseignement",
+      "text": "Master de santé publique à Johns Hopkins, puis direction de la division des malformations congénitales de la March of Dimes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dr. Virginia Apgar, Changing the Face of Medicine (National Library of Medicine)",
+      "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_virginia_apgar.html?id=item-13"
+    },
+    {
+      "title": "The Virginia Apgar Papers, biographie (NLM Profiles in Science)",
+      "url": "https://profiles.nlm.nih.gov/spotlight/cp/feature/biographical"
+    }
+  ]
+}
