@@ -1,0 +1,55 @@
+{
+  "name": "Alice Recoque",
+  "birth": "1929",
+  "death": "2021",
+  "country": "France",
+  "region": "europe",
+  "field": "informatique",
+  "published": "2026-03-29",
+  "summary": "Elle a dirigé la conception du Mitra 15, mini-ordinateur français vendu à plus de 7 000 exemplaires, puis la recherche en intelligence artificielle chez Bull.",
+  "notes": [
+    "Alice Arnaud naît le 29 août 1929 à Cherchell, en Algérie. Après son baccalauréat, elle part à Paris préparer l'ESPCI, l'École supérieure de physique et de chimie industrielles. En 1950, elle y entre quatrième, dans une promotion de 40 élèves dont 6 femmes. Elle se spécialise en électronique.",
+    "En 1954, elle entre à la SEA, la Société d'électronique et d'automatisme, qui fabrique les premiers ordinateurs français. Elle y conçoit des mémoires magnétiques à tores de ferrite : de minuscules anneaux qui gardent l'information. Elle participe ensuite, avec Françoise Becquet, à la conception du CAB 500, un petit ordinateur de bureau. Elle cosigne plusieurs brevets en France et aux États-Unis.",
+    "Quand la SEA est absorbée par la CII, créée en 1966, la CII lui confie un nouveau projet de mini-ordinateur. Il devient le Mitra 15, présenté en mai 1971. C'est un succès : plus de 7 000 exemplaires, utilisés par EDF, les PTT et jusqu'au banc de contrôle de la fusée Ariane 1.",
+    "Chez Bull, elle est nommée en 1985 directrice de la mission intelligence artificielle. Elle fait créer un centre de recherche de 200 personnes, travaille sur les systèmes experts et la compréhension du langage, et défend déjà les réseaux de neurones pour leur capacité à apprendre. Elle enseigne aussi l'informatique pendant vingt ans, dans plusieurs écoles d'ingénieurs.",
+    "« Dans un univers très masculin j'ai cherché à oublier que j'étais une femme mais les autres ne l'oublient jamais », disait-elle. Elle meurt le 28 janvier 2021. En 2026, le deuxième supercalculateur exaflopique européen, installé au CEA, porte son nom."
+  ],
+  "actions": [
+    {
+      "date": "1950",
+      "theme": "enseignement",
+      "text": "Elle entre à l'ESPCI, dans une promotion de 40 élèves dont 6 femmes."
+    },
+    {
+      "date": "1954",
+      "theme": "invention",
+      "text": "Elle entre à la SEA et conçoit des mémoires magnétiques, puis participe au CAB 500."
+    },
+    {
+      "date": "1971-05",
+      "theme": "invention",
+      "text": "Présentation du Mitra 15, mini-ordinateur dont elle a dirigé la conception."
+    },
+    {
+      "date": "1985",
+      "theme": "reconnaissance",
+      "text": "Elle devient directrice de la mission intelligence artificielle chez Bull."
+    },
+    {
+      "date": "2026",
+      "theme": "reconnaissance",
+      "text": "Un supercalculateur exaflopique européen porte son nom."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Alice Recoque, pionnières de la tech (Académie des technologies)",
+      "url": "https://www.academie-technologies.fr/pionnieres_tech/recoque-alice/"
+    },
+    {
+      "author": "Guillaume Verdin",
+      "title": "Alice Recoque, une pionnière de l'informatique nous a quittés (MO5.COM)",
+      "url": "https://mag.mo5.com/192360/alice-recoque-une-pionniere-de-linformatique-nous-a-quittes/"
+    }
+  ]
+}
