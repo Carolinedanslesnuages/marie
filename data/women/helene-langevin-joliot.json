@@ -1,0 +1,54 @@
+{
+  "name": "Hélène Langevin-Joliot",
+  "birth": "1927",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-03-30",
+  "summary": "Physicienne nucléaire au CNRS pendant toute sa carrière, petite-fille de Marie Curie, elle a étudié les réactions entre noyaux d'atomes à l'Institut de physique nucléaire d'Orsay.",
+  "notes": [
+    "Hélène Joliot naît en 1927 dans une famille de science. Sa mère est Irène Joliot-Curie, son père Frédéric Joliot-Curie, tous deux prix Nobel. Sa grand-mère est Marie Curie : « J'avais sept ans quand Marie est morte », raconte-t-elle, et elle n'en garde qu'un souvenir léger.",
+    "En 1949, elle entre au CNRS, où elle fera toute sa carrière. Elle commence au laboratoire de physique et chimie nucléaires du Collège de France. En 1957, elle rejoint l'Institut de physique nucléaire d'Orsay, que sa mère avait imaginé et que son père a fait terminer. Elle devient directrice de recherche en 1969.",
+    "Son sujet : les réactions nucléaires. On envoie des particules sur des noyaux d'atomes, avec un accélérateur, et on regarde ce qui se passe quand ils se heurtent. Elle étudie notamment des noyaux très « excités », c'est-à-dire chargés d'énergie. De 1973 à 1978, elle coordonne le projet de synchrocyclotron de 200 MeV d'Orsay, un accélérateur circulaire.",
+    "Elle raconte avoir été empêchée de travailler trois mois au laboratoire anglais de Harwell parce qu'elle était « la fille des Joliot-Curie » : une discrimination politique, dit-elle. Dans les années 1980, lors d'un déjeuner au ministère de la Recherche où l'on parle du manque de femmes en science, elle fait remarquer : « Regardez autour de la table. Je suis la seule femme. » Elle estime qu'après la guerre, les femmes représentaient peut-être 20 à 25 % des physiciens nucléaires en France.",
+    "Retraitée en 1992 et nommée directrice de recherche émérite, elle continue à fréquenter Orsay. Elle préside l'Union rationaliste de 2004 à 2012, s'engage contre la course aux armes nucléaires et défend la place des femmes en science."
+  ],
+  "actions": [
+    {
+      "date": "1957",
+      "theme": "decouverte",
+      "text": "Elle rejoint l'Institut de physique nucléaire d'Orsay pour étudier les réactions nucléaires."
+    },
+    {
+      "date": "1969",
+      "theme": "reconnaissance",
+      "text": "Elle devient directrice de recherche au CNRS."
+    },
+    {
+      "date": "1973",
+      "theme": "invention",
+      "text": "Elle prend la coordination du projet de synchrocyclotron de 200 MeV d'Orsay, jusqu'en 1978."
+    },
+    {
+      "date": "2004",
+      "theme": "enseignement",
+      "text": "Elle prend la présidence de l'Union rationaliste, qu'elle garde jusqu'en 2012."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hélène Langevin-Joliot, Honorary Academician (Royal European Academy of Doctors)",
+      "url": "https://raed.academy/en/?p=109384"
+    },
+    {
+      "title": "Hélène Langevin-Joliot, témoignage, colloque Einstein au Collège de France (Collège de France)",
+      "url": "https://www.college-de-france.fr/fr/agenda/colloque/einstein-au-college-de-france/temoignage"
+    },
+    {
+      "author": "Cindy Kelly",
+      "title": "Hélène Langevin-Joliot's Interview (Atomic Heritage Foundation)",
+      "url": "https://ahf.nuclearmuseum.org/voices/oral-histories/helene-langevin-joliots-interview/"
+    }
+  ]
+}
