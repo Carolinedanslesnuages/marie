@@ -1,0 +1,42 @@
+{
+  "name": "Glenda Gray",
+  "birth": "date non publiée",
+  "death": "",
+  "country": "Afrique du Sud",
+  "region": "afrique",
+  "field": "medecine",
+  "published": "2026-03-31",
+  "summary": "Pédiatre, elle a cherché comment empêcher les mères séropositives de transmettre le VIH à leur bébé.",
+  "notes": [
+    "Glenda Gray est pédiatre, diplômée de l'Université du Witwatersrand, en Afrique du Sud. Elle a présidé le SAMRC, le conseil sud-africain de la recherche médicale.",
+    "Sa question : comment éviter qu'une mère porteuse du VIH ne transmette le virus à son enfant, pendant la grossesse ou à la naissance ? À Soweto, elle cofonde la Perinatal HIV Research Unit. L'unité cherche le traitement antirétroviral le plus court possible pour bloquer cette transmission.",
+    "Elle lance aussi l'étude PETRA de l'ONUSIDA, qui teste deux médicaments, l'AZT et le 3TC, autour de la naissance. En 2004, en s'appuyant sur l'essai SAINT, elle défend la névirapine devant le Medicines Control Council, l'autorité sud-africaine du médicament. Ses recherches portent aussi sur l'allaitement et la survie des nourrissons.",
+    "Selon elle, la transmission du VIH de la mère à l'enfant est tombée sous 2 % en Afrique du Sud. En 2013, elle reçoit l'Ordre de Mapungubwe (argent)."
+  ],
+  "actions": [
+    {
+      "date": "2004",
+      "theme": "publication",
+      "text": "Elle défend la névirapine devant le Medicines Control Council, en s'appuyant sur l'essai SAINT."
+    },
+    {
+      "date": "2013",
+      "theme": "reconnaissance",
+      "text": "Ordre de Mapungubwe (argent)."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Glenda Gray, chronologie (South African Medical Research Council, PDF)",
+      "url": "https://www.samrc.ac.za/sites/default/files/attachments/2022-04/TimelineGlenda.pdf"
+    },
+    {
+      "title": "Glenda Gray, HIV/AIDS in South Africa (NIH Fogarty International Center)",
+      "url": "https://fic.nih.gov/News/GlobalHealthMatters/november-december-2018/Pages/glenda-gray-hiv-aids-south-africa.aspx"
+    },
+    {
+      "title": "Névirapine devant le Medicines Control Council (Health-e News)",
+      "url": "https://health-e.org.za/?p=1123"
+    }
+  ]
+}
