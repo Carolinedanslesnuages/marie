@@ -1,0 +1,38 @@
+{
+  "name": "Elizabeth Blackburn",
+  "birth": "1948",
+  "death": "",
+  "country": "Australie, États-Unis",
+  "region": "oceanie",
+  "field": "biologie",
+  "published": "2026-04-05",
+  "summary": "Avec Carol Greider, elle a découvert la télomérase, l'enzyme qui protège le bout des chromosomes.",
+  "notes": [
+    "Née le 26 novembre 1948 à Hobart, en Tasmanie (Australie). Elle fait ensuite carrière aux États-Unis.",
+    "Son sujet : les télomères. Ce sont des « capuchons » au bout des chromosomes, un peu comme l'embout d'un lacet. Ils protègent les chromosomes quand la cellule se divise.",
+    "1984 : à Berkeley, avec son étudiante Carol Greider, elle découvre la télomérase. Cette enzyme reconstruit les télomères.",
+    "2009 : prix Nobel de physiologie ou médecine, avec Carol Greider et Jack Szostak."
+  ],
+  "actions": [
+    {
+      "date": "1984",
+      "theme": "decouverte",
+      "text": "Découvre la télomérase avec son étudiante Carol Greider, à Berkeley."
+    },
+    {
+      "date": "2009",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physiologie ou médecine avec Carol Greider et Jack Szostak."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elizabeth H. Blackburn, facts (nobelprize.org)",
+      "url": "https://nobelprize.org/prizes/medicine/2009/blackburn/facts/"
+    },
+    {
+      "title": "Women who changed science : Elizabeth Blackburn (nobelprize.org)",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/elizabeth-blackburn/"
+    }
+  ]
+}
