@@ -1,0 +1,42 @@
+{
+  "name": "Trota de Salerne",
+  "birth": "XIIe siècle (ou fin du XIe)",
+  "death": "XIIe siècle",
+  "country": "Italie (Salerne)",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-04-08",
+  "summary": "Praticienne de Salerne, elle a écrit sur les soins des femmes.",
+  "notes": [
+    "Trota a vraiment existé. C'est une praticienne de Salerne, en Italie. Ses dates sont discutées : la recherche actuelle la place plutôt au début ou au milieu du XIIe siècle, certaines sources à la fin du XIe.",
+    "Ce qui est documenté : trois textes ont été rassemblés sous le titre « Trotula ». Un seul lui est vraiment attribué, le De curis mulierum, « Des soins des femmes ». On connaît aussi un recueil de ses remèdes, la Practica secundum Trotam.",
+    "Ce qui est légende : « Trotula » n'a jamais été un prénom de femme. C'était le titre d'un recueil, « le petit livre de Trota ». Et rien ne prouve qu'elle occupait une « chaire » à l'école de Salerne.",
+    "Son œuvre authentique a été oubliée pendant des siècles. Elle a été redécouverte seulement à la fin du XXe siècle."
+  ],
+  "actions": [
+    {
+      "date": "1100",
+      "theme": "publication",
+      "text": "Au XIIe siècle (année inconnue), elle écrit le De curis mulierum, « Des soins des femmes », le seul des trois textes du « Trotula » qui lui soit vraiment attribué."
+    },
+    {
+      "date": "1100",
+      "theme": "publication",
+      "text": "Au XIIe siècle (année inconnue), ses remèdes sont réunis dans un recueil, la Practica secundum Trotam."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Who/what is Trotula? (University College Cork, CELT)",
+      "url": "https://celt.ucc.ie/whowhat2008.pdf"
+    },
+    {
+      "title": "Trotula (EBSCO Research Starters)",
+      "url": "https://ebsco.com/research-starters/biography/trotula"
+    },
+    {
+      "title": "Trota of Salerno (Encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/trota-salerno"
+    }
+  ]
+}
