@@ -1,0 +1,52 @@
+{
+  "name": "Gertrude B. Elion",
+  "birth": "1918 ou 1919",
+  "death": "1999",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "medecine",
+  "published": "2026-04-11",
+  "summary": "Elle a créé des médicaments contre la leucémie, le rejet des greffes, la goutte et l'herpès.",
+  "notes": [
+    "Gertrude Elion naît à New York en 1918, ou en 1919 selon la Royal Society of Biology. Après 1937, il est presque impossible pour une femme d'entrer en master de sciences ou dans la recherche industrielle. En 1939, elle est la seule femme de sa promotion à l'Université de New York (NYU).",
+    "Elle fabrique des molécules pour bloquer des cellules malades. En 1950, elle découvre la 6-mercaptopurine. Ce médicament empêche la formation des cellules de leucémie, un cancer du sang.",
+    "Elle continue. En 1962, elle brevette l'azathioprine, qui aide le corps à ne pas rejeter un rein greffé. Elle met aussi au point l'allopurinol, contre la goutte, et l'aciclovir, contre l'herpès. Au total, elle dépose 45 brevets.",
+    "En 1988, elle reçoit le prix Nobel avec George Hitchings et James Black. Elle meurt le 21 février 1999."
+  ],
+  "actions": [
+    {
+      "date": "1939",
+      "theme": "obstacle",
+      "text": "Seule femme de sa promotion à NYU, à une époque où la recherche industrielle était presque fermée aux femmes."
+    },
+    {
+      "date": "1950",
+      "theme": "decouverte",
+      "text": "Elle découvre la 6-mercaptopurine, qui empêche la formation des cellules de leucémie."
+    },
+    {
+      "date": "1962",
+      "theme": "invention",
+      "text": "Brevet de l'azathioprine, médicament contre le rejet des greffes de rein."
+    },
+    {
+      "date": "1988",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel avec George Hitchings et James Black."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gertrude Elion (Lemelson-MIT)",
+      "url": "https://lemelson.mit.edu/resources/gertrude-elion"
+    },
+    {
+      "title": "Gertrude B. Elion, Biographical Memoir (National Academy of Sciences)",
+      "url": "https://nap.nationalacademies.org/read/9977/chapter/3"
+    },
+    {
+      "title": "Gertrude Elion, Women who changed science (Prix Nobel)",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/gertrude-elion/"
+    }
+  ]
+}
