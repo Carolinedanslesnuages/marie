@@ -1,0 +1,52 @@
+{
+  "name": "Rachel Carson",
+  "birth": "1907",
+  "death": "1964",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "biologie",
+  "published": "2026-04-12",
+  "summary": "Biologiste marine, elle a montré les dégâts des pesticides comme le DDT sur la faune dans « Printemps silencieux ».",
+  "notes": [
+    "Rachel Carson est biologiste des eaux. En 1936, elle entre au Bureau of Fisheries, le service américain des pêches. En 1943, elle est promue biologiste aquatique au Fish and Wildlife Service.",
+    "1952 : elle quitte le service fédéral pour écrire. Elle veut raconter la science au grand public.",
+    "1962 : parution de « Silent Spring » (« Printemps silencieux »). Le livre dénonce les effets des pesticides, comme le DDT, sur les animaux sauvages. Il lance le mouvement environnemental moderne. Une seule source donne le jour exact de parution, le 27 septembre 1962.",
+    "Elle meurt d'un cancer en 1964, à 56 ans. En 1969, une réserve naturelle du Maine prend son nom."
+  ],
+  "actions": [
+    {
+      "date": "1936",
+      "theme": "enseignement",
+      "text": "Entre au Bureau of Fisheries, le service américain des pêches."
+    },
+    {
+      "date": "1943",
+      "theme": "reconnaissance",
+      "text": "Promue biologiste aquatique au Fish and Wildlife Service."
+    },
+    {
+      "date": "1962",
+      "theme": "publication",
+      "text": "Publie « Silent Spring », qui dénonce les effets des pesticides comme le DDT sur la faune."
+    },
+    {
+      "date": "1969",
+      "theme": "reconnaissance",
+      "text": "Une réserve naturelle du Maine prend son nom."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rachel Carson (1907-1964), author of the modern environmental movement (US Fish & Wildlife Service)",
+      "url": "https://www.fws.gov/staff-profile/rachel-carson-1907-1964-author-modern-environmental-movement"
+    },
+    {
+      "title": "Rachel Carson (Science History Institute)",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/rachel-carson/"
+    },
+    {
+      "title": "Carson publishes Silent Spring (EBSCO Research Starters)",
+      "url": "https://www.ebsco.com/research-starters/history/carson-publishes-silent-spring"
+    }
+  ]
+}
