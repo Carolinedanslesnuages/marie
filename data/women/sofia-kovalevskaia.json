@@ -1,0 +1,52 @@
+{
+  "name": "Sofia Kovalevskaïa",
+  "birth": "1850",
+  "death": "1891",
+  "country": "Russie",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-04-21",
+  "summary": "Elle a étudié la rotation d'un corps solide, un travail primé à Paris, et a été l'une des premières femmes professeures de mathématiques.",
+  "notes": [
+    "Sofia Vassilievna Kovalevskaïa est née en Russie en 1850. Elle travaille sur des équations qui décrivent comment les choses bougent et changent, et sur la mécanique, la science du mouvement.",
+    "En 1883, le mathématicien Mittag-Leffler l'invite à l'université de Stockholm, en Suède. Elle y devient chargée de cours, puis professeure associée en 1884. En 1889, elle est nommée professeure titulaire. Selon l'université de Stockholm, c'est la première femme professeure en Suède et la première femme professeure de mathématiques au monde.",
+    "Son travail le plus connu porte sur un vieux problème : comment tourne un objet solide fixé en un point, comme une toupie. Elle lui consacre un mémoire, et le cas qu'elle étudie porte aujourd'hui son nom : la « toupie de Kovalevskaïa ». En 1888, ce mémoire lui vaut le prix Bordin de l'Académie des sciences de Paris. Le jury le juge si remarquable qu'il fait passer le prix de 3 000 à 5 000 francs.",
+    "Elle meurt à Stockholm le 10 février 1891. Sa carrière s'est faite en Suède, et non dans son pays natal."
+  ],
+  "actions": [
+    {
+      "date": "1883",
+      "theme": "enseignement",
+      "text": "Elle devient chargée de cours à l'université de Stockholm, à l'invitation de Mittag-Leffler."
+    },
+    {
+      "date": "1884",
+      "theme": "enseignement",
+      "text": "Elle est nommée professeure associée à Stockholm."
+    },
+    {
+      "date": "1888",
+      "theme": "reconnaissance",
+      "text": "Prix Bordin de l'Académie des sciences de Paris pour son mémoire sur la rotation d'un corps solide, porté de 3 000 à 5 000 francs."
+    },
+    {
+      "date": "1889",
+      "theme": "enseignement",
+      "text": "Professeure titulaire, première femme professeure en Suède selon l'université de Stockholm."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sonya Kovalevsky, la première femme professeure de Suède (Université de Stockholm)",
+      "url": "https://www.su.se/english/about-the-university/cultural-heritage-and-history/the-history-of-stockholm-university/sonya-kovalevsky---swedens-first-female-professor"
+    },
+    {
+      "title": "Sofya Vasilyevna Kovalevskaya (Britannica)",
+      "url": "https://britannica.com/print/article/323006"
+    },
+    {
+      "title": "Kovalevskaya, Dictionary of Scientific Biography (MacTutor, université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/DSB/Kovalevskaya.pdf"
+    }
+  ]
+}
