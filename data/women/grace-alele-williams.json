@@ -1,0 +1,47 @@
+{
+  "name": "Grace Alele-Williams",
+  "birth": "1932",
+  "death": "2022",
+  "country": "Nigeria",
+  "region": "afrique",
+  "field": "mathematiques",
+  "published": "2026-04-26",
+  "summary": "Elle a contribué aux manuels de mathématiques des écoles africaines et dirigé l'université de Benin.",
+  "notes": [
+    "Grace Alele-Williams est née le 16 décembre 1932 à Warri, au Nigeria. En 1954, elle obtient une licence de mathématiques à l'University College d'Ibadan, puis un master en éducation en 1959.",
+    "En 1963, elle obtient un doctorat en didactique des mathématiques, c'est-à-dire l'étude de la manière d'enseigner les mathématiques, à l'université de Chicago. Elle est la première femme du Nigeria à obtenir un doctorat, toutes disciplines confondues.",
+    "De 1963 à 1975, elle participe aux ateliers de l'African Mathematics Programme. Ces ateliers écrivent des manuels, l'« Entebbe Mathematics Series », utilisés dans les écoles africaines. En 1974, elle publie un guide pour les enseignants, le Modern Mathematics Handbook for Teachers.",
+    "De 1985 à 1991, elle dirige l'université de Benin. Elle est souvent présentée comme la première femme à la tête d'une université nigériane. Sa nomination est accueillie avec scepticisme parce qu'elle est une femme. Elle doit aussi affronter les sociétés secrètes, les « cults », sur le campus. Elle meurt le 25 mars 2022 à Lagos."
+  ],
+  "actions": [
+    {
+      "date": "1963",
+      "theme": "reconnaissance",
+      "text": "Doctorat en didactique des mathématiques à Chicago : première Nigériane docteure, toutes disciplines confondues."
+    },
+    {
+      "date": "1974",
+      "theme": "publication",
+      "text": "Parution de son Modern Mathematics Handbook for Teachers."
+    },
+    {
+      "date": "1985",
+      "theme": "enseignement",
+      "text": "Elle devient vice-chancelière de l'université de Benin, poste qu'elle occupe jusqu'en 1991, malgré le scepticisme face à une femme."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Grace Alele-Williams, biographie (MacTutor, université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Alele-Williams/"
+    },
+    {
+      "title": "Hommage à Grace Alele-Williams (Notices de l'American Mathematical Society, PDF)",
+      "url": "https://www.ams.org/journals/notices/202203/rnoti-p439.pdf?adat=March"
+    },
+    {
+      "title": "Grace Alele-Williams (Agnes Scott College)",
+      "url": "https://agnesscott.edu/lriddle/women/williams.htm"
+    }
+  ]
+}
