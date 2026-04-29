@@ -1,0 +1,48 @@
+{
+  "name": "Melitta Bentz",
+  "birth": "1873",
+  "death": "1950",
+  "country": "Allemagne (Dresde)",
+  "region": "europe",
+  "field": "ingenierie",
+  "published": "2026-04-29",
+  "summary": "Inventrice du filtre à café en papier, à Dresde.",
+  "notes": [
+    "Melitta Bentz vit à Dresde, en Allemagne. Ses dates de naissance et de mort ne sont pas confirmées par les sources consultées.",
+    "Tout commence dans sa cuisine. Elle perce un pot en laiton. Comme filtre, elle prend une feuille de papier buvard d'un cahier de son fils. Le café passe, le marc reste.",
+    "Le 20 juin 1908, elle dépose son filtre auprès de l'office impérial des brevets. L'enregistrement paraît au bulletin le 8 juillet 1908. Précision : c'est un modèle d'utilité, une protection plus légère qu'un brevet.",
+    "Le 15 décembre 1908, son entreprise est inscrite au registre du commerce. En 1910, son appareil reçoit des médailles à l'Exposition internationale d'hygiène de Dresde."
+  ],
+  "actions": [
+    {
+      "date": "1908-06-20",
+      "theme": "invention",
+      "text": "Elle dépose son filtre à café auprès de l'office impérial des brevets, comme modèle d'utilité."
+    },
+    {
+      "date": "1908-07-08",
+      "theme": "publication",
+      "text": "L'enregistrement de son filtre paraît au bulletin officiel, page 1145."
+    },
+    {
+      "date": "1908-12-15",
+      "theme": "reconnaissance",
+      "text": "Son entreprise est inscrite au registre du commerce."
+    },
+    {
+      "date": "1910",
+      "theme": "reconnaissance",
+      "text": "Son appareil reçoit des médailles à l'Exposition internationale d'hygiène de Dresde."
+    }
+  ],
+  "sources": [
+    {
+      "title": "110 years of the coffee filter (DPMA, office allemand des brevets)",
+      "url": "https://www.dpma.de/english/our_office/publications/ingeniouswomen/110jahrekaffeefilter/index.html"
+    },
+    {
+      "title": "Melitta Bentz, the woman who invented the coffee filter (Europeana)",
+      "url": "https://www.europeana.eu/en/blog/melitta-bentz-the-woman-who-invented-the-coffee-filter"
+    }
+  ]
+}
