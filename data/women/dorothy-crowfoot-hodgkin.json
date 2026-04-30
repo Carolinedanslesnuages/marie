@@ -1,0 +1,52 @@
+{
+  "name": "Dorothy Crowfoot Hodgkin",
+  "birth": "1910",
+  "death": "1994",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "chimie",
+  "published": "2026-04-30",
+  "summary": "Avec les rayons X, elle a révélé la forme de la pénicilline, de la vitamine B12 et de l'insuline.",
+  "notes": [
+    "Née au Caire en 1910, britannique. Sa méthode : la cristallographie aux rayons X. On envoie des rayons X sur un cristal ; ils rebondissent sur les atomes et laissent une tache sur la photo. À partir de ces taches, avec beaucoup de calculs, on retrouve la position de chaque atome dans la molécule.",
+    "1935 : premières photographies aux rayons X de cristaux d'insuline, l'hormone qui règle le sucre dans le sang. Il lui faudra 34 ans pour en tirer la structure complète en trois dimensions, en 1969.",
+    "Entre-temps, elle trouve la structure de la pénicilline, à la demande de l'équipe d'Howard Florey à Oxford : en 1945 ou 1946 selon les pages. Puis celle de la vitamine B12, au milieu des années 1950 (1954, 1955-56 ou 1956 selon les sources). Pour la B12, elle utilise largement les ordinateurs pour les calculs.",
+    "1964 : prix Nobel de chimie. Elle est la troisième femme à le recevoir. Savoir la forme exacte d'une molécule, c'est comprendre comment elle agit, et comment la fabriquer ou l'améliorer."
+  ],
+  "actions": [
+    {
+      "date": "1935",
+      "theme": "decouverte",
+      "text": "Premières photographies aux rayons X de cristaux d'insuline."
+    },
+    {
+      "date": "1945",
+      "theme": "decouverte",
+      "text": "Structure de la pénicilline, pour l'équipe d'Howard Florey à Oxford (1945 ou 1946 selon les pages)."
+    },
+    {
+      "date": "1964",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de chimie : troisième femme à le recevoir."
+    },
+    {
+      "date": "1969",
+      "theme": "decouverte",
+      "text": "Structure tridimensionnelle de l'insuline, 34 ans après ses premières photos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dorothy Hodgkin, Women who changed science (nobelprize.org)",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/dorothy-hodgkin/"
+    },
+    {
+      "title": "Prix Nobel de chimie 1964 : Dorothy Crowfoot Hodgkin (nobelprize.org)",
+      "url": "https://nobelprize.org/prizes/chemistry/1964/hodgkin/facts/"
+    },
+    {
+      "title": "Dorothy Hodgkin (IUCr)",
+      "url": "https://www.iucr.org/people/nobel-prize/hodgkin"
+    }
+  ]
+}
