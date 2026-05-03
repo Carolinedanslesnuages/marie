@@ -1,0 +1,52 @@
+{
+  "name": "Fe del Mundo",
+  "birth": "1911",
+  "death": "2011",
+  "country": "Philippines",
+  "region": "asie",
+  "field": "medecine",
+  "published": "2026-05-03",
+  "summary": "Pédiatre, elle a inventé une couveuse en bambou et ouvert le premier hôpital pour enfants des Philippines.",
+  "notes": [
+    "Fe del Mundo naît le 27 novembre 1911 à Manille. Certaines pages donnent 1909, mais la source principale retient 1911. En 1933, elle sort major de sa promotion de médecine à l'Université des Philippines.",
+    "Elle est ensuite admise à Harvard… par erreur : l'école ne prenait pas encore de femmes. L'anecdote dit beaucoup des portes fermées aux femmes médecins à l'époque.",
+    "Pédiatre, elle pense aux bébés nés loin des villes. Une couveuse garde un nouveau-né fragile au chaud, mais elle marche à l'électricité, absente des campagnes. En 1941, elle invente une couveuse en bambou, faite de deux paniers à linge.",
+    "En 1957, elle vend sa maison pour ouvrir le Children's Medical Center, le premier hôpital pédiatrique du pays. En 1980, elle est la première femme nommée « National Scientist » des Philippines. Elle meurt le 6 août 2011."
+  ],
+  "actions": [
+    {
+      "date": "1933",
+      "theme": "enseignement",
+      "text": "Major de sa promotion de médecine à l'Université des Philippines."
+    },
+    {
+      "date": "1941",
+      "theme": "invention",
+      "text": "Elle invente une couveuse en bambou, faite de deux paniers à linge, pour les campagnes sans électricité."
+    },
+    {
+      "date": "1957",
+      "theme": "invention",
+      "text": "Elle vend sa maison pour ouvrir le Children's Medical Center, premier hôpital pédiatrique du pays."
+    },
+    {
+      "date": "1980",
+      "theme": "reconnaissance",
+      "text": "Première femme nommée « National Scientist » des Philippines."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fe Villanueva del Mundo (Asia Research News)",
+      "url": "https://www.asiaresearchnews.com/content/fe-villanueva-del-mundo"
+    },
+    {
+      "title": "Fe del Mundo, Elizabeth Blackwell Award (Hobart and William Smith Colleges)",
+      "url": "https://hws.edu/about/history/elizabeth-blackwell/award/del_mundo.aspx"
+    },
+    {
+      "title": "Fe V. del Mundo (DOST SPHERES)",
+      "url": "https://spheres.dost.gov.ph/profiles/474-fe-v-del-mundo"
+    }
+  ]
+}
