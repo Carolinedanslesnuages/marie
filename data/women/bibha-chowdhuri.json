@@ -1,0 +1,52 @@
+{
+  "name": "Bibha Chowdhuri",
+  "birth": "1913",
+  "death": "1991",
+  "country": "Inde",
+  "region": "asie",
+  "field": "physique",
+  "published": "2026-05-18",
+  "summary": "Elle a détecté des mésons, des particules venues des rayons cosmiques, sur des plaques photographiques.",
+  "notes": [
+    "Bibha Chowdhuri travaille au Bose Institute de Calcutta avec D. M. Bose. De 1938 à 1942, ils traquent les particules des rayons cosmiques, qui arrivent de l'espace. Leur outil : des plaques photographiques, exposées en altitude, à Darjeeling et à Sandakphu. Quand une particule les traverse, elle y laisse une trace.",
+    "Ils y repèrent des mésons, une famille de particules. Le travail donne trois articles consécutifs dans la revue Nature, entre 1938 et 1942. Puis la guerre l'arrête : il n'y a plus de plaques. Pourquoi c'est important : Cecil Powell reprend ensuite la même méthode et identifie le méson pi, ou pion. Cela lui vaut le prix Nobel en 1950.",
+    "En 1945, elle rejoint à Manchester le laboratoire de rayons cosmiques de Patrick Blackett. Elle y prépare une thèse sur les grandes gerbes atmosphériques, des pluies de particules dans l'atmosphère. En 1949, Homi Bhabha la recrute : elle devient la première chercheuse du Tata Institute of Fundamental Research (TIFR), où elle reste jusqu'en 1957.",
+    "Elle n'a pourtant jamais été élue dans aucune des trois académies scientifiques indiennes, ni reçu de grand prix. Deux auteurs, Rajinder Singh et Suprakash C. Roy, y voient une discrimination liée au fait qu'elle est une femme, tout en reconnaissant que les preuves sont indirectes. L'Union astronomique internationale a donné son nom, « Bibha », à une étoile de la constellation du Sextant."
+  ],
+  "actions": [
+    {
+      "date": "1938",
+      "theme": "decouverte",
+      "text": "Avec D. M. Bose, elle commence à détecter des mésons sur des plaques photographiques exposées en altitude."
+    },
+    {
+      "date": "1945",
+      "theme": "enseignement",
+      "text": "Elle part à Manchester préparer une thèse dans le laboratoire de Patrick Blackett."
+    },
+    {
+      "date": "1949",
+      "theme": "reconnaissance",
+      "text": "Première chercheuse du Tata Institute of Fundamental Research, recrutée par Homi Bhabha."
+    },
+    {
+      "date": "1950",
+      "theme": "obstacle",
+      "text": "Cecil Powell, qui a repris la même méthode, reçoit le prix Nobel pour le méson pi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bibha Chowdhuri: Celebrating a forgotten life in physics (Down To Earth)",
+      "url": "https://www.downtoearth.org.in/science-technology/bibha-chowdhuri-celebrating-a-forgotten-life-in-physics-62393"
+    },
+    {
+      "title": "Bibha Chowdhuri (Classroom Physicists, université McGill)",
+      "url": "https://classroom-physicists.physics.mcgill.ca/featured-physicists/bibha-chowdhuri"
+    },
+    {
+      "title": "The Mirror (Wellesley College)",
+      "url": "https://blogs.wellesley.edu/mirror/?p=8"
+    }
+  ]
+}
