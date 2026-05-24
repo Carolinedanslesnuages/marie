@@ -1,0 +1,52 @@
+{
+  "name": "Jocelyn Bell Burnell",
+  "birth": "1943",
+  "death": "",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-05-24",
+  "summary": "Encore doctorante, elle a découvert les premiers pulsars.",
+  "notes": [
+    "En 1967, Jocelyn Bell Burnell est doctorante à Cambridge. Elle épluche les enregistrements de son radiotélescope, un instrument qui capte les ondes radio venues du ciel. Elle y repère un signal inhabituel.",
+    "Ce signal vient d'un pulsar, le premier jamais découvert. Les pulsars sont des étoiles à neutrons qui tournent très vite sur elles-mêmes : une forme de matière extrême. L'article paraît en février 1968, avec son directeur, Antony Hewish.",
+    "En 1974, le prix Nobel de physique récompense Hewish et Martin Ryle. Pas elle. Comme Lise Meitner et Chien-Shiung Wu avant elle, elle voit le Nobel aller à des collègues masculins.",
+    "La reconnaissance vient plus tard. En septembre 2018, elle reçoit un prix spécial Breakthrough en physique fondamentale, doté de 3 millions de dollars. Elle donne la somme à l'Institute of Physics, pour financer des doctorats de personnes sous-représentées en physique."
+  ],
+  "actions": [
+    {
+      "date": "1967",
+      "theme": "decouverte",
+      "text": "Doctorante à Cambridge, elle repère un signal radio inhabituel : le premier pulsar."
+    },
+    {
+      "date": "1968-02",
+      "theme": "publication",
+      "text": "L'article sur la découverte paraît, avec son directeur Antony Hewish."
+    },
+    {
+      "date": "1974",
+      "theme": "obstacle",
+      "text": "Le prix Nobel de physique récompense Hewish et Martin Ryle, mais pas elle."
+    },
+    {
+      "date": "2018-09",
+      "theme": "reconnaissance",
+      "text": "Prix spécial Breakthrough en physique fondamentale. Elle donne les 3 millions de dollars à l'Institute of Physics."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jocelyn Bell Burnell and the Discovery of Pulsars (Scientific American)",
+      "url": "https://www.scientificamerican.com/article/jocelyn-bell-burnell-and-the-discovery-of-pulsars/"
+    },
+    {
+      "title": "Decades after being passed over for the Nobel, Jocelyn Bell Burnell gets her due (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/smart-news/decades-after-being-passed-over-nobel-jocelyn-bell-burnell-gets-her-due-180970248/"
+    },
+    {
+      "title": "Annonce du prix spécial 2018 (Breakthrough Prize)",
+      "url": "https://breakthroughprize.org/News/45"
+    }
+  ]
+}
