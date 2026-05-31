@@ -1,0 +1,47 @@
+{
+  "name": "Biruté Galdikas",
+  "birth": "1946",
+  "death": "",
+  "country": "Canada",
+  "region": "ameriques",
+  "field": "biologie",
+  "published": "2026-05-31",
+  "summary": "Elle étudie et protège les orangs-outans de Bornéo depuis 1971.",
+  "notes": [
+    "Biruté Galdikas est canadienne, d'origine lituanienne. Son sujet : les orangs-outans de Bornéo, en Indonésie, des grands singes qui vivent dans les arbres.",
+    "1971 : elle fonde un projet de recherche et de protection des orangs-outans à Tanjung Puting, et le Camp Leakey, nommé d'après son mentor Louis Leakey. Elle arrive sur place avec son mari Rod Brindamour.",
+    "Méthode : la patience. Il faut que les animaux s'habituent à sa présence. Avec la femelle Priscilla, cela prend 15 ans. En 1978, elle soutient un doctorat d'anthropologie à l'UCLA sur ce terrain. Son programme est décrit comme la plus longue étude continue d'un mammifère menée par une seule chercheuse principale.",
+    "1986 : le projet devient l'Orangutan Foundation International. Il mêle recherche, éducation et protection de la forêt. Ses campagnes ont aidé à renforcer la protection de Tanjung Puting."
+  ],
+  "actions": [
+    {
+      "date": "1971",
+      "theme": "decouverte",
+      "text": "Fonde le Camp Leakey et un projet de recherche sur les orangs-outans à Tanjung Puting, à Bornéo."
+    },
+    {
+      "date": "1978",
+      "theme": "enseignement",
+      "text": "Doctorat en anthropologie à l'UCLA, tiré de son terrain à Bornéo."
+    },
+    {
+      "date": "1986",
+      "theme": "invention",
+      "text": "Le projet devient l'Orangutan Foundation International : recherche, éducation, protection de la forêt."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Biruté Galdikas (Environment & Society Portal)",
+      "url": "https://www.environmentandsociety.org/node/2669"
+    },
+    {
+      "title": "Biruté Galdikas and the orangutans of Borneo (National Geographic)",
+      "url": "https://www.nationalgeographic.com/animals/article/birute-galdikas-orangutans-borneo-october-1975"
+    },
+    {
+      "title": "Biruté Mary Galdikas knows orangutans (Sierra Club)",
+      "url": "https://sierraclub.org/sierra/birut-mary-galdikas-knows-orangutans"
+    }
+  ]
+}
