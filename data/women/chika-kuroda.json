@@ -1,0 +1,53 @@
+{
+  "name": "Chika Kuroda",
+  "birth": "1884",
+  "death": "1968",
+  "country": "Japon",
+  "region": "asie",
+  "field": "chimie",
+  "published": "2026-06-01",
+  "summary": "Elle a percé la structure des pigments naturels, du grémil pourpre au carthame.",
+  "notes": [
+    "Née le 24 mars 1884. Obstacle : avant 1913, les universités impériales japonaises n'admettent pas les femmes ; le plus haut niveau d'études ouvert aux filles est l'École normale supérieure de jeunes filles. En 1913, elle entre au département de chimie de l'Université impériale de Tohoku, parmi les toutes premières étudiantes.",
+    "Septembre 1916 : diplômée, première Japonaise titulaire d'une licence de sciences. En novembre 1918, elle est la première femme à présenter un exposé devant la Société chimique de Tokyo. Son sujet : le pigment du grémil pourpre (Lithospermum erythrorhizon), qu'elle nomme shikonine. L'exposé « fait grand bruit ».",
+    "De 1921 à 1923, elle séjourne en Grande-Bretagne : à Oxford, chez W. H. Perkin, selon la bibliothèque d'Ochanomizu ; à Cambridge selon la Bibliothèque nationale de la Diète.",
+    "1929 : doctorat sur la structure de la carthamine, le pigment rouge du carthame. C'est le deuxième doctorat ès sciences d'une Japonaise, après Kono Yasui. En 1936, elle reçoit le premier prix Majima de la Société chimique du Japon. En 1949, elle extrait de la quercétine de pelures d'oignon et met au point un médicament contre l'hypertension. Elle meurt le 8 novembre 1968."
+  ],
+  "actions": [
+    {
+      "date": "1913",
+      "theme": "obstacle",
+      "text": "Elle entre à l'Université impériale de Tohoku, alors que ces universités fermaient jusque-là leurs portes aux femmes."
+    },
+    {
+      "date": "1918-11",
+      "theme": "decouverte",
+      "text": "Première femme à parler devant la Société chimique de Tokyo : elle y présente la shikonine, pigment du grémil pourpre."
+    },
+    {
+      "date": "1929",
+      "theme": "publication",
+      "text": "Doctorat sur la structure de la carthamine, pigment rouge du carthame."
+    },
+    {
+      "date": "1936",
+      "theme": "reconnaissance",
+      "text": "Premier prix Majima de la Société chimique du Japon."
+    },
+    {
+      "date": "1949",
+      "theme": "invention",
+      "text": "Elle tire la quercétine des pelures d'oignon et en fait un médicament contre l'hypertension."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kuroda Chika (Bibliothèque de l'Université Ochanomizu)",
+      "url": "https://www.lib.ocha.ac.jp/en/06/kuroda_chika.html"
+    },
+    {
+      "title": "Kuroda Chika, Portraits of Modern Japanese Historical Figures (Bibliothèque nationale de la Diète)",
+      "url": "https://www.ndl.go.jp/portrait/e/datas/6472"
+    }
+  ]
+}
