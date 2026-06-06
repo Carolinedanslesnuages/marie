@@ -1,0 +1,53 @@
+{
+  "name": "Edith Clarke",
+  "birth": "1883",
+  "death": "1959",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "ingenierie",
+  "published": "2026-06-06",
+  "summary": "Ingénieure électricienne, elle a inventé un calculateur pour les lignes électriques.",
+  "notes": [
+    "Edith Clarke naît en 1883 à Ellicott City, dans le Maryland. Elle est orpheline à 12 ans.",
+    "En 1919, elle est la première femme diplômée d'un master en génie électrique du MIT. Pourtant, elle cherche pendant des mois un poste d'ingénieure. Elle doit d'abord accepter un emploi de « calculatrice humaine ».",
+    "Elle invente un calculateur graphique. Il résout les équations des lignes électriques (courant, tension, impédance) environ dix fois plus vite qu'avant. Elle dépose sa demande en 1921 et obtient le brevet américain n° 1 552 113 le 1er septembre 1925. Chez GE, elle devient ingénieure en 1922 ou 1923 selon les sources.",
+    "En 1926, son article sur la stabilité des réseaux paraît dans les AIEE Transactions : c'est la première fois que la revue publie le travail d'une femme. En 1947, elle devient la première professeure de génie électrique des États-Unis, à l'université du Texas à Austin.",
+    "Tout au long de sa carrière, elle reçoit un salaire et une reconnaissance inférieurs à ceux de ses collègues hommes. Elle meurt en 1959."
+  ],
+  "actions": [
+    {
+      "date": "1919",
+      "theme": "reconnaissance",
+      "text": "Première femme diplômée d'un master en génie électrique du MIT, elle doit pourtant accepter un emploi de « calculatrice humaine »."
+    },
+    {
+      "date": "1925-09-01",
+      "theme": "invention",
+      "text": "Elle obtient le brevet américain n° 1 552 113 pour son calculateur des lignes électriques, demandé en 1921."
+    },
+    {
+      "date": "1926",
+      "theme": "publication",
+      "text": "Son article sur la stabilité des réseaux est le premier travail d'une femme publié dans les AIEE Transactions."
+    },
+    {
+      "date": "1947",
+      "theme": "enseignement",
+      "text": "Elle devient la première professeure de génie électrique des États-Unis, à l'université du Texas à Austin."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edith Clarke and modern power distribution (IEEE Spectrum)",
+      "url": "https://spectrum.ieee.org/edith-clarke-modern-power-distribution"
+    },
+    {
+      "title": "USPTO : Edith Clarke (University of Southern California, Scalar)",
+      "url": "https://scalar.usc.edu/works/international-women-in-engineering/uspto-edith-clarke"
+    },
+    {
+      "title": "Edith Clarke (Physics Today, AIP)",
+      "url": "https://physicstoday.aip.org/news/edith-clarke"
+    }
+  ]
+}
