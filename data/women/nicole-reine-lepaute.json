@@ -1,0 +1,48 @@
+{
+  "name": "Nicole-Reine Lepaute",
+  "birth": "1723",
+  "death": "1788",
+  "country": "France",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-06-08",
+  "summary": "Elle a calculé, avec Lalande, le retour de la comète de Halley en 1759.",
+  "notes": [
+    "Nicole-Reine Lepaute est une mathématicienne des Lumières. Son mari est horloger du roi. Elle travaille avec l'astronome Jérôme de Lalande. Son métier : calculer. Pour l'Académie des sciences, elle établit des éphémérides, des tables qui donnent la position du Soleil, de la Lune et des planètes. Elles servent à prévoir des éclipses de Lune, deux passages de Vénus et des retours de comètes.",
+    "En 1757 et 1758, elle s'attaque à la comète de Halley. Sur son chemin, Jupiter et Saturne l'attirent et la retardent. Avec Lalande, grâce à la méthode de Clairaut, elle calcule ce retard : 518 jours à cause de Jupiter, 100 jours à cause de Saturne. L'équipe annonce le passage de la comète au plus près du Soleil pour avril 1759, à un mois près.",
+    "La comète passe au plus près du Soleil le 13 mars 1759 : dans la marge annoncée. Pour l'Observatoire de Paris, c'est une « victoire de la mécanique newtonienne sur les tourbillons de Descartes ». La gravitation de Newton permet de prévoir le ciel.",
+    "Elle calcule aussi l'éclipse annulaire de Soleil du 1er avril 1764, celle où la Lune laisse dépasser un anneau de Soleil. Elle produit des almanachs de 1759 à 1783. On l'appelle parfois à tort « Hortense Lepaute ».",
+    "À son époque, rappelle l'Observatoire de Paris, les femmes restent dans la « sphère privée ». Elles cosignent rarement leurs publications et sont cantonnées à des rôles d'assistante."
+  ],
+  "actions": [
+    {
+      "date": "1757",
+      "theme": "decouverte",
+      "text": "Avec Lalande, elle calcule le retard que Jupiter et Saturne imposent à la comète de Halley."
+    },
+    {
+      "date": "1759-03-13",
+      "theme": "reconnaissance",
+      "text": "La comète de Halley passe au plus près du Soleil, dans la marge annoncée par l'équipe (avril 1759, à un mois près)."
+    },
+    {
+      "date": "1764-04-01",
+      "theme": "decouverte",
+      "text": "Éclipse annulaire de Soleil, dont elle a calculé le déroulement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trois siècles de femmes (Observatoire de Paris)",
+      "url": "https://observatoiredeparis.psl.eu/trois-siecles-de-femmes.html"
+    },
+    {
+      "title": "Calculating the Return of Halley's Comet (History Today)",
+      "url": "https://historytoday.com/archive/feature/calculating-return-halleys-comet"
+    },
+    {
+      "title": "Nicole-Reine Lepaute (MacTutor, université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/BEA/lepaute_bea.pdf"
+    }
+  ]
+}
