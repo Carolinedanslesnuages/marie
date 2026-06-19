@@ -1,0 +1,52 @@
+{
+  "name": "Chien-Shiung Wu",
+  "birth": "1912",
+  "death": "1997",
+  "country": "Chine et États-Unis",
+  "region": "asie",
+  "field": "physique",
+  "published": "2026-06-19",
+  "summary": "Elle a prouvé par l'expérience que la nature ne traite pas toujours sa gauche et sa droite de la même façon.",
+  "notes": [
+    "Chien-Shiung Wu naît en Chine en 1912. En 1940, elle obtient son doctorat à l'université de Californie.",
+    "En 1956, les physiciens Lee et Yang se posent une question étrange : la nature fait-elle la différence entre sa gauche et sa droite ? Ils pensent à l'« interaction faible », l'une des forces qui agissent à l'intérieur des noyaux d'atomes. Tout le monde croyait que non.",
+    "C'est elle qui tranche, par l'expérience. Au National Bureau of Standards (aujourd'hui le NIST), elle refroidit du cobalt-60, une forme radioactive du cobalt, et observe les électrons qu'il émet. Ils ne partent pas de façon égale dans toutes les directions : la nature distingue bien sa gauche de sa droite. L'APS date l'événement du 27 décembre 1956 ; les résultats sont publiés début 1957. Une « loi » de symétrie que l'on croyait universelle vient de tomber.",
+    "En 1957, Lee et Yang reçoivent le prix Nobel de physique. Elle, non. Elle aurait été proposée 26 fois sans jamais l'obtenir. En 1975, elle devient la première femme présidente de l'American Physical Society, la grande société savante des physiciens américains."
+  ],
+  "actions": [
+    {
+      "date": "1940",
+      "theme": "reconnaissance",
+      "text": "Doctorat à l'université de Californie."
+    },
+    {
+      "date": "1956-12-27",
+      "theme": "decouverte",
+      "text": "Son expérience au National Bureau of Standards montre que la nature distingue sa gauche de sa droite."
+    },
+    {
+      "date": "1957",
+      "theme": "obstacle",
+      "text": "Lee et Yang reçoivent seuls le prix Nobel de physique."
+    },
+    {
+      "date": "1975",
+      "theme": "reconnaissance",
+      "text": "Première femme présidente de l'American Physical Society."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Fall of Parity Conservation, 1956 (APS News, décembre 2001)",
+      "url": "https://www.aps.org/apsnews/2001/12/fall-parity-conservation-1956"
+    },
+    {
+      "title": "Reversal of the Parity Conservation Law (NIST)",
+      "url": "https://nvlpubs.nist.gov/nistpubs/sp958-lide/html/111-115.html"
+    },
+    {
+      "title": "Chien-Shiung Wu, the First Lady of Physics (JSTOR Daily)",
+      "url": "https://daily.jstor.org/chien-shiung-wu-the-first-lady-of-physics"
+    }
+  ]
+}
