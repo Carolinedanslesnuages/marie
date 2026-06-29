@@ -1,0 +1,47 @@
+{
+  "name": "Nettie Stevens",
+  "birth": "1861",
+  "death": "1912",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "biologie",
+  "published": "2026-06-29",
+  "summary": "Elle a montré que le sexe d'un petit dépend du chromosome apporté par le père.",
+  "notes": [
+    "Question : qu'est-ce qui décide si un petit sera mâle ou femelle ? Nettie Stevens cherche la réponse au microscope, dans les cellules. Doctorat en 1903 à Bryn Mawr College, aux États-Unis, où elle continue ensuite ses recherches.",
+    "Son animal d'étude : le ver de farine, Tenebrio molitor. Elle regarde les chromosomes, ces petits paquets qui portent l'hérédité. En 1905, dans « Studies on Spermatogenesis », elle montre que les spermatozoïdes ne sont pas tous pareils. Certains portent un chromosome nettement plus petit, le Y. Les autres portent un X.",
+    "Conclusion : le sexe du petit dépend du chromosome apporté par le père. C'est la base de ce qu'on appelle aujourd'hui les chromosomes sexuels.",
+    "Obstacles : sa découverte a souvent été attribuée, à tort, à Edmund B. Wilson, qui publie sur le même sujet la même année. À Bryn Mawr, elle ne dépasse jamais le rang d'« associate » (1905–1912)."
+  ],
+  "actions": [
+    {
+      "date": "1903",
+      "theme": "enseignement",
+      "text": "Obtient son doctorat à Bryn Mawr College."
+    },
+    {
+      "date": "1905",
+      "theme": "publication",
+      "text": "Publie « Studies on Spermatogenesis » : chez le ver de farine, le chromosome X ou Y du spermatozoïde décide du sexe."
+    },
+    {
+      "date": "1905",
+      "theme": "obstacle",
+      "text": "Edmund B. Wilson publie sur le même sujet ; la découverte lui sera souvent attribuée à tort."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nettie Maria Stevens (1861-1912) (Embryo Project, Arizona State University)",
+      "url": "https://embryo.asu.edu/pages/nettie-maria-stevens-1861-1912"
+    },
+    {
+      "title": "Nettie Stevens : a discoverer of sex chromosomes (Nature Education, Scitable)",
+      "url": "https://www.nature.com/scitable/topicpage/nettie-stevens-a-discoverer-of-sex-chromosomes-6580266"
+    },
+    {
+      "title": "Nettie Maria Stevens (American Academy of Arts and Sciences)",
+      "url": "https://www.amacad.org/person/nettie-maria-stevens"
+    }
+  ]
+}
