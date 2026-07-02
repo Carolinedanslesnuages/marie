@@ -1,0 +1,47 @@
+{
+  "name": "Yvonne Choquet-Bruhat",
+  "birth": "1923",
+  "death": "2025",
+  "country": "France",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-07-02",
+  "summary": "Elle a prouvé que les équations d'Einstein permettent de prédire l'évolution de l'univers à partir d'un état de départ.",
+  "notes": [
+    "Yvonne Choquet-Bruhat travaille sur la relativité générale, la théorie d'Einstein qui décrit la gravité. Son directeur, Jean Leray, lui suggère une question : les équations d'Einstein ont-elles vraiment des solutions, et lesquelles ?",
+    "Elle travaille sur ce problème à l'Institute for Advanced Study de Princeton, en 1951 et 1952. Elle y rencontre Einstein. En 1952, elle démontre que ces équations (dans le vide) ont des solutions, et qu'elles sont uniques une fois fixé l'état de départ.",
+    "En clair : si l'on connaît l'univers à un instant donné, la théorie permet de calculer la suite. La relativité générale devient une théorie capable de prédire. Après ce résultat, elle devient aussi un vrai sujet de mathématiques.",
+    "En 1978, elle devient membre correspondante de l'Académie des sciences. En 1979, elle est la première femme élue membre de l'Académie. Il a fallu attendre 163 ans après le prix de Sophie Germain. Elle meurt le 11 février 2025 à Mérignac."
+  ],
+  "actions": [
+    {
+      "date": "1952",
+      "theme": "decouverte",
+      "text": "Elle démontre que les équations d'Einstein dans le vide ont localement des solutions, uniques une fois fixées les conditions de départ."
+    },
+    {
+      "date": "1978",
+      "theme": "reconnaissance",
+      "text": "Membre correspondante de l'Académie des sciences."
+    },
+    {
+      "date": "1979",
+      "theme": "reconnaissance",
+      "text": "Première femme élue membre de l'Académie des sciences."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yvonne Choquet-Bruhat, biographie (MacTutor, université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Choquet-Bruhat/"
+    },
+    {
+      "title": "Yvonne Choquet-Bruhat (Physics Today)",
+      "url": "https://physicstoday.aip.org/news/yvonne-choquet-bruhat"
+    },
+    {
+      "title": "Hommage à Yvonne Choquet-Bruhat (École normale supérieure, PDF)",
+      "url": "https://www.math.ens.psl.eu/wp-content/uploads/2025/02/Yvonne-Choquet-Bruhat_hommage.pdf"
+    }
+  ]
+}
