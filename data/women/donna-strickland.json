@@ -1,0 +1,47 @@
+{
+  "name": "Donna Strickland",
+  "birth": "1959",
+  "death": "",
+  "country": "Canada",
+  "region": "ameriques",
+  "field": "physique",
+  "published": "2026-07-07",
+  "summary": "Avec Gérard Mourou, elle a inventé une façon de rendre les impulsions laser ultra-puissantes sans détruire le matériel.",
+  "notes": [
+    "Donna Strickland naît le 27 mai 1959 à Guelph, en Ontario. À l'université de Rochester, elle travaille avec Gérard Mourou.",
+    "Le défi : obtenir des impulsions laser très brèves et très puissantes sans détruire le matériel. En 1985, dans son tout premier article scientifique, elle met au point avec Mourou l'« amplification par dérive de fréquence ». Le principe tient en trois gestes : on étire une impulsion laser très brève, on l'amplifie, puis on la recomprime.",
+    "Pourquoi c'est important : on obtient des impulsions ultra-puissantes sans rien casser. La technique sert pour la chirurgie de l'œil (LASIK) et pour découper le verre des smartphones.",
+    "En 2018, elle reçoit le prix Nobel de physique, partagé avec Mourou ; l'autre moitié revient à Arthur Ashkin. Elle est la troisième femme Nobel de physique, après Marie Curie en 1903 et Maria Goeppert Mayer en 1963. Elle n'était alors que professeure associée : elle n'est promue professeure titulaire qu'en octobre 2018."
+  ],
+  "actions": [
+    {
+      "date": "1985",
+      "theme": "invention",
+      "text": "Avec Gérard Mourou, elle met au point l'amplification par dérive de fréquence, dans son premier article scientifique."
+    },
+    {
+      "date": "2018",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physique, partagé avec Gérard Mourou et Arthur Ashkin. Troisième femme Nobel de physique."
+    },
+    {
+      "date": "2018-10",
+      "theme": "obstacle",
+      "text": "Jusque-là professeure associée, elle n'est promue professeure titulaire qu'en octobre 2018."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Donna Strickland, prix Nobel de physique 2018 : fiche (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/physics/2018/strickland/facts/"
+    },
+    {
+      "title": "Donna Strickland, Women who changed science (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/donna-strickland/"
+    },
+    {
+      "title": "Nobel Prize-winning physicist helped make lasers ubiquitous (Université de Waterloo)",
+      "url": "https://uwaterloo.ca/news/nobel-prize-winning-physicist-helped-make-lasers-ubiquitous"
+    }
+  ]
+}
