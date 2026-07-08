@@ -1,0 +1,42 @@
+{
+  "name": "Jane Goodall",
+  "birth": "1934",
+  "death": "2025",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "biologie",
+  "published": "2026-07-08",
+  "summary": "Elle a observé des chimpanzés fabriquer et utiliser des outils, ce qu'on croyait propre à l'humain.",
+  "notes": [
+    "14 juillet 1960 : Jane Goodall arrive en bateau à la réserve de Gombe, en Tanzanie, au bord du lac Tanganyika. Elle vient avec sa mère et un cuisinier. Objectif : observer les chimpanzés sauvages, de près et longtemps.",
+    "Automne 1960 : elle voit un chimpanzé, David Greybeard, arracher les feuilles d'une tige. Puis il glisse la tige dans une termitière pour « pêcher » des termites. Il fabrique donc un outil et s'en sert. Les sources ne s'accordent pas sur le jour : octobre ou 4 novembre 1960.",
+    "Pourquoi ça compte : on pensait que fabriquer des outils était le propre de l'humain. Cette observation oblige à revoir la frontière entre l'humain et l'animal.",
+    "Elle meurt le 1er octobre 2025 en Californie, à 91 ans, de causes naturelles, pendant une tournée de conférences aux États-Unis."
+  ],
+  "actions": [
+    {
+      "date": "1960-07-14",
+      "theme": "decouverte",
+      "text": "Arrive à la réserve de Gombe, au bord du lac Tanganyika, pour observer les chimpanzés."
+    },
+    {
+      "date": "1960",
+      "theme": "decouverte",
+      "text": "À l'automne, voit le chimpanzé David Greybeard fabriquer une tige pour « pêcher » des termites."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jane Goodall (National Geographic Education)",
+      "url": "https://education.nationalgeographic.org/resource/jane-goodall/"
+    },
+    {
+      "title": "Jane Goodall observes a chimpanzee making and using tools (History.com)",
+      "url": "https://www.history.com/this-day-in-history/november-4/jane-goodall-observes-a-chimpanzee-making-and-using-tools"
+    },
+    {
+      "title": "Communiqué sur la mort de Jane Goodall (Jane Goodall Institute)",
+      "url": "https://janegoodall.org/?p=20399"
+    }
+  ]
+}
