@@ -1,0 +1,54 @@
+{
+  "name": "Maria Cunitz",
+  "birth": "vers 1607",
+  "death": "1664",
+  "country": "Silésie (Pologne actuelle)",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-07-22",
+  "summary": "Astronome, elle a publié des tables plus simples que celles de Kepler, et en a corrigé des erreurs.",
+  "notes": [
+    "Maria Cunitz naît vers 1607 à Schweidnitz, aujourd'hui Świdnica, en Silésie. Les études supérieures lui sont fermées. Elle apprend avec son père, puis avec son mari, Elias von Löwen.",
+    "En 1627 et 1628, elle observe Vénus et Jupiter avec lui. En 1634, la guerre de Trente Ans oblige le couple à fuir. Elle n'a pas de bons instruments. Et les astronomes écrivent souvent à son mari plutôt qu'à elle.",
+    "En 1650, elle publie à ses frais Urania propitia : 286 pages, en latin et en allemand. Ce sont des tables pour calculer la position des planètes. Elles sont plus simples à utiliser que les Tables rudolphines de Kepler, et elles en corrigent plusieurs erreurs. Dans la préface, son mari précise que l'œuvre est bien d'elle.",
+    "En 1656, un incendie à Pitschen détruit ses livres, ses instruments et ses relevés. Elle meurt le 22 août 1664. Il reste moins de 25 exemplaires connus de son livre.",
+    "Un ragot à écarter : en 1727, un certain Elberti raconte qu'elle délaissait son ménage et dormait le jour après ses nuits d'observation. L'historien de MacTutor juge ce récit ridicule."
+  ],
+  "actions": [
+    {
+      "date": "1627",
+      "theme": "decouverte",
+      "text": "Avec Elias von Löwen, son futur mari, elle observe Vénus et Jupiter (1627-1628)."
+    },
+    {
+      "date": "1634",
+      "theme": "obstacle",
+      "text": "La guerre de Trente Ans oblige le couple à fuir."
+    },
+    {
+      "date": "1650",
+      "theme": "publication",
+      "text": "Elle publie à compte d'auteur Urania propitia, des tables astronomiques plus simples que celles de Kepler, et qui en corrigent des erreurs."
+    },
+    {
+      "date": "1656",
+      "theme": "obstacle",
+      "text": "Un incendie à Pitschen détruit ses livres, ses instruments et ses relevés."
+    },
+    {
+      "date": "1727",
+      "theme": "obstacle",
+      "text": "Elberti raconte qu'elle négligeait son ménage pour observer le ciel. MacTutor juge ce ragot ridicule."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Maria Cunitz (MacTutor, Université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cunitz/"
+    },
+    {
+      "title": "The Lady Astronomer Who Took on the Most Advanced Science (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/science-nature/lady-astronomer-who-took-on-most-advanced-science-180962142/"
+    }
+  ]
+}
