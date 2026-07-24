@@ -1,0 +1,47 @@
+{
+  "name": "Marie-Louise Paris",
+  "birth": "1889",
+  "death": "1969",
+  "country": "France",
+  "region": "europe",
+  "field": "ingenierie",
+  "published": "2026-07-24",
+  "summary": "Ingénieure, elle a fondé la première école d'ingénieures réservée aux femmes, devenue l'EPF.",
+  "notes": [
+    "Marie-Louise Paris est une ingénieure française. À son époque, les écoles d'ingénieurs ferment souvent leurs portes aux femmes. Polytechnique, par exemple, ne les admet qu'en 1972.",
+    "Le 4 novembre 1925, elle fonde l'Institut électromécanique féminin. C'est une école d'ingénieures réservée aux femmes.",
+    "En 1933, l'école devient l'École polytechnique féminine (EPF). La formation passe de deux à trois ans. Attention : l'EPF n'a jamais été liée à l'École polytechnique.",
+    "En 1956, l'école s'installe à Sceaux, dans la maison personnelle de Marie-Louise Paris. Ses années de vie, 1889-1969, restent à confirmer par une source officielle."
+  ],
+  "actions": [
+    {
+      "date": "1925-11-04",
+      "theme": "enseignement",
+      "text": "Elle fonde l'Institut électromécanique féminin, une école d'ingénieures réservée aux femmes."
+    },
+    {
+      "date": "1933",
+      "theme": "enseignement",
+      "text": "L'école devient l'École polytechnique féminine (EPF) et la formation passe de deux à trois ans."
+    },
+    {
+      "date": "1956",
+      "theme": "enseignement",
+      "text": "L'école s'installe à Sceaux, dans sa propre maison."
+    }
+  ],
+  "sources": [
+    {
+      "title": "100 ans d'histoire (EPF)",
+      "url": "https://www.epf.fr/en/100-years-history"
+    },
+    {
+      "title": "Polytechnique, un appel aux femmes (Google Arts & Culture)",
+      "url": "https://artsandculture.google.com/exhibit/polytechnique-un-appel-aux-femmes/UgLC1-sWt1vWJA"
+    },
+    {
+      "title": "Marie-Louise Paris (Geneastar, site de généalogie)",
+      "url": "https://en.geneastar.org/genealogy/parismariel/marie-louise-paris"
+    }
+  ]
+}
