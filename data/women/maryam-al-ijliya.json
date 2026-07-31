@@ -1,0 +1,39 @@
+{
+  "name": "Maryam al-ʻIjliya",
+  "birth": "Xe siècle",
+  "death": "Xe siècle",
+  "country": "Syrie (Alep)",
+  "region": "moyen-orient",
+  "field": "astronomie",
+  "published": "2026-07-31",
+  "summary": "Fabricante d'astrolabes à Alep au Xe siècle, au service de l'émir Sayf al-Dawla.",
+  "notes": [
+    "On sait très peu de choses sur elle. Ce qui est documenté tient en quelques lignes : au Xe siècle, à Alep, elle fabrique des astrolabes. Un astrolabe est un instrument qui sert à observer le ciel et à calculer l'heure grâce aux étoiles.",
+    "Elle a appris le métier avec son père, lui-même fabricant d'astrolabes. Il avait été apprenti à Bagdad. Elle travaille pour Sayf al-Dawla, émir d'Alep de 944 à 967.",
+    "Attention aux dates : 944 et 967 sont celles du règne de l'émir, pas celles de sa vie à elle. On ne connaît ni sa naissance ni sa mort.",
+    "Attention aussi au nom : le prénom « Mariam » n'apparaît pas dans les sources de son époque. « Al-Asturlabiyya » veut seulement dire « l'astrolabiste ». C'est le nom d'un métier.",
+    "En hommage, l'astéroïde 7060 Al-ʻIjliya, découvert en 1990 à l'observatoire Palomar, porte son nom."
+  ],
+  "actions": [
+    {
+      "date": "0944",
+      "theme": "invention",
+      "text": "Début du règne de Sayf al-Dawla à Alep (944-967) : c'est pendant cette période qu'elle fabrique des astrolabes pour lui. L'année exacte est inconnue."
+    },
+    {
+      "date": "1990",
+      "theme": "reconnaissance",
+      "text": "Un astéroïde découvert à l'observatoire Palomar reçoit plus tard son nom : 7060 Al-ʻIjliya."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Al-ʻIjliya (The Schools' Observatory)",
+      "url": "https://www.schoolsobservatory.org/learn/history/biographies/al-ijliya"
+    },
+    {
+      "title": "1001 Inventions (Google Arts & Culture)",
+      "url": "https://artsandculture.google.com/story/cwUx8bruGSrJKg"
+    }
+  ]
+}
