@@ -1,0 +1,53 @@
+{
+  "name": "Hildegarde de Bingen",
+  "birth": "1098",
+  "death": "1179",
+  "country": "Saint-Empire (Allemagne actuelle)",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-08-06",
+  "summary": "Religieuse savante, elle a décrit les plantes, les pierres, les animaux et les remèdes des maladies.",
+  "notes": [
+    "Hildegarde naît en 1098 dans le Saint-Empire, dans l'actuelle Allemagne. Son lieu de naissance est discuté : Böckelheim ou Bermersheim. En 1136, elle devient prieure, c'est-à-dire qu'elle dirige les religieuses de Disibodenberg.",
+    "Vers 1147 (1150 selon d'autres sources), elle s'installe à Rupertsberg avec une vingtaine de religieuses. Elle y meurt le 17 septembre 1179.",
+    "Entre 1151 et 1158, elle compose une œuvre médicale en deux parties. La Physica compte neuf livres : plantes, éléments, arbres, pierres, poissons, oiseaux, animaux, reptiles, métaux. Le Causae et curae explique les causes et les remèdes des maladies, selon la médecine des humeurs de son temps.",
+    "Prudence : les dates de composition sont incertaines. Le Causae et curae n'est connu que par un seul manuscrit du XIIIe siècle, retrouvé à Copenhague en 1859. Les chercheurs discutent encore de ce qui est exactement d'elle.",
+    "En 2012, elle est proclamée docteure de l'Église. Seules quatre femmes ont reçu ce titre."
+  ],
+  "actions": [
+    {
+      "date": "1136",
+      "theme": "reconnaissance",
+      "text": "Elle devient prieure à Disibodenberg."
+    },
+    {
+      "date": "1151",
+      "theme": "publication",
+      "text": "Entre 1151 et 1158, elle compose son œuvre médicale : la Physica et le Causae et curae."
+    },
+    {
+      "date": "1859",
+      "theme": "decouverte",
+      "text": "Le seul manuscrit connu du Causae et curae, copié au XIIIe siècle, est retrouvé à Copenhague."
+    },
+    {
+      "date": "2012",
+      "theme": "reconnaissance",
+      "text": "Elle est proclamée docteure de l'Église, l'une des quatre seules femmes à porter ce titre."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saint Hildegard (Encyclopædia Britannica)",
+      "url": "https://www.britannica.com/biography/Saint-Hildegard"
+    },
+    {
+      "title": "Hildegarde (Fordham University, Internet Medieval Sourcebook)",
+      "url": "https://sourcebooks.web.fordham.edu/halsall/med/hildegarde.asp"
+    },
+    {
+      "title": "Humors and conditions (Christian History Institute)",
+      "url": "https://christianhistoryinstitute.org/magazine/article/ch161-humors-and-conditions"
+    }
+  ]
+}
