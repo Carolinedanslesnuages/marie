@@ -1,0 +1,57 @@
+{
+  "name": "Marie Tharp",
+  "birth": "1920",
+  "death": "2006",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "terre-climat",
+  "published": "2026-08-09",
+  "summary": "Elle a dessiné la première carte du fond des océans et y a repéré le rift de la dorsale atlantique.",
+  "notes": [
+    "Née le 30 juillet 1920 à Ypsilanti (Michigan). En 1948, elle entre au Lamont Geological Observatory, dirigé par Maurice Ewing. Son travail : transformer des profils de profondeur en cartes du fond de la mer.",
+    "Obstacle : les femmes ne sont pas admises sur les navires de recherche. Elle ne peut pas aller chercher les données elle-même ; elle n'embarque qu'en 1968. Elle dessine donc depuis son bureau, profil après profil.",
+    "En 1952, en alignant ces profils, elle repère une vallée creusée au milieu de la dorsale atlantique, la grande chaîne de montagnes sous-marine : une vallée de rift, là où le sol s'écarte. Bruce Heezen balaie l'idée : du « girl talk », du bavardage de fille. Pourtant, les foyers des séismes tombent pile dans cette vallée. Cela appuie l'idée que les continents se déplacent.",
+    "La date de la première carte du fond de l'Atlantique Nord varie : 1959 selon Columbia Magazine, 1957 selon Britannica. En 1977, avec Heezen, elle achève la carte du fond de tous les océans (World Ocean Floor), peinte par Heinrich Berann. Ewing l'a pourtant licenciée dans les années 1960. En 2001, elle reçoit le premier Heritage Award de Lamont. Elle meurt le 23 août 2006 à Nyack."
+  ],
+  "actions": [
+    {
+      "date": "1948",
+      "theme": "enseignement",
+      "text": "Elle entre au Lamont Geological Observatory, dirigé par Maurice Ewing."
+    },
+    {
+      "date": "1952",
+      "theme": "decouverte",
+      "text": "Elle repère une vallée de rift au milieu de la dorsale atlantique ; Bruce Heezen parle de « girl talk »."
+    },
+    {
+      "date": "1968",
+      "theme": "obstacle",
+      "text": "Les femmes étant exclues des navires de recherche, elle n'embarque pour la première fois qu'en 1968."
+    },
+    {
+      "date": "1977",
+      "theme": "publication",
+      "text": "Achèvement, avec Heezen, de la carte du fond de tous les océans, peinte par Heinrich Berann."
+    },
+    {
+      "date": "2001",
+      "theme": "reconnaissance",
+      "text": "Premier Heritage Award de Lamont."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saluting Marie Tharp, the trailblazing scientist whose maps shook the world (Columbia Magazine)",
+      "url": "https://magazine.columbia.edu/article/saluting-marie-tharp-trailblazing-scientist-whose-maps-shook-world"
+    },
+    {
+      "title": "Marie Tharp's discovery of the mid-ocean ridge rift valley in 1952 (AIP)",
+      "url": "https://www.aip.org/library/marie-tharps-discovery-of-the-mid-ocean-ridge-rift-valley-in-1952"
+    },
+    {
+      "title": "Marie Tharp (NOAA NCEI)",
+      "url": "https://ncei.noaa.gov/news/marie-tharp"
+    }
+  ]
+}
