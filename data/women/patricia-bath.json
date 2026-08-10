@@ -1,0 +1,52 @@
+{
+  "name": "Patricia Bath",
+  "birth": "1942",
+  "death": "2019",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "medecine",
+  "published": "2026-08-10",
+  "summary": "Ophtalmologiste, elle a inventé la sonde Laserphaco, qui retire la cataracte au laser.",
+  "notes": [
+    "Patricia Bath est ophtalmologiste : médecin des yeux. En 1974, selon la National Library of Medicine (1975 selon le National Women's History Museum), elle devient la première femme ophtalmologiste nommée professeure à l'UCLA, au Jules Stein Eye Institute.",
+    "Elle s'attaque à la cataracte : le cristallin, la petite lentille à l'intérieur de l'œil, devient opaque et la vue se brouille. En 1981, elle a l'idée d'un nouvel outil, la sonde Laserphaco.",
+    "En 1983, elle devient la première femme à diriger un internat d'ophtalmologie aux États-Unis, c'est-à-dire la formation des futurs médecins des yeux.",
+    "Le 17 mai 1988, elle obtient le brevet américain 4 744 360 pour sa sonde. Elle retire la cataracte au laser, par une petite incision. C'est le premier brevet de dispositif médical obtenu par une femme noire."
+  ],
+  "actions": [
+    {
+      "date": "1974",
+      "theme": "enseignement",
+      "text": "Première femme ophtalmologiste nommée professeure à l'UCLA (1974 selon la NLM, 1975 selon le National Women's History Museum)."
+    },
+    {
+      "date": "1981",
+      "theme": "invention",
+      "text": "Elle a l'idée de la sonde Laserphaco."
+    },
+    {
+      "date": "1983",
+      "theme": "enseignement",
+      "text": "Première femme à diriger un internat d'ophtalmologie aux États-Unis."
+    },
+    {
+      "date": "1988-05-17",
+      "theme": "invention",
+      "text": "Brevet US 4 744 360 pour la sonde Laserphaco : premier brevet de dispositif médical obtenu par une femme noire."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sights on the Prize, Patricia Bath (USPTO)",
+      "url": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/sights-prize"
+    },
+    {
+      "title": "Dr. Patricia E. Bath, Changing the Face of Medicine (National Library of Medicine)",
+      "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_patricia-bath.html?id=item-25"
+    },
+    {
+      "title": "Patricia Bath (Lemelson-MIT)",
+      "url": "https://lemelson.mit.edu/resources/patricia-bath"
+    }
+  ]
+}
