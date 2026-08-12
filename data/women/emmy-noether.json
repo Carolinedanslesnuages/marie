@@ -1,0 +1,52 @@
+{
+  "name": "Emmy Noether",
+  "birth": "1882",
+  "death": "1935",
+  "country": "Allemagne",
+  "region": "europe",
+  "field": "mathematiques",
+  "published": "2026-08-12",
+  "summary": "Elle a montré qu'à chaque symétrie de la nature correspond une quantité qui se conserve, un pilier de la physique moderne.",
+  "notes": [
+    "Emmy Noether est une spécialiste de l'algèbre, la partie des mathématiques qui étudie les structures et les règles de calcul. Au début de sa carrière, la voie pour enseigner à l'université est fermée aux femmes. Elle reste d'abord à Erlangen pour aider son père.",
+    "En 1915, les mathématiciens Hilbert et Klein l'invitent à Göttingen. Elle maîtrise les « invariants », ce qui ne change pas quand on transforme un objet. Cela les aide à étudier les mathématiques de la relativité générale d'Einstein.",
+    "En 1918, elle démontre ce qu'on appelle le théorème de Noether. À chaque symétrie d'un système physique correspond une quantité qui se conserve. Par exemple, si les lois de la physique ne changent pas avec le temps, l'énergie se conserve. C'est un pilier de la physique moderne.",
+    "Sa première demande d'habilitation, le droit d'enseigner à l'université, échoue : le règlement la réserve aux hommes. Elle ne l'obtient qu'en 1919, puis devient professeure associée. En 1932, elle est la première femme à donner une conférence plénière au Congrès international des mathématiciens. La deuxième, Karen Uhlenbeck, n'arrivera que 58 ans plus tard."
+  ],
+  "actions": [
+    {
+      "date": "1915",
+      "theme": "enseignement",
+      "text": "Hilbert et Klein l'invitent à Göttingen, où elle aide à étudier les mathématiques de la relativité générale."
+    },
+    {
+      "date": "1918",
+      "theme": "decouverte",
+      "text": "Théorème de Noether : à chaque symétrie d'un système physique correspond une quantité conservée."
+    },
+    {
+      "date": "1919",
+      "theme": "obstacle",
+      "text": "Après un premier refus lié au règlement réservé aux hommes, elle obtient enfin son habilitation."
+    },
+    {
+      "date": "1932",
+      "theme": "reconnaissance",
+      "text": "Première femme à donner une conférence plénière au Congrès international des mathématiciens."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emmy Noether (1882 to 1935) (Université de Göttingen)",
+      "url": "https://www.uni-goettingen.de/en/emmy+noether+(1882+to+1935)/74993.html"
+    },
+    {
+      "title": "Emmy Noether (Britannica)",
+      "url": "https://britannica.com/print/article/417132"
+    },
+    {
+      "title": "Emmy Noether, biographie (MacTutor, université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/"
+    }
+  ]
+}
