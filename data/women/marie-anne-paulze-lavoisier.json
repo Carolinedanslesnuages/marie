@@ -1,0 +1,53 @@
+{
+  "name": "Marie-Anne Paulze Lavoisier",
+  "birth": "1758",
+  "death": "1836",
+  "country": "France",
+  "region": "europe",
+  "field": "chimie",
+  "published": "2026-08-15",
+  "summary": "Elle a dessiné, noté et traduit au cœur du laboratoire où Antoine Lavoisier a refondé la chimie.",
+  "notes": [
+    "Née le 20 janvier 1758. Mariée en 1771 à Antoine Lavoisier : elle a 12 ans selon la Linda Hall Library, 13 selon d'autres. Le couple travaille ensemble au laboratoire.",
+    "Son rôle : tenir les notes de laboratoire, dessiner et graver les planches des instruments. On lui doit les illustrations de la plupart des livres publiés d'Antoine, dont le Traité élémentaire de chimie de 1789.",
+    "Elle traduit aussi de l'anglais vers le français l'Essay on Phlogiston de Richard Kirwan. L'année de cette traduction n'est pas confirmée par mes sources.",
+    "Le 8 mai 1794, Antoine est guillotiné, et son père le même jour. Elle reproche à Monge et à Fourcroy de ne pas l'avoir défendu. Ensuite, elle édite et publie les premiers volumes des œuvres réunies de son mari. Elle meurt à Paris en 1836.",
+    "Obstacle : aucun article scientifique n'a paru sous son nom. Dans le portrait peint par David, un carton à dessins la désigne comme artiste, à côté de son mari : épouse et partenaire de travail."
+  ],
+  "actions": [
+    {
+      "date": "1771",
+      "theme": "obstacle",
+      "text": "Elle est mariée à Antoine Lavoisier, à 12 ans selon la Linda Hall Library (13 selon d'autres sources)."
+    },
+    {
+      "date": "1789",
+      "theme": "publication",
+      "text": "Parution du Traité élémentaire de chimie d'Antoine Lavoisier, illustré de ses dessins."
+    },
+    {
+      "date": "1794-05-08",
+      "theme": "obstacle",
+      "text": "Antoine Lavoisier et son père sont guillotinés le même jour."
+    },
+    {
+      "date": "1794",
+      "theme": "publication",
+      "text": "Après la mort d'Antoine, elle édite et publie les premiers volumes de ses œuvres réunies."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marie-Anne Paulze, Scientist of the Day (Linda Hall Library)",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/marie-anne-paulze"
+    },
+    {
+      "title": "The Scientific Vision of Women : Madame Lavoisier (Duke University Libraries)",
+      "url": "https://exhibits.library.duke.edu/exhibits/show/2024sciencewomen/women/mlavoisier"
+    },
+    {
+      "title": "Revolutionary Instruments: Lavoisier's Tools as Objets d'Art (Science History Institute)",
+      "url": "https://www.sciencehistory.org/stories/magazine/revolutionary-instruments-lavoisiers-tools-objets-dart"
+    }
+  ]
+}
