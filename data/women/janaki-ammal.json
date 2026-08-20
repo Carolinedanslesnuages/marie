@@ -1,0 +1,42 @@
+{
+  "name": "Janaki Ammal",
+  "birth": "1897",
+  "death": "1984",
+  "country": "Inde",
+  "region": "asie",
+  "field": "biologie",
+  "published": "2026-08-20",
+  "summary": "En jouant sur les chromosomes, elle a créé une canne à sucre à haut rendement adaptée à l'Inde.",
+  "notes": [
+    "E. K. Janaki Ammal naît à Thalassery, au Kerala, en Inde. Elle se forme à l'Université du Michigan, aux États-Unis, qui lui décernera plus tard un doctorat honoris causa.",
+    "Terrain : la station de sélection de la canne à sucre de Coimbatore. Méthode : croiser des variétés et jouer sur la polyploïdie, c'est-à-dire le nombre de jeux de chromosomes dans chaque cellule. Résultat : une canne à haut rendement adaptée à l'Inde. Le pays a moins besoin d'en importer. Ses hybrides aident aussi à montrer que Saccharum spontaneum, une canne sauvage, est originaire d'Inde.",
+    "1951 : le Premier ministre Nehru l'invite à réorganiser le Botanical Survey of India. Elle dirige ensuite le Central Botanical Laboratory de Lucknow. En 1977, elle reçoit le Padma Shri, une distinction de l'État indien. Elle s'oppose aussi au barrage hydroélectrique de Silent Valley, au Kerala.",
+    "Obstacles : le Smithsonian Magazine évoque des discriminations liées au sexe et à la caste à Coimbatore. On sait peu de chose de sa vie personnelle."
+  ],
+  "actions": [
+    {
+      "date": "1951",
+      "theme": "reconnaissance",
+      "text": "Invitée par Nehru à réorganiser le Botanical Survey of India."
+    },
+    {
+      "date": "1977",
+      "theme": "reconnaissance",
+      "text": "Reçoit le Padma Shri."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The pioneering female botanist who sweetened a nation and saved a valley (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/science-nature/pioneering-female-botanist-who-sweetened-nation-and-saved-valley-180972765/"
+    },
+    {
+      "title": "Meet the botanist who made sugarcane sweeter (Massive Science)",
+      "url": "https://massivesci.com/articles/meet-the-botanist-who-made-sugarcane-sweeter-and-snuck-a-squirrel-into-england/"
+    },
+    {
+      "title": "Long ignored, renowned botanist Janaki Ammal finally recognised (The News Minute)",
+      "url": "https://www.thenewsminute.com/kerala/long-ignored-renowned-botanist-janaki-ammal-finally-recognised-biography-102823"
+    }
+  ]
+}
