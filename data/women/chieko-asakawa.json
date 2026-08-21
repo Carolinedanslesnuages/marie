@@ -1,0 +1,57 @@
+{
+  "name": "Chieko Asakawa",
+  "birth": "1958",
+  "death": "",
+  "country": "Japon",
+  "region": "asie",
+  "field": "informatique",
+  "published": "2026-08-21",
+  "summary": "Aveugle depuis l'adolescence, elle a créé des outils qui ouvrent le Web et les bâtiments aux personnes aveugles.",
+  "notes": [
+    "À 11 ans, Chieko Asakawa se blesse dans un accident de piscine qui abîme son nerf optique. Vers 14 ans, au début des années 1970, elle perd la vue. Il n'existe pas de manuels en braille pour ses études : ses frères lui lisent les livres à voix haute. Au Japon, les technologies pour les personnes aveugles en sont alors à leurs débuts.",
+    "En 1984, elle entre comme chercheuse étudiante au laboratoire d'IBM à Tokyo, puis elle est embauchée en 1985. Elle crée le Braille Editing System, qui permet d'écrire et de corriger du braille sur ordinateur, et un réseau de partage de livres en braille.",
+    "En 1997, elle lance au Japon le Home Page Reader. Ce logiciel lit à voix haute les pages Web, textes et icônes, et se pilote avec un pavé numérique. C'est l'un des premiers outils qui ouvrent Internet aux personnes aveugles. Il est breveté en 2001.",
+    "En 2014, avec l'université Carnegie Mellon, elle crée NavCog. Cette application pour téléphone guide les personnes aveugles à l'intérieur des bâtiments, à environ 2 mètres près, grâce à des balises et à l'apprentissage automatique (des programmes qui apprennent à partir d'exemples). Elle est la première Japonaise nommée IBM Fellow, entre en 2019 au National Inventors Hall of Fame et dirige depuis 2021 le Miraikan, musée national des sciences émergentes de Tokyo."
+  ],
+  "actions": [
+    {
+      "date": "1997",
+      "theme": "invention",
+      "text": "Elle lance au Japon le Home Page Reader, qui lit les pages Web à voix haute."
+    },
+    {
+      "date": "2001",
+      "theme": "invention",
+      "text": "Le Home Page Reader obtient son brevet."
+    },
+    {
+      "date": "2014",
+      "theme": "invention",
+      "text": "NavCog, application de guidage dans les bâtiments pour les personnes aveugles, avec Carnegie Mellon."
+    },
+    {
+      "date": "2019",
+      "theme": "reconnaissance",
+      "text": "Elle entre au National Inventors Hall of Fame."
+    },
+    {
+      "date": "2021",
+      "theme": "enseignement",
+      "text": "Elle prend la direction du Miraikan, musée national des sciences émergentes de Tokyo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Chieko Asakawa (IBM, histoire)",
+      "url": "https://www.ibm.com/history/chieko-asakawa"
+    },
+    {
+      "title": "Dream Job : la gourou du Web pour les personnes aveugles (IEEE Spectrum)",
+      "url": "https://spectrum.ieee.org/dream-job-2012-web-guru-for-the-blind"
+    },
+    {
+      "title": "Chieko Asakawa (National Inventors Hall of Fame)",
+      "url": "https://invent.org/inductees/chieko-asakawa"
+    }
+  ]
+}
