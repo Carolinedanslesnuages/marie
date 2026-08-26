@@ -1,0 +1,47 @@
+{
+  "name": "Cecilia Payne-Gaposchkin",
+  "birth": "1900",
+  "death": "1979",
+  "country": "Royaume-Uni et États-Unis",
+  "region": "europe",
+  "field": "astronomie",
+  "published": "2026-08-26",
+  "summary": "Elle a montré que les étoiles sont surtout faites d'hydrogène et d'hélium.",
+  "notes": [
+    "Cecilia Payne entre en 1919 au Newnham College de Cambridge. En 1923, l'astronome Harlow Shapley l'appelle à Harvard.",
+    "Sa question : de quoi sont faites les étoiles ? À l'époque, on les croit faites des mêmes éléments que la croûte terrestre. Dans sa thèse de 1925, « Stellar Atmospheres » (« Les atmosphères des étoiles »), elle montre le contraire : les étoiles sont surtout faites d'hydrogène et d'hélium. On sait aujourd'hui que la Voie lactée contient environ 74 % d'hydrogène et 24 % d'hélium.",
+    "Henry Norris Russell, membre de son jury, la pousse pourtant à présenter son résultat comme « presque certainement pas réel ». En 1929, il arrive lui-même à la même conclusion.",
+    "Harvard ne délivre pas de doctorat aux femmes : elle obtient donc le premier doctorat d'astronomie de Radcliffe College. Pendant des années, elle n'est pas reconnue comme membre du corps enseignant. En 1956, enfin, elle devient la première femme professeure titulaire à Harvard, et la première à y diriger un département."
+  ],
+  "actions": [
+    {
+      "date": "1925",
+      "theme": "decouverte",
+      "text": "Dans sa thèse, elle montre que les étoiles sont surtout faites d'hydrogène et d'hélium. On la pousse à écrire que ce résultat n'est « presque certainement pas réel »."
+    },
+    {
+      "date": "1929",
+      "theme": "reconnaissance",
+      "text": "Henry Norris Russell, qui l'avait poussée à douter, arrive à la même conclusion."
+    },
+    {
+      "date": "1956",
+      "theme": "reconnaissance",
+      "text": "Première femme professeure titulaire à Harvard et première à y diriger un département."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cecilia Payne-Gaposchkin (Science History Institute)",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/cecilia-payne-gaposchkin/"
+    },
+    {
+      "title": "Cecilia Payne-Gaposchkin: the woman who found hydrogen in the stars (Physics World)",
+      "url": "https://physicsworld.com/a/cecilia-payne-gaposchkin-the-woman-who-found-hydrogen-in-the-stars/"
+    },
+    {
+      "title": "A century ago, Cecilia Payne-Gaposchkin showed us what stars are made of (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/science-nature/a-century-ago-pioneering-astrophysicist-cecilia-payne-gaposchkin-showed-us-what-stars-are-made-of-180986193/"
+    }
+  ]
+}
