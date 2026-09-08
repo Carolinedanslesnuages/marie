@@ -1,0 +1,42 @@
+{
+  "name": "Wang Zhenyi",
+  "birth": "1768",
+  "death": "1797",
+  "country": "Chine (dynastie Qing)",
+  "region": "asie",
+  "field": "astronomie",
+  "published": "2026-09-08",
+  "summary": "Astronome et mathématicienne, elle a montré avec une maquette comment se produit une éclipse de Lune.",
+  "notes": [
+    "Wang Zhenyi vit en Chine, sous la dynastie Qing, de 1768 à 1797. Elle étudie l'astronomie et les mathématiques.",
+    "Pour expliquer les éclipses de Lune, elle construit une maquette dans un pavillon. Une table ronde joue la Terre, une lampe le Soleil, un miroir la Lune. En déplaçant ces objets, elle montre que la Lune passe dans l'ombre de la Terre.",
+    "Dans son traité sur l'éclipse de Lune, elle s'oppose à l'idée que les éclipses sont des présages envoyés par les dieux. Pour elle, c'est un phénomène qu'on peut expliquer.",
+    "Prudence : les détails de l'expérience changent selon les sources (lampe suspendue ou posée, présence ou non d'un miroir). Les titres de ses traités sont parfois confondus. Et peu de ses écrits nous sont parvenus. Les sources trouvées sont surtout de la presse et des blogs universitaires."
+  ],
+  "actions": [
+    {
+      "date": "1797",
+      "theme": "decouverte",
+      "text": "Avant sa mort en 1797 (date exacte inconnue), elle reproduit une éclipse de Lune avec une table, une lampe et un miroir."
+    },
+    {
+      "date": "1797",
+      "theme": "publication",
+      "text": "Avant 1797 (date exacte inconnue), elle écrit un traité sur l'éclipse de Lune qui refuse l'idée de présages divins."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mathematician and astronomer Wang Zhenyi (The World of Chinese)",
+      "url": "https://theworldofchinese.com/post/badass-ladies-of-chinese-history-mathematician-and-astronomer-wang-zhenyi"
+    },
+    {
+      "title": "How Wang Zhenyi defied gender expectations (South China Morning Post)",
+      "url": "https://scmp.com/lifestyle/chinese-culture/article/3368457/how-wang-zhenyi-chinese-female-astronomer-and-mathematician-defied-gender-expectations"
+    },
+    {
+      "title": "Wang Zhenyi (Wellesley College, The Mirror)",
+      "url": "https://blogs.wellesley.edu/mirror/?p=534"
+    }
+  ]
+}
