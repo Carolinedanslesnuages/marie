@@ -1,0 +1,47 @@
+{
+  "name": "Rita Levi-Montalcini",
+  "birth": "1909",
+  "death": "2012",
+  "country": "Italie",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-09-16",
+  "summary": "Elle a découvert le facteur de croissance nerveuse, la substance qui fait pousser les nerfs.",
+  "notes": [
+    "Rita Levi-Montalcini naît à Turin. Pendant la guerre, les lois fascistes l'excluent parce qu'elle est juive. Elle ne renonce pas : elle installe un laboratoire dans sa chambre, à Turin, et y étudie la croissance des nerfs chez l'embryon de poulet.",
+    "Après la guerre, elle part à Washington University, à Saint-Louis, aux États-Unis. Entre 1948 et 1956 (les dates varient selon les sources), elle observe qu'une tumeur libère une substance qui fait pousser les nerfs. C'est le facteur de croissance nerveuse, ou NGF. Avec Stanley Cohen, elle parvient à l'isoler.",
+    "Pourquoi ça compte : on découvre qu'une substance chimique peut commander la croissance des nerfs.",
+    "En 1986, elle reçoit le prix Nobel avec Stanley Cohen. En 2009, elle est la première lauréate Nobel à atteindre 100 ans. Sa fondation finance des bourses pour de jeunes Africaines. Elle meurt à Rome le 30 décembre 2012, à 103 ans."
+  ],
+  "actions": [
+    {
+      "date": "1948",
+      "theme": "decouverte",
+      "text": "À Washington University (Saint-Louis), elle commence les travaux qui montreront qu'une tumeur libère une substance qui fait pousser les nerfs : le NGF (dates entre 1948 et 1956 selon les sources)."
+    },
+    {
+      "date": "1986",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel avec Stanley Cohen."
+    },
+    {
+      "date": "2009",
+      "theme": "reconnaissance",
+      "text": "Première lauréate Nobel à atteindre 100 ans."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rita Levi-Montalcini, Women who changed science (Prix Nobel)",
+      "url": "https://nobelprize.org/stories/women-who-changed-science/rita-levi-montalcini"
+    },
+    {
+      "title": "Rita Levi-Montalcini (Becker Library, Washington University)",
+      "url": "https://beckerexhibits.wustl.edu/mig/bios/levi-montalcini.html"
+    },
+    {
+      "title": "Rita Levi-Montalcini (Britannica)",
+      "url": "https://www.britannica.com/biography/Rita-Levi-Montalcini"
+    }
+  ]
+}
