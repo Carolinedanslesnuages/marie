@@ -1,0 +1,47 @@
+{
+  "name": "Rosalind Franklin",
+  "birth": "1920",
+  "death": "1958",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "chimie",
+  "published": "2026-09-21",
+  "summary": "Sa « Photo 51 » de l'ADN a aidé à découvrir la double hélice.",
+  "notes": [
+    "Chimiste et cristallographe britannique. En 1951, elle entre au King's College de Londres comme chercheuse associée, pour étudier l'ADN, la molécule qui porte l'information héréditaire. Elle y reste jusqu'en 1953.",
+    "Sa méthode : envoyer des rayons X sur des fibres d'ADN et photographier la façon dont ils sont déviés. En mai 1952, avec son doctorant Raymond Gosling, elle obtient la « Photo 51 », une image de la forme B de l'ADN. Durée de pose discutée : 62 heures selon les archives du King's, 100 heures selon Biography.com.",
+    "Obstacle : en janvier 1953, Maurice Wilkins montre la photo à James Watson sans son autorisation. Elle aide à construire le modèle en double hélice. La contribution de Rosalind Franklin n'est reconnue qu'après sa mort.",
+    "Ensuite, au Birkbeck College, elle étudie le virus de la mosaïque du tabac et l'ARN. Elle meurt d'un cancer en 1958, à 37 ans."
+  ],
+  "actions": [
+    {
+      "date": "1951",
+      "theme": "enseignement",
+      "text": "Elle entre au King's College de Londres comme chercheuse associée pour travailler sur l'ADN."
+    },
+    {
+      "date": "1952-05",
+      "theme": "decouverte",
+      "text": "Avec Raymond Gosling, elle obtient la « Photo 51 » de la forme B de l'ADN (62 ou 100 heures de pose selon les sources)."
+    },
+    {
+      "date": "1953-01",
+      "theme": "obstacle",
+      "text": "Maurice Wilkins montre la Photo 51 à James Watson sans son autorisation."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Photo 51 and the discovery of DNA (King's College London)",
+      "url": "https://www.kcl.ac.uk/photo-51-and-the-discovery-of-dna"
+    },
+    {
+      "title": "The story behind Photograph 51 (King's College London)",
+      "url": "https://www.kcl.ac.uk/the-story-behind-photograph-51"
+    },
+    {
+      "title": "Rosalind Franklin (Science Museum Group)",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp37285/rosalind-franklin"
+    }
+  ]
+}
