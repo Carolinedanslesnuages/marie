@@ -1,0 +1,52 @@
+{
+  "name": "Ada Yonath",
+  "birth": "1939",
+  "death": "2026",
+  "country": "Israël",
+  "region": "moyen-orient",
+  "field": "chimie",
+  "published": "2026-09-28",
+  "summary": "Elle a révélé la forme du ribosome, la machine qui fabrique les protéines dans nos cellules.",
+  "notes": [
+    "Née le 22 juin 1939 à Jérusalem. Son père meurt quand elle a 11 ans ; elle aide sa mère en travaillant comme femme de ménage, baby-sitter et répétitrice. Elle étudie la chimie à l'Université hébraïque, puis fait un doctorat à l'Institut Weizmann sur le collagène. En 1970, elle y crée le premier laboratoire de cristallographie biologique d'Israël.",
+    "Sa cible : le ribosome, la « machine » de la cellule qui fabrique les protéines. Pour voir sa forme aux rayons X, il faut d'abord en faire des cristaux. En 1980, elle obtient les premiers cristaux exploitables de la grande sous-unité du ribosome, à partir de bactéries qui aiment la chaleur.",
+    "En 2000-2001 viennent les premières structures complètes en trois dimensions des deux sous-unités du ribosome bactérien. Pourquoi ça compte : beaucoup d'antibiotiques agissent en bloquant le ribosome des bactéries. Voir sa forme aide à comprendre comment ils marchent, et comment les bactéries leur résistent.",
+    "2009 : prix Nobel de chimie, partagé avec Ramakrishnan et Steitz, « pour l'étude de la structure et de la fonction du ribosome ». Elle meurt le 31 août 2026, à 87 ans."
+  ],
+  "actions": [
+    {
+      "date": "1970",
+      "theme": "enseignement",
+      "text": "Elle crée à l'Institut Weizmann le premier laboratoire de cristallographie biologique d'Israël."
+    },
+    {
+      "date": "1980",
+      "theme": "decouverte",
+      "text": "Premiers cristaux exploitables de la grande sous-unité du ribosome, tirés de bactéries qui aiment la chaleur."
+    },
+    {
+      "date": "2000",
+      "theme": "decouverte",
+      "text": "Premières structures 3D complètes des deux sous-unités du ribosome bactérien (2000-2001)."
+    },
+    {
+      "date": "2009",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de chimie, partagé avec Ramakrishnan et Steitz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ada E. Yonath, biographie (nobelprize.org)",
+      "url": "https://nobelprize.org/prizes/chemistry/2009/yonath/biographical"
+    },
+    {
+      "title": "Prof. Ada Yonath, Nobel laureate and a model of scientific perseverance, has passed away (Institut Weizmann)",
+      "url": "https://www.weizmann.ac.il/pages/news/people/prof-ada-yonath-nobel-laureate-and-a-model-of-scientific-perseverance-has-passed-away"
+    },
+    {
+      "title": "Ada Yonath, chemistry Nobel winner who mapped the ribosome, dies at 87 (Chemistry World)",
+      "url": "https://www.chemistryworld.com/news/ada-yonath-chemistry-nobel-winner-who-mapped-the-ribosome-dies-at-87/4024118.article"
+    }
+  ]
+}
