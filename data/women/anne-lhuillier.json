@@ -1,0 +1,52 @@
+{
+  "name": "Anne L'Huillier",
+  "birth": "1958",
+  "death": "",
+  "country": "France et Suède",
+  "region": "europe",
+  "field": "physique",
+  "published": "2026-10-09",
+  "summary": "Elle a ouvert la voie aux impulsions de lumière attosecondes, qui permettent de « filmer » les électrons.",
+  "notes": [
+    "Anne L'Huillier naît le 16 août 1958 à Paris. Elle soutient sa thèse au CEA en 1986.",
+    "En 1987, à Paris, elle envoie un laser infrarouge à travers un gaz rare. Le gaz renvoie de nombreuses « harmoniques » : des lumières dont la fréquence est un multiple de celle du laser. Un peu comme une corde de guitare qui fait entendre, en plus de sa note, des notes plus aiguës.",
+    "Pourquoi c'est important : cette découverte ouvre la voie aux impulsions attosecondes. Une attoseconde, c'est un milliardième de milliardième de seconde. Avec des éclairs de lumière aussi brefs, on peut enfin « filmer » le mouvement des électrons dans la matière.",
+    "Entre-temps, elle s'installe en Suède : enseignante-chercheuse à l'université de Lund en 1995, professeure en 1997. En 2023, elle reçoit le prix Nobel de physique avec Pierre Agostini et Ferenc Krausz, « pour des méthodes expérimentales générant des impulsions de lumière attosecondes pour l'étude de la dynamique des électrons dans la matière ». Elle donne sa conférence Nobel le 8 décembre 2023."
+  ],
+  "actions": [
+    {
+      "date": "1987",
+      "theme": "decouverte",
+      "text": "À Paris, elle découvre qu'un laser infrarouge envoyé à travers un gaz rare produit de nombreuses harmoniques."
+    },
+    {
+      "date": "1995",
+      "theme": "enseignement",
+      "text": "Elle devient enseignante-chercheuse à l'université de Lund, en Suède, puis professeure en 1997."
+    },
+    {
+      "date": "2023",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physique, avec Pierre Agostini et Ferenc Krausz, pour les impulsions de lumière attosecondes."
+    },
+    {
+      "date": "2023-12-08",
+      "theme": "enseignement",
+      "text": "Elle donne sa conférence Nobel."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Anne L'Huillier, prix Nobel de physique 2023 : fiche (Fondation Nobel)",
+      "url": "https://www.nobelprize.org/prizes/physics/2023/lhuillier/facts/"
+    },
+    {
+      "title": "Communiqué du prix Nobel de physique 2023 (Fondation Nobel)",
+      "url": "https://nobelprize.org/prizes/physics/2023/press-release/"
+    },
+    {
+      "title": "Anne L'Huillier, CV (Lindau Nobel Mediatheque)",
+      "url": "https://mediatheque.lindau-nobel.org/laureates/lhuillier/cv"
+    }
+  ]
+}
