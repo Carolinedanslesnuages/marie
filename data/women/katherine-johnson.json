@@ -1,0 +1,48 @@
+{
+  "name": "Katherine Johnson",
+  "birth": "1918",
+  "death": "2020",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "mathematiques",
+  "published": "2026-10-10",
+  "summary": "Ses calculs de trajectoires ont permis aux premiers astronautes américains de partir et de revenir sans danger.",
+  "notes": [
+    "Katherine Johnson est née le 26 août 1918 à White Sulphur Springs, en Virginie-Occidentale. En 1953, elle devient « calculatrice humaine » au NACA, l'organisme qui deviendra la NASA. Son métier : faire à la main les calculs dont les ingénieurs ont besoin.",
+    "En mai 1961, elle calcule la trajectoire de Freedom 7, le premier vol habité américain, avec l'astronaute Alan Shepard. Une trajectoire, c'est le chemin exact que suit la capsule, du départ jusqu'à son retour.",
+    "En 1962, John Glenn doit faire le tour de la Terre à bord de Friendship 7. Les calculs sont faits par un ordinateur IBM, mais Glenn demande qu'« on aille chercher la fille » pour les refaire à la main. Il ne monte à bord qu'une fois les résultats vérifiés par elle.",
+    "Elle travaille à la NASA jusqu'en 1986. En 2015, le président Barack Obama lui remet la médaille présidentielle de la Liberté. Elle meurt le 24 février 2020."
+  ],
+  "actions": [
+    {
+      "date": "1953",
+      "theme": "decouverte",
+      "text": "Elle devient calculatrice humaine au NACA, l'ancêtre de la NASA."
+    },
+    {
+      "date": "1961-05",
+      "theme": "decouverte",
+      "text": "Elle calcule la trajectoire de Freedom 7, premier vol habité américain."
+    },
+    {
+      "date": "1962",
+      "theme": "decouverte",
+      "text": "À la demande de John Glenn, elle vérifie à la main les calculs de l'ordinateur pour le vol orbital Friendship 7."
+    },
+    {
+      "date": "2015",
+      "theme": "reconnaissance",
+      "text": "Barack Obama lui remet la médaille présidentielle de la Liberté."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Katherine Johnson Biography (NASA)",
+      "url": "https://www.nasa.gov/history/katherine-johnson-biography/"
+    },
+    {
+      "title": "Katherine Johnson, la mathématicienne qui a envoyé John Glenn dans l'espace (IEEE Spectrum)",
+      "url": "https://spectrum.ieee.org/katherine-johnson-the-hidden-figures-mathematician-who-got-astronaut-john-glenn-into-space"
+    }
+  ]
+}
