@@ -1,0 +1,42 @@
+{
+  "name": "Vera Rubin",
+  "birth": "1928",
+  "death": "2016",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "astronomie",
+  "published": "2026-10-12",
+  "summary": "En mesurant la rotation des galaxies, elle a révélé une masse invisible : la matière noire.",
+  "notes": [
+    "Vera Rubin naît le 23 juillet 1928 à Philadelphie. Elle obtient son doctorat à Georgetown en 1954. Elle fait ensuite toute sa carrière au Department of Terrestrial Magnetism de la Carnegie Institution, avec Kent Ford.",
+    "Sa question : à quelle vitesse tournent les étoiles d'une galaxie ? En 1970, avec Ford, elle trace sa première « courbe de rotation », celle de la galaxie d'Andromède. Une courbe de rotation montre la vitesse des étoiles selon leur distance au centre.",
+    "Dans les années 1970, elle mesure ainsi de nombreuses galaxies. Surprise : les étoiles du bord tournent aussi vite que celles du centre. La matière que l'on voit ne peut pas l'expliquer. Il faut une masse invisible en plus : la « matière noire ». D'après Jeremiah Ostriker, c'est son travail qui a convaincu la plupart des astronomes.",
+    "Elle restait pourtant prudente : « Je ne sais pas si nous avons de la matière noire, ou s'il faut changer la gravité, ou autre chose. »"
+  ],
+  "actions": [
+    {
+      "date": "1954",
+      "theme": "reconnaissance",
+      "text": "Doctorat à l'université de Georgetown."
+    },
+    {
+      "date": "1970",
+      "theme": "decouverte",
+      "text": "Avec Kent Ford, première courbe de rotation : celle de la galaxie d'Andromède. Suivent, dans les années 1970, celles de nombreuses galaxies, qui révèlent la matière noire."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vera Cooper Rubin, nécrologie (Physics Today)",
+      "url": "https://physicstoday.aip.org/obituaries/vera-cooper-rubin"
+    },
+    {
+      "title": "Vera Rubin, pioneer of dark matter (Max-Planck-Gesellschaft)",
+      "url": "https://www.mpg.de/24915532/vera-rubin-pioneer-of-dark-matter"
+    },
+    {
+      "title": "Vera Rubin, dark matter and galaxy rotation (National Geographic)",
+      "url": "https://www.nationalgeographic.com/science/article/vera-rubin-dark-matter-galaxy-rotation-nobel-science"
+    }
+  ]
+}
