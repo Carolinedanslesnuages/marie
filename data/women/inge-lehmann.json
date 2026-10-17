@@ -1,0 +1,52 @@
+{
+  "name": "Inge Lehmann",
+  "birth": "1888",
+  "death": "1993",
+  "country": "Danemark",
+  "region": "europe",
+  "field": "terre-climat",
+  "published": "2026-10-17",
+  "summary": "En écoutant les séismes, elle a découvert que la Terre a une graine solide au centre.",
+  "notes": [
+    "Née en 1888 à Copenhague. Son école traitait filles et garçons de la même façon ; elle raconte ses « déceptions » en découvrant que ce n'était pas la règle, et les « sévères restrictions » imposées aux jeunes filles en Angleterre.",
+    "Elle devient sismologue : elle étudie les ondes que les tremblements de terre envoient à travers la planète. Ses débuts sont datés différemment selon les sources : assistante de N. E. Nørlund en 1925, cheffe de la section sismique en 1928. Elle dirige le département de sismologie de l'Institut géodésique royal danois, nouvellement créé, jusqu'à sa retraite en 1953.",
+    "Sa méthode : les ondes d'un séisme ne voyagent pas pareil dans le solide et dans le liquide. Elle part des ondes d'un grand séisme de 1929 près de la Nouvelle-Zélande. En 1936, dans un article au titre minimal, « P′ », elle propose une explication : au cœur du noyau liquide de la Terre se cache une graine solide.",
+    "La même année, elle cofonde la Société danoise de géophysique. En 1954, avec Beno Gutenberg, elle étudie une zone du manteau supérieur où les ondes sismiques accélèrent. La graine n'est confirmée sans équivoque qu'en 1970. Elle meurt en 1993, à 104 ans."
+  ],
+  "actions": [
+    {
+      "date": "1936",
+      "theme": "publication",
+      "text": "Dans l'article « P′ », elle propose que la Terre ait une graine solide à l'intérieur d'un noyau liquide."
+    },
+    {
+      "date": "1936",
+      "theme": "reconnaissance",
+      "text": "Cofondatrice de la Société danoise de géophysique."
+    },
+    {
+      "date": "1953",
+      "theme": "enseignement",
+      "text": "Elle prend sa retraite de la tête du département de sismologie de l'Institut géodésique royal danois."
+    },
+    {
+      "date": "1954",
+      "theme": "decouverte",
+      "text": "Avec Beno Gutenberg, elle étudie une zone du manteau supérieur où les ondes sismiques accélèrent."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The woman who found the Earth's inner core (JSTOR Daily)",
+      "url": "https://daily.jstor.org/the-woman-who-found-the-earths-inner-core"
+    },
+    {
+      "title": "Inge Lehmann (1888–1993) (Physics Today, AIP)",
+      "url": "https://physicstoday.aip.org/news/inge-lehmann-1888-1993"
+    },
+    {
+      "title": "This month in physics history : Inge Lehmann (APS News)",
+      "url": "https://aps.org/publications/apsnews/202309/history.cfm"
+    }
+  ]
+}
