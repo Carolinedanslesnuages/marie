@@ -1,0 +1,53 @@
+{
+  "name": "Marguerite Perey",
+  "birth": "1909",
+  "death": "1975",
+  "country": "France",
+  "region": "europe",
+  "field": "chimie",
+  "published": "2026-10-23",
+  "summary": "Elle a découvert le francium, le dernier élément découvert dans la nature.",
+  "notes": [
+    "Née le 19 octobre 1909. En 1929, elle sort diplômée d'une école de techniciens de laboratoire et Marie Curie l'embauche.",
+    "Elle remarque une anomalie dans l'actinium, un élément radioactif. Elle établit qu'elle vient d'un autre élément, encore inconnu, le numéro 87. Elle l'appelle francium. C'est le dernier élément découvert dans la nature : tous ceux trouvés après ont été fabriqués en laboratoire.",
+    "Les dates varient un peu : le Science Museum donne le 7 janvier 1939 ; la Linda Hall Library parle d'une identification fin 1938 et d'une annonce en janvier 1939. L'année où le nom « francium » a été adopté n'est pas confirmée.",
+    "Obstacle : simple assistante, sans diplôme universitaire, elle ne peut pas présenter elle-même sa découverte. Selon les extraits consultés, c'est Jean Perrin qui la présente à l'Académie des sciences. Horia Hulubei revendique en plus un élément concurrent.",
+    "Elle obtient ensuite un doctorat de l'Université de Paris grâce au francium, puis devient professeure de chimie nucléaire à Strasbourg. En 1962, elle est la première femme élue à l'Académie des sciences, comme membre correspondante. Un cancer des os l'empêche de travailler après 1960."
+  ],
+  "actions": [
+    {
+      "date": "1929",
+      "theme": "enseignement",
+      "text": "Diplômée d'une école de techniciens de laboratoire, elle est embauchée par Marie Curie."
+    },
+    {
+      "date": "1939-01",
+      "theme": "decouverte",
+      "text": "Elle établit qu'une anomalie de l'actinium vient d'un nouvel élément, le numéro 87 : le francium."
+    },
+    {
+      "date": "1939",
+      "theme": "obstacle",
+      "text": "Simple assistante sans diplôme universitaire, elle ne peut pas présenter elle-même sa découverte : un autre lit le texte."
+    },
+    {
+      "date": "1962",
+      "theme": "reconnaissance",
+      "text": "Première femme élue à l'Académie des sciences, comme membre correspondante."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marguerite Perey, Scientist of the Day (Linda Hall Library)",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/marguerite-perey/"
+    },
+    {
+      "title": "Marguerite Perey and francium (Science Museum)",
+      "url": "https://blog.sciencemuseum.org.uk/marguerite-perey-and-francium"
+    },
+    {
+      "title": "Marguerite Perey and the last element in nature (Chemistry World)",
+      "url": "https://chemistryworld.com/culture/marguerite-perey-and-the-last-element-in-nature/4012198.article"
+    }
+  ]
+}
