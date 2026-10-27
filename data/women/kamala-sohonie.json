@@ -1,0 +1,53 @@
+{
+  "name": "Kamala Sohonie",
+  "birth": "1911 ou 1912",
+  "death": "1998",
+  "country": "Inde",
+  "region": "asie",
+  "field": "chimie",
+  "published": "2026-10-27",
+  "summary": "Première Indienne docteure en sciences, elle a trouvé le cytochrome c dans les plantes.",
+  "notes": [
+    "Naissance discutée : le 18 juin 1911 dans la plupart des sources, le 14 septembre 1912 selon Feminism in India. En 1933, elle sort diplômée à Bombay avec les meilleures notes en physique et en chimie.",
+    "Obstacle : l'Indian Institute of Science refuse sa candidature. C. V. Raman lui répond qu'« il n'y a pas de disposition » pour admettre des femmes. Il finit par l'accepter, à deux conditions : un an de probation, et ne pas « distraire » ses collègues masculins.",
+    "1935 : premier article, sur l'azote non protéique des légumineuses (« Non-Protein Nitrogen of Pulses »). Le 18 décembre 1937, elle entre au laboratoire de Frederick Gowland Hopkins à Cambridge. Elle y trouve, dans les tissus végétaux (dans la pomme de terre), le cytochrome c, une enzyme qui sert à la respiration des cellules. Sa thèse, en 1939, est le premier doctorat scientifique d'une Indienne.",
+    "Elle étudie aussi la valeur nutritive de la neera, une sève de palmier, à la demande du président Rajendra Prasad ; ce travail lui vaut le Rashtrapati Award. En 1964, elle devient la première femme directrice de la recherche au Royal Institute of Science de Bombay. Elle meurt en 1998, après s'être effondrée pendant une cérémonie en son honneur."
+  ],
+  "actions": [
+    {
+      "date": "1933",
+      "theme": "obstacle",
+      "text": "Malgré les meilleures notes, sa candidature à l'Indian Institute of Science est refusée ; C. V. Raman l'accepte ensuite sous conditions."
+    },
+    {
+      "date": "1935",
+      "theme": "publication",
+      "text": "Premier article, « Non-Protein Nitrogen of Pulses »."
+    },
+    {
+      "date": "1937-12-18",
+      "theme": "enseignement",
+      "text": "Elle entre au laboratoire de Frederick Gowland Hopkins à Cambridge."
+    },
+    {
+      "date": "1939",
+      "theme": "decouverte",
+      "text": "Thèse sur le cytochrome c trouvé dans les tissus végétaux : premier doctorat scientifique d'une Indienne."
+    },
+    {
+      "date": "1964",
+      "theme": "reconnaissance",
+      "text": "Première femme directrice de la recherche au Royal Institute of Science de Bombay."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kamala Sohonie, the biochemist who wanted to feed a nation (Scientific American)",
+      "url": "https://www.scientificamerican.com/article/kamala-sohonie-the-biochemist-who-wanted-to-feed-a-nation/"
+    },
+    {
+      "title": "Kamala Sohonie, 150 years of pathfinders and pioneers (Newnham College, Cambridge)",
+      "url": "https://150.newn.cam.ac.uk/celebrating150/150-years-of-pathfinders-pioneers/kamala-sohonie/"
+    }
+  ]
+}
