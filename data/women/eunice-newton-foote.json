@@ -1,0 +1,47 @@
+{
+  "name": "Eunice Newton Foote",
+  "birth": "1819",
+  "death": "1888",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "terre-climat",
+  "published": "2026-10-28",
+  "summary": "Elle a montré la première que le CO2 retient la chaleur du soleil et pourrait réchauffer la Terre.",
+  "notes": [
+    "Née le 17 juillet 1819 à Goshen (Connecticut) ; une page généalogique donne le 15 juillet. En 1848, elle signe la Déclaration des sentiments de Seneca Falls.",
+    "Son expérience est simple. Elle remplit des cylindres de verre avec des gaz différents, les pose au soleil et compare les thermomètres. Le « gaz acide carbonique », c'est-à-dire le CO2, chauffe le plus : jusqu'à environ 125 °F (52 °C). Elle en tire une conclusion audacieuse : une atmosphère riche en CO2 réchaufferait la Terre.",
+    "Le 23 août 1856, à la réunion de l'AAAS à Albany, ce n'est pas elle mais Joseph Henry qui lit son article. Pourquoi ? Les sources divergent : selon Public Domain Review, parce qu'elle était une femme ; selon Physics Today, la raison reste incertaine ; le Smithsonian rappelle que l'AAAS admettait des femmes comme membres.",
+    "En septembre 1856, l'article paraît dans The American Journal of Science and Arts, mais l'AAAS ne le reprend pas dans ses comptes rendus. Son résultat précède d'environ trois ans les travaux de John Tyndall (1859), à qui l'on attribue d'habitude la découverte. Elle meurt le 30 septembre 1888 à Lenox (Massachusetts)."
+  ],
+  "actions": [
+    {
+      "date": "1848",
+      "theme": "reconnaissance",
+      "text": "Elle signe la Déclaration des sentiments de Seneca Falls."
+    },
+    {
+      "date": "1856-08-23",
+      "theme": "decouverte",
+      "text": "À la réunion de l'AAAS, Joseph Henry lit à sa place son article : le CO2 au soleil chauffe le plus et pourrait réchauffer la Terre."
+    },
+    {
+      "date": "1856-09",
+      "theme": "publication",
+      "text": "Publication dans The American Journal of Science and Arts ; l'AAAS ne la reprend pas dans ses comptes rendus."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Eunice Newton Foote's nearly forgotten discovery (Physics Today, AIP)",
+      "url": "https://physicstoday.aip.org/news/eunice-newton-footes-nearly-forgotten-discovery"
+    },
+    {
+      "title": "First paper to link CO2 and global warming, by Eunice Foote (Public Domain Review)",
+      "url": "https://publicdomainreview.org/collection/first-paper-to-link-co2-and-global-warming-by-eunice-foote-1856/"
+    },
+    {
+      "title": "This lady scientist helped revolutionize climate science but didn't get credit (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/science-nature/lady-scientist-helped-revolutionize-climate-science-didnt-get-credit-180961291/"
+    }
+  ]
+}
