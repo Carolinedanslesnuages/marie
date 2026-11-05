@@ -1,0 +1,53 @@
+{
+  "name": "Raman Parimala",
+  "birth": "1948",
+  "death": "",
+  "country": "Inde",
+  "region": "asie",
+  "field": "mathematiques",
+  "published": "2026-11-05",
+  "summary": "Elle a construit un objet algébrique que les spécialistes croyaient impossible et résolu plusieurs questions posées par Serre.",
+  "notes": [
+    "Raman Parimala est née le 21 novembre 1948 et a grandi au Tamil Nadu, en Inde. Elle obtient un master à l'université de Madras en 1970, puis un doctorat à l'université de Bombay en 1976. Elle travaille en algèbre, sur les « formes quadratiques », des expressions où les nombres apparaissent au carré.",
+    "Elle se fait connaître en construisant un contre-exemple, c'est-à-dire un cas qui montre qu'une idée attendue est fausse. Elle fabrique le premier exemple d'un objet que les spécialistes croyaient impossible : un « espace quadratique non trivial sur le plan affine ». Cela répond à une question liée à une conjecture du mathématicien Serre.",
+    "Avec Eva Bayer-Fluckiger, elle résout ensuite la « seconde conjecture de Serre », énoncée en 1962, dans un cadre précis. Avec Suresh, elle montre qu'une mesure appelée « u-invariant » vaut au plus 10 pour une famille précise d'objets algébriques (les corps de fonctions de courbes p-adiques), près de la valeur 8 que l'on pensait juste.",
+    "Ses travaux sont largement salués : prix Bhatnagar en 1987, invitation au Congrès international des mathématiciens de Zurich en 1994, conférence plénière à Hyderabad en 2010. En 2005, elle est la première femme à recevoir le prix TWAS en mathématiques ou en physique. En 2023, la London Mathematical Society en fait un membre honoraire."
+  ],
+  "actions": [
+    {
+      "date": "1987",
+      "theme": "reconnaissance",
+      "text": "Prix Bhatnagar."
+    },
+    {
+      "date": "1994",
+      "theme": "reconnaissance",
+      "text": "Conférencière invitée au Congrès international des mathématiciens de Zurich."
+    },
+    {
+      "date": "2005",
+      "theme": "reconnaissance",
+      "text": "Prix TWAS, première femme lauréate en mathématiques ou en physique."
+    },
+    {
+      "date": "2010",
+      "theme": "reconnaissance",
+      "text": "Conférencière plénière au Congrès international des mathématiciens à Hyderabad."
+    },
+    {
+      "date": "2023",
+      "theme": "reconnaissance",
+      "text": "Membre honoraire de la London Mathematical Society."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Raman Parimala (Agnes Scott College)",
+      "url": "https://mathwomen.agnesscott.org/women/parimala.htm"
+    },
+    {
+      "title": "Raman Parimala élue membre honoraire de la London Mathematical Society (Université Emory)",
+      "url": "https://mathematics.emory.edu/news-events/articles/dr-raman-parimala-elected-to-honorary-membership-of-the-london-mathematical-society.html"
+    }
+  ]
+}
