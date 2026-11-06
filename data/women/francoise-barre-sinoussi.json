@@ -1,0 +1,52 @@
+{
+  "name": "Françoise Barré-Sinoussi",
+  "birth": "1947",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-11-06",
+  "summary": "Elle a identifié, avec Luc Montagnier, le VIH, le virus qui cause le sida.",
+  "notes": [
+    "Françoise Barré-Sinoussi naît le 30 juillet 1947 à Paris. Elle est virologue : elle étudie les virus, ces agents minuscules qui ne peuvent se multiplier qu'à l'intérieur de nos cellules. Elle obtient son doctorat en 1974.",
+    "En 1983, elle travaille avec Luc Montagnier. Ils examinent des patients dont les ganglions sont gonflés, signe que le corps se défend contre quelque chose. Ils y trouvent un virus inconnu, un « rétrovirus » : un virus qui recopie ses gènes dans ceux de la cellule qu'il infecte. Ce virus, c'est le VIH. C'est lui qui cause le sida.",
+    "Pourquoi c'est capital : tant qu'on ne connaît pas la cause d'une maladie, on ne peut ni la dépister ni la soigner. Une fois le virus identifié, on peut le chercher dans le sang et chercher des médicaments contre lui.",
+    "En 2008, elle reçoit le prix Nobel de physiologie ou médecine avec Montagnier, pour la découverte du VIH. Elle ne s'arrête pas au laboratoire : de 2012 à 2014, elle préside l'International AIDS Society et se bat pour que les malades aient accès aux traitements. Depuis novembre 2017, elle préside Sidaction."
+  ],
+  "actions": [
+    {
+      "date": "1983",
+      "theme": "decouverte",
+      "text": "Avec Luc Montagnier, elle identifie un nouveau rétrovirus chez des patients aux ganglions gonflés : le VIH, cause du sida."
+    },
+    {
+      "date": "2008",
+      "theme": "reconnaissance",
+      "text": "Prix Nobel de physiologie ou médecine pour la découverte du VIH, partagé avec Luc Montagnier."
+    },
+    {
+      "date": "2012",
+      "theme": "reconnaissance",
+      "text": "Elle devient présidente de l'International AIDS Society, jusqu'en 2014, et milite pour l'accès aux traitements."
+    },
+    {
+      "date": "2017-11",
+      "theme": "reconnaissance",
+      "text": "Elle prend la présidence de Sidaction."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Françoise Barré-Sinoussi, faits (Prix Nobel)",
+      "url": "https://www.nobelprize.org/prizes/medicine/2008/barre-sinoussi/facts/"
+    },
+    {
+      "title": "Il y a dix ans, Françoise Barré-Sinoussi et Luc Montagnier recevaient le prix Nobel (Institut Pasteur)",
+      "url": "https://www.pasteur.fr/en/research-journal/news/ten-years-ago-francoise-barre-sinoussi-and-luc-montagnier-won-nobel-prize-medicine"
+    },
+    {
+      "title": "Françoise Barré-Sinoussi, Women who changed science (Prix Nobel)",
+      "url": "https://www.nobelprize.org/stories/women-who-changed-science/francoise-barre-sinoussi/"
+    }
+  ]
+}
