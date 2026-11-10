@@ -1,0 +1,47 @@
+{
+  "name": "Ada Lovelace",
+  "birth": "1815",
+  "death": "1852",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "informatique",
+  "published": "2026-11-10",
+  "summary": "Elle a décrit, dès 1843, ce que pourrait faire un ordinateur et publié ce qu'on considère souvent comme le premier programme.",
+  "notes": [
+    "Augusta Ada King, comtesse de Lovelace, est née à Londres en 1815. C'est la fille du poète Lord Byron. En 1833, à 17 ans, elle rencontre Charles Babbage, l'inventeur d'une machine à calculer, la « machine à différences ».",
+    "Babbage imagine ensuite une machine plus ambitieuse, la « machine analytique ». Menabrea la décrit dans un article en français paru en 1842. En 1843, Ada Lovelace le traduit en anglais et y ajoute ses propres notes, bien plus longues que l'article lui-même. Le texte paraît en août 1843.",
+    "Dans la « Note G », elle explique pas à pas comment la machine calculerait les nombres de Bernoulli, une suite de nombres utile en mathématiques. On la considère souvent comme le premier programme informatique publié. Dans la « Note A », elle va plus loin : la machine pourrait manipuler autre chose que des nombres, et même composer de la musique. C'est déjà l'idée de nos ordinateurs, qui traitent toutes sortes de symboles.",
+    "Sa place fait débat. Des historiens estiment que des programmes non publiés de Babbage étaient plus anciens, et que la Note G ressemble plutôt à la « trace » d'un calcul qu'à un programme au sens moderne. Selon le site Two-Bit History, le fait qu'elle soit une femme rend ce débat particulièrement chargé."
+  ],
+  "actions": [
+    {
+      "date": "1833",
+      "theme": "decouverte",
+      "text": "À 17 ans, elle rencontre Charles Babbage, l'inventeur de la machine à différences."
+    },
+    {
+      "date": "1843-08",
+      "theme": "publication",
+      "text": "Parution de sa traduction de l'article de Menabrea sur la machine analytique, suivie de ses longues notes."
+    },
+    {
+      "date": "1843-08",
+      "theme": "invention",
+      "text": "La Note G décrit le calcul des nombres de Bernoulli par la machine, souvent considéré comme le premier programme publié."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ada Lovelace (Britannica)",
+      "url": "https://britannica.com/biography/Ada-Lovelace"
+    },
+    {
+      "title": "What Did Ada Lovelace's Program Actually Do? (Two-Bit History)",
+      "url": "https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html"
+    },
+    {
+      "title": "Ada Lovelace and the Analytical Engine (Bodleian Libraries)",
+      "url": "https://blogs.bodleian.ox.ac.uk/adalovelace/2018/07/26/ada-lovelace-and-the-analytical-engine/"
+    }
+  ]
+}
