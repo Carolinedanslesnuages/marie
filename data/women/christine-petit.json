@@ -1,0 +1,47 @@
+{
+  "name": "Christine Petit",
+  "birth": "1948",
+  "death": "",
+  "country": "France",
+  "region": "europe",
+  "field": "medecine",
+  "published": "2026-11-11",
+  "summary": "Elle a identifié une vingtaine de gènes responsables de surdités héréditaires.",
+  "notes": [
+    "Christine Petit naît en 1948 à Laignes, en Bourgogne. Elle devient docteure en médecine en 1974, puis docteure ès sciences en 1982. Elle commence par la génétique des bactéries, chez François Jacob, à l'Institut Pasteur.",
+    "Sa question : pourquoi certains enfants naissent-ils sourds ? Une partie des surdités est héréditaire, transmise par les gènes des parents. Au début des années 1990, elle lève les obstacles techniques qui empêchaient d'étudier ces surdités par la génétique. En 1993, elle fonde son propre laboratoire à l'Institut Pasteur.",
+    "Elle identifie une vingtaine de gènes de la surdité. Concrètement, cela permet de mieux diagnostiquer la surdité d'un enfant : savoir quel gène est en cause, c'est comprendre d'où vient le problème.",
+    "En 2002, elle devient professeure au Collège de France, à la chaire de génétique et physiologie cellulaire. Elle a ensuite dirigé l'Institut de l'audition. En 2018, elle reçoit le prix Kavli de neurosciences."
+  ],
+  "actions": [
+    {
+      "date": "1993",
+      "theme": "decouverte",
+      "text": "Elle fonde son laboratoire à l'Institut Pasteur, où elle identifiera une vingtaine de gènes de la surdité."
+    },
+    {
+      "date": "2002",
+      "theme": "enseignement",
+      "text": "Elle devient professeure au Collège de France, chaire de génétique et physiologie cellulaire."
+    },
+    {
+      "date": "2018",
+      "theme": "reconnaissance",
+      "text": "Prix Kavli de neurosciences."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Christine Petit : ses découvertes sur les surdités précoces (Institut Pasteur)",
+      "url": "https://www.pasteur.fr/fr/journal-recherche/actualites/christine-petit-ses-decouvertes-surdites-precoces"
+    },
+    {
+      "title": "Christine Petit, biographie (Collège de France)",
+      "url": "https://www.college-de-france.fr/fr/chaire/christine-petit-genetique-et-physiologie-cellulaire-chaire-statutaire/biography"
+    },
+    {
+      "title": "Christine Petit (Kavli Prize)",
+      "url": "https://www.kavliprize.org/bio/christine-petit"
+    }
+  ]
+}
