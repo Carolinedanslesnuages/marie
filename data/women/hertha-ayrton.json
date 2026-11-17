@@ -1,0 +1,53 @@
+{
+  "name": "Hertha Ayrton",
+  "birth": "1854",
+  "death": "1923",
+  "country": "Royaume-Uni",
+  "region": "europe",
+  "field": "ingenierie",
+  "published": "2026-11-17",
+  "summary": "Physicienne et ingénieure, elle a expliqué le sifflement des lampes à arc électrique.",
+  "notes": [
+    "Hertha Ayrton s'appelle d'abord Phoebe Sarah Marks. Elle naît le 28 avril 1854. En 1873, elle entre au Girton College de Cambridge et passe l'examen final.",
+    "En mars 1899, elle est la première femme à présenter un exposé à l'Institution of Electrical Engineers. Deux jours plus tard, elle en devient membre.",
+    "Elle étudie l'arc électrique, cette étincelle continue qui éclaire les lampes à arc. Ces lampes sifflent. Elle montre que le sifflement disparaît si l'air n'atteint pas l'arc. Son livre The Electric Arc, en 1902, devient l'ouvrage de référence.",
+    "Mais devant la Royal Society, c'est John Perry qui lit son article à sa place. En 1902, elle est proposée comme membre : le conseil décide que les femmes mariées ne peuvent pas l'être. En 1906, la même société lui remet pourtant la médaille Hughes. Elle est la première femme récompensée.",
+    "Pendant la Première Guerre mondiale, elle invente l'« Ayrton Flapper Fan », un éventail qui chasse les gaz toxiques des tranchées. Elle meurt le 23 août 1923."
+  ],
+  "actions": [
+    {
+      "date": "1899-03",
+      "theme": "reconnaissance",
+      "text": "Première femme à présenter un exposé à l'Institution of Electrical Engineers, elle en devient membre deux jours plus tard."
+    },
+    {
+      "date": "1902",
+      "theme": "publication",
+      "text": "Elle publie The Electric Arc, qui devient l'ouvrage de référence sur l'arc électrique."
+    },
+    {
+      "date": "1902",
+      "theme": "obstacle",
+      "text": "Proposée comme membre de la Royal Society, elle est écartée : le conseil décide que les femmes mariées ne peuvent pas l'être."
+    },
+    {
+      "date": "1906",
+      "theme": "reconnaissance",
+      "text": "La Royal Society lui remet la médaille Hughes. C'est la première femme récompensée par cette société."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Almost a Fellow (Royal Society)",
+      "url": "https://royalsociety.org/blog/2012/03/almost-a-fellow/"
+    },
+    {
+      "title": "Hertha Ayrton (IET Archives)",
+      "url": "https://www.theiet.org/resources/library/archives/biographies/ayrtonh.cfm"
+    },
+    {
+      "title": "Hertha Ayrton (MacTutor, Université de St Andrews)",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ayrton/"
+    }
+  ]
+}
