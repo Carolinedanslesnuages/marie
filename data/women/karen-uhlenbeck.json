@@ -1,0 +1,52 @@
+{
+  "name": "Karen Uhlenbeck",
+  "birth": "1942",
+  "death": "",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "mathematiques",
+  "published": "2026-11-19",
+  "summary": "Elle a relié l'analyse, la géométrie et la physique théorique, et a été la première femme lauréate du prix Abel.",
+  "notes": [
+    "Karen Uhlenbeck est née le 24 août 1942 à Cleveland, dans l'Ohio. Elle obtient sa licence à l'université du Michigan en 1964, puis son doctorat à l'université Brandeis en 1968.",
+    "Elle étudie des équations qui décrivent des formes et leurs changements. Ses travaux relient trois domaines : l'analyse (l'étude de ce qui varie), la géométrie (l'étude des formes) et la physique théorique. Par exemple, elle s'intéresse aux surfaces minimales, comme celles des bulles de savon, qui prennent la forme la plus économe possible.",
+    "En 1990, elle est la deuxième femme à donner une conférence plénière au Congrès international des mathématiciens. La première était Emmy Noether, en 1932 : 58 ans d'écart.",
+    "Le 19 mars 2019, elle devient la première femme lauréate du prix Abel, l'une des plus hautes récompenses en mathématiques. Le prix salue ses travaux pionniers en équations aux dérivées partielles géométriques, en théorie de jauge et en systèmes intégrables. Il lui est remis à Oslo le 21 mai 2019."
+  ],
+  "actions": [
+    {
+      "date": "1968",
+      "theme": "enseignement",
+      "text": "Doctorat à l'université Brandeis."
+    },
+    {
+      "date": "1990",
+      "theme": "reconnaissance",
+      "text": "Deuxième femme conférencière plénière au Congrès international des mathématiciens, après Emmy Noether en 1932."
+    },
+    {
+      "date": "2019-03-19",
+      "theme": "reconnaissance",
+      "text": "Première femme lauréate du prix Abel."
+    },
+    {
+      "date": "2019-05-21",
+      "theme": "reconnaissance",
+      "text": "Le prix Abel lui est remis à Oslo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Karen Uhlenbeck reçoit le prix Abel 2019 (Institute for Advanced Study)",
+      "url": "https://www.ias.edu/press-releases/2019/abel"
+    },
+    {
+      "title": "Une mathématicienne américaine, première femme lauréate du prix Abel (NPR)",
+      "url": "https://www.npr.org/2019/03/19/704841252/u-s-mathematician-becomes-first-woman-to-win-abel-prize-math-s-nobel"
+    },
+    {
+      "title": "Karen Uhlenbeck, première femme lauréate du prix Abel (Loyola University Chicago)",
+      "url": "https://www.luc.edu/math/stories/ay18-19/archive/karenuhlenbeckisfirstwomantowinabelprizeformathematics.shtml"
+    }
+  ]
+}
