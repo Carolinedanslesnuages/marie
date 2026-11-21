@@ -1,0 +1,43 @@
+{
+  "name": "Margaret E. Knight",
+  "birth": "1838",
+  "death": "1914",
+  "country": "États-Unis",
+  "region": "ameriques",
+  "field": "ingenierie",
+  "published": "2026-11-21",
+  "summary": "Inventrice de la machine qui fabrique les sacs en papier à fond plat.",
+  "notes": [
+    "Margaret Knight naît le 14 février 1838 à York, dans le Maine. Une tradition raconte que, vers 12 ans, elle invente un dispositif de sécurité pour les machines d'une filature de coton. Elle n'en tire rien. Aucun brevet ne le confirme : c'est un récit, pas un fait prouvé.",
+    "En 1868, elle conçoit une machine qui plie et colle des sacs en papier à fond plat. Ce sont les sacs que l'on connaît encore.",
+    "Mais Charles Annan copie ses plans dans l'atelier qui construit son prototype. Il dépose un brevet avant elle. Devant les juges, il affirme qu'une machine aussi complexe ne peut pas avoir été conçue par une femme. Elle gagne grâce à ses dessins et à des témoins.",
+    "Le 11 juillet 1871, elle obtient le brevet américain n° 116 842. Ensuite, elle dépose plus de 25 brevets : machines pour fabriquer des chaussures, fermoir, châssis de fenêtre. Elle meurt en 1914."
+  ],
+  "actions": [
+    {
+      "date": "1868",
+      "theme": "invention",
+      "text": "Elle conçoit une machine qui plie et colle des sacs en papier à fond plat."
+    },
+    {
+      "date": "1870",
+      "theme": "obstacle",
+      "text": "Charles Annan copie ses plans et dépose un brevet avant elle, en disant qu'une femme ne peut pas avoir conçu cette machine. Elle gagne grâce à ses dessins et à des témoins."
+    },
+    {
+      "date": "1871-07-11",
+      "theme": "invention",
+      "text": "Elle obtient le brevet américain n° 116 842 pour sa machine à sacs en papier."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Margaret Knight (Lemelson Center, MIT)",
+      "url": "https://lemelson.mit.edu/resources/margaret-knight"
+    },
+    {
+      "title": "Meet the Female Inventor Behind Mass-Market Paper Bags (Smithsonian Magazine)",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/meet-female-inventor-behind-mass-market-paper-bags-180968469/"
+    }
+  ]
+}
